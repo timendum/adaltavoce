@@ -1,0 +1,55 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lida Mantovani </title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Lida-Mantovani--7681a83b-e68c-4ed3-ad9c-d99f034c358e.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613466878_Lida-Mantovani.jpg</url>
+            <title>Lida Mantovani </title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Lida-Mantovani--7681a83b-e68c-4ed3-ad9c-d99f034c358e.html</link>
+        </image>
+        <description>di Giorgio Bassani letto da Valentina Carnelutti</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:15:40 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Giorgio Bassani letto da Valentina Carnelutti</itunes:summary>
+        <itunes:subtitle>di Giorgio Bassani letto da Valentina Carnelutti</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613466878_Lida-Mantovani.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:15:40 -0000</pubDate>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 14/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-14032016-3c16ae74-3de9-4db8-8515-27458467816b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 15/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-15032016-dc1f7ec8-5651-4dbf-9e5b-a9dbe3d6eeee.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 16/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-16032016-38960ae6-cda1-4b8a-89c9-cf3ea83ed05f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 17/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-17032016-f8451b2a-448a-47d0-a3f0-ed883b580f62.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G05Hmb2Z1SEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G05Hmb2Z1SEeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 18/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-18032016-5c9d8cf6-47b2-41c9-ba81-2c1b909a4385.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

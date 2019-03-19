@@ -1,0 +1,55 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Il visconte dimezzato </title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Il-visconte-dimezzato---b76a9504-f306-4bbb-90d4-0365286d823c.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541611573562_Il%20visconte%20dimezzato.jpg</url>
+            <title>Il visconte dimezzato </title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Il-visconte-dimezzato---b76a9504-f306-4bbb-90d4-0365286d823c.html</link>
+        </image>
+        <description>di Italo Calvino letto da Manuela Mandracchia</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:15:23 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Italo Calvino letto da Manuela Mandracchia</itunes:summary>
+        <itunes:subtitle>di Italo Calvino letto da Manuela Mandracchia</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541611573562_Il%20visconte%20dimezzato.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:15:23 -0000</pubDate>
+            <item>
+                <title>Il visconte dimezzato - Lettura I</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Il-visconte-dimezzato---Lettura-I-d2d2bb4c-c8f3-472a-8a04-7046d6eef42f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eci69Dhpl3seeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eci69Dhpl3seeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il visconte dimezzato - Lettura II</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Il-visconte-dimezzato---Lettura-II-247438ec-fb96-42c4-8b83-236a8b6c0523.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VkoJ38NABtYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VkoJ38NABtYeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il visconte dimezzato - Lettura III</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Il-visconte-dimezzato---Lettura-III-6ccfe50d-95f4-4dc6-a8f6-7b7ec9b6ef54.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XZJAHGFGxM8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XZJAHGFGxM8eeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il visconte dimezzato - Lettura IV</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Il-visconte-dimezzato---Lettura-IV-2385b98b-23ef-45a7-b775-9a00cd003739.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aS2Olbms3UAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aS2Olbms3UAeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il visconte dimezzato - Lettura V</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Il-visconte-dimezzato---Lettura-V-09d3bbfc-c4d9-4b10-977f-9baf7d4f90e6.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ITICIssSlashKIfpPpPlussoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ITICIssSlashKIfpPpPlussoeeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

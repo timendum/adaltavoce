@@ -1,0 +1,55 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I racconti di Anton Cechov</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Anton-Cechov-bbf7b705-8b95-4c72-9d3c-cc95f7fb0bcc.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612550384_I-racconti-di-Anton-Cechov.jpg</url>
+            <title>I racconti di Anton Cechov</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Anton-Cechov-bbf7b705-8b95-4c72-9d3c-cc95f7fb0bcc.html</link>
+        </image>
+        <description>Versione integrale</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:14:57 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Versione integrale</itunes:summary>
+        <itunes:subtitle>Versione integrale</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612550384_I-racconti-di-Anton-Cechov.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:14:57 -0000</pubDate>
+            <item>
+                <title>Il violino di Rothshild</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/IL-VIOLINO-DI-ROTHSHILD---Ad-Alta-Voce-del-31082015-6731dc7f-7f36-404e-91a8-9e8beb12f35b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il viaggiatore di prima classe</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/IL-VIAGGIATORE-DI-PRIMA-CLASSE----Ad-Alta-Voce-del-01092015-ed1eeab0-2ff6-49ab-a730-a326baf4c099.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>La scommessa</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/LA-SCOMMESSA---Ad-Alta-Voce-del-02092015-1864d7f5-9e35-4b43-ac45-b47be23e0178.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Dušečka</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/DUSECKA---Ad-Alta-Voce-del-03092015-48b72c88-4fb0-4c0a-93f9-58ee862b02b5.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lJ9csECOlBseeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lJ9csECOlBseeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Grisha e il racconto del giardiniere capo</title>
+                <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

@@ -1,0 +1,27 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ultimo viene il corvo</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Ultimo-viene-il-corvo-349aecca-6944-46b2-88e5-714236f3b834.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446853796_ultimovieneilcorvo.jpg</url>
+            <title>Ultimo viene il corvo</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Ultimo-viene-il-corvo-349aecca-6944-46b2-88e5-714236f3b834.html</link>
+        </image>
+        <description>di Italo Calvino letto da Anna Bonaiuto</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:15:55 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Italo Calvino letto da Anna Bonaiuto</itunes:summary>
+        <itunes:subtitle>di Italo Calvino letto da Anna Bonaiuto</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446853796_ultimovieneilcorvo.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:15:55 -0000</pubDate>
+            <item>
+                <title>Ultimo viene il corvo - Ad Alta Voce del 18/03/2015</title>
+                <link>https://www.raiplayradio.it/audio/2015/03/Ultimo-viene-il-corvo---Ad-Alta-Voce-del-18032015-d1b6218f-b418-4368-9321-7fb461449d00.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pCpzQ95lIOceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pCpzQ95lIOceeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

@@ -1,0 +1,55 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Prospettiva Nevskij</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Prospettiva-Nevskij-60e1a614-0ef5-44c7-a9a8-572d1e130875.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446751192_prospettivanevskij.jpg</url>
+            <title>Prospettiva Nevskij</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Prospettiva-Nevskij-60e1a614-0ef5-44c7-a9a8-572d1e130875.html</link>
+        </image>
+        <description>Versione integrale</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:15:49 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Versione integrale</itunes:summary>
+        <itunes:subtitle>Versione integrale</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446751192_prospettivanevskij.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:15:49 -0000</pubDate>
+            <item>
+                <title>Prospettiva Nevskij - 1</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-76dae6b8-7e19-4a79-b04c-72b6e78fa359.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=97uOLpPpPlussTEDSQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=97uOLpPpPlussTEDSQeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Prospettiva Nevskij - 2</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-af30d89d-8037-4c81-8d3a-5154797d723f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zeUpPpPlussjpPpPlussSssSlashh9oeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zeUpPpPlussjpPpPlussSssSlashh9oeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Prospettiva Nevskij - 3</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-50528c4c-c4ba-4145-b686-0bd305b8b1d6.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uujYUkKG68AeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uujYUkKG68AeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Prospettiva Nevskij - 4</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-1e049cc0-143b-4d51-a5f2-510ade076d61.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XGrLxNyBBt0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XGrLxNyBBt0eeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Prospettiva Nevskij - 5</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-963ba1ef-b510-40e3-aa2b-7bb3695e0526.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nOM2yTTdbXMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nOM2yTTdbXMeeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

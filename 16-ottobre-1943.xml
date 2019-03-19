@@ -1,0 +1,41 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>16 ottobre 1943</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/16-Ottobre-1943-5323035b-b104-4a1d-a15c-4acf0d6345db.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541609578010_16-ottobre-1943.jpg</url>
+            <title>16 ottobre 1943</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/16-Ottobre-1943-5323035b-b104-4a1d-a15c-4acf0d6345db.html</link>
+        </image>
+        <description>di Giacomo Debenedetti letto da Moni Ovadia</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:14:32 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Giacomo Debenedetti letto da Moni Ovadia</itunes:summary>
+        <itunes:subtitle>di Giacomo Debenedetti letto da Moni Ovadia</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541609578010_16-ottobre-1943.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:14:32 -0000</pubDate>
+            <item>
+                <title>#1 - 16 ottobre 1943 - Lettura I</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/16-Ottobre-1943---Lettura-I-96d222a0-0914-438b-a781-884357de2fbf.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=r6wcvhb3YtAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=r6wcvhb3YtAeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>#2 - 16 ottobre 1943 - Lettura II</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/16-Ottobre-1943---Lettura-II-b1687db3-d86b-445a-a7a7-48a4adc212ee.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4tX5lC8vHssSlash0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4tX5lC8vHssSlash0eeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>#3 - 16 ottobre 1943 - Lettura III</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/16-Ottobre-1943---Lettura-III-561ee08e-8b88-4d2b-9793-8c76d79b3637.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash0EyWCw72y4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash0EyWCw72y4eeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

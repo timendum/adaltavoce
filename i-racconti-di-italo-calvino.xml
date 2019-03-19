@@ -1,0 +1,55 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I racconti di Italo Calvino </title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Italo-Calvino--e654186c-2dd0-454c-98e5-b2bed27e3548.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612573042_I-racconti-di-Italo-Calvino.jpg</url>
+            <title>I racconti di Italo Calvino </title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Italo-Calvino--e654186c-2dd0-454c-98e5-b2bed27e3548.html</link>
+        </image>
+        <description>di Italo Calvino letto da Manuela Mandracchia</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:14:58 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Italo Calvino letto da Manuela Mandracchia</itunes:summary>
+        <itunes:subtitle>di Italo Calvino letto da Manuela Mandracchia</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612573042_I-racconti-di-Italo-Calvino.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:14:58 -0000</pubDate>
+            <item>
+                <title>L&#x27;avventura di una bagnante</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Italo-Calvino---Lettura-I-35cd811a-a109-4b9d-83f0-a11aad68e35a.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fweEsZCpPpPlussvpPpPlussEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fweEsZCpPpPlussvpPpPlussEeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>L&#x27;avventura di due sposi</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Italo-Calvino---Lettura-II-2655e783-e438-4682-8fcb-a365661ff9f3.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SZ9wAlT5CyweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SZ9wAlT5CyweeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>L&#x27;avventura di un soldato</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Italo-Calvino---Lettura-III-4ce1f0f1-6960-4317-8df9-b664712bb51c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CcF3RtSrdr4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CcF3RtSrdr4eeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>L&#x27;avventura di uno sciatore</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Italo-Calvino---Lettura-IV-21f2b8b2-1348-445b-aeb0-f0faadb7ad81.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KwS7H81QV9UeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KwS7H81QV9UeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>L&#x27;avventura di un poeta</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Italo-Calvino---Lettura-V-60953926-46a7-43d0-976e-9bcdbc65060a.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9CwdQZpUUfkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9CwdQZpUUfkeeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

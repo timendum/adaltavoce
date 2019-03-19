@@ -1,0 +1,37 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cattedrale</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-audiolibri-Cattedrale-3f5fdefd-32c3-4c46-91fd-db9956f8e806.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/11/1515682384567_cattedrale.jpg</url>
+            <title>Cattedrale</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-audiolibri-Cattedrale-3f5fdefd-32c3-4c46-91fd-db9956f8e806.html</link>
+        </image>
+        <description>Fausto Paravidino legge il romanzo di Raymond Carver
+</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:14:38 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Fausto Paravidino legge il romanzo di Raymond Carver
+</itunes:summary>
+        <itunes:subtitle>Fausto Paravidino legge il romanzo di Raymond Carver
+</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/11/1515682384567_cattedrale.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:14:38 -0000</pubDate>
+            <item>
+                <title>Cattedrale | Ad Alta Voce del 05/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-1f3794a7-b46a-48a5-a60e-a19e6395e3c4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ikBh6fNDNXseeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ikBh6fNDNXseeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Cattedrale | Ad Alta Voce del 06/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-d679126c-7b4b-4ee9-b507-8e410c934628.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Knr9bNYIwlEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Knr9bNYIwlEeeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>

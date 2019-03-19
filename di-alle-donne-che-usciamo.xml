@@ -1,0 +1,27 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Di alle donne che usciamo</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3--ad-alta-voce-Di-alle-donne-che-usciamo-b2385ead-c812-4006-98d3-e791dc18e40d.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516012746218_Di%20alle%20donne%20che%20usciamo.jpg</url>
+            <title>Di alle donne che usciamo</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3--ad-alta-voce-Di-alle-donne-che-usciamo-b2385ead-c812-4006-98d3-e791dc18e40d.html</link>
+        </image>
+        <description>Fabrizio Falco legge Raymond Carver	</description>
+        <language>it-it</language>
+        <lastBuildDate>Tue, 19 Mar 2019 16:14:44 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Fabrizio Falco legge Raymond Carver	</itunes:summary>
+        <itunes:subtitle>Fabrizio Falco legge Raymond Carver	</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516012746218_Di%20alle%20donne%20che%20usciamo.jpg"/>
+        <pubDate>Tue, 19 Mar 2019 16:14:44 -0000</pubDate>
+            <item>
+                <title>Di alle donne che usciamo - Mio| Ad Alta Voce del 14/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-0fe89946-a004-421e-a876-cf16774ee526.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual</guid>
+                
+            </item>
+    </channel>
+</rss>
