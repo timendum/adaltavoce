@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Ad alta voce - Podcast non ufficiale</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo">Documentazione</a>
+									<ul class="icons">
+										<li><a href="https://github.com/timendum/adaltavoce" class="icon fa-github"><span class="label">Twitter</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Ad alta voce - Podcast non ufficiale</h1>
+										</header>
+										<p>Script per la generazione dei Feed Podcast da 
+											<a href="https://www.raiplayradio.it/programmi/adaltavoce/">Ad Alta Voce</a>,
+											il programma di <a href="https://www.raiplayradio.it/radio3">Radio 3</a>
+										</p>
+										<ul class="actions">
+											<li><a href="#list" class="button big">Lista dei podcast</a></li>
+										</ul>
+									</div>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2 id="info">Istruzioni</h2>
+									</header>
+									<div class="features">
+										<article>
+											<div class="content">
+												<h3>Installazione</h3>
+												<p>Clonare il repository</p>
+												<pre>git clone https://github.com/timendum/adaltavoce.git</pre>
+												<p>Installare le dipendenze</p>
+												<pre>pip install -r requirements.txt</pre>
+											</div>
+										</article>
+										<article>
+											<div class="content">
+												<h3>Utilizzo</h3>
+												<p>Per generare un singolo Feed podcast:</p>
+												<pre>python single.py https://www.raiplayradio.it/playlist/20...</pre>
+												<p>Per generare tutti i feed in un colpo solo.</p>
+												<pre>python all.py</pre>
+											</div>
+										</article>
+									</div>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2 id="list"> Lista dei feed</h2>
+									</header>
+									<div class="posts">
+										<article>
+										{{#index}}
+											<h3 id="list-{{letter}}">{{upper}}</h3>
+											{{#entries}}
+											<p>
+												<a href="{{file}}">{{title}}</a> - {{text}}
+											</p>
+											{{/entries}}
+										{{/index}}
+										</article>
+									</div>
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Menu -->
+								<nav id="menu">
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="#info">Istruzioni</a></li>
+										<li><a href="#list">Lista dei podcast</a></li>
+										<li>
+											<span class="opener">Titolo</span>
+											<ul>
+											{{#index}}
+												<li><a href="#list-{{letter}}">{{upper}}</a></li>
+											{{/index}}
+											</ul>
+										</li>
+									</ul>
+								</nav>
+
+							<!-- Footer -->
+								<footer id="footer">
+									Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
