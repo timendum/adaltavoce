@@ -9,18 +9,19 @@
         </image>
         <description>di Giacomo Debenedetti letto da Moni Ovadia</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:15:47 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:49:37 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Giacomo Debenedetti letto da Moni Ovadia</itunes:summary>
         <itunes:subtitle>di Giacomo Debenedetti letto da Moni Ovadia</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531324379218_Focus%20origami%202048x1152%201280x720%20stella%20di%20david.png"/>
-        <pubDate>Tue, 19 Mar 2019 16:15:47 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:49:37 -0000</pubDate>
             <item>
                 <title>Otto Ebrei - Lettura I</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-I-12e582de-d445-471d-aab9-ff2e278b9c8c.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:37 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-II-729537ea-edc5-4841-8c7a-6b96f7650d0f.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:37 -0000</pubDate>
                 
             </item>
     </channel>

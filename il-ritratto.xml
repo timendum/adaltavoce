@@ -9,18 +9,19 @@
         </image>
         <description>Versione integrale</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:15:20 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:49:11 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale</itunes:summary>
         <itunes:subtitle>Versione integrale</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612495734_Il-ritratto.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:15:20 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
             <item>
                 <title>Il ritratto | Ad Alta Voce del 23/10/2017</title>
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-c7620818-4510-4b3a-bfd5-728d82af2fa2.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A5TYhX1HrSQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A5TYhX1HrSQeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-20d6b8b1-b08b-4db5-8de8-7ed739776c5c.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1Aip5fdmtHoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1Aip5fdmtHoeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
                 
             </item>
             <item>
@@ -35,6 +37,7 @@
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-90bed26d-777d-4f6a-9bc6-3fc1b581218e.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eG6pyo6MIssSlashMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eG6pyo6MIssSlashMeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
                 
             </item>
             <item>
@@ -42,6 +45,7 @@
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-077fda42-1797-467e-8863-16ba867cea2b.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=a8pPpPlussssSlash44dEVMMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=a8pPpPlussssSlash44dEVMMeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
                 
             </item>
             <item>
@@ -49,6 +53,7 @@
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-20b0ee92-1b96-484d-9527-da8210ea7105.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mqyb5UY2VJ4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mqyb5UY2VJ4eeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
                 
             </item>
     </channel>

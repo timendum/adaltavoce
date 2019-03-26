@@ -9,18 +9,19 @@
         </image>
         <description>I racconti di Alberto Moravia</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:14:57 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:48:49 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>I racconti di Alberto Moravia</itunes:summary>
         <itunes:subtitle>I racconti di Alberto Moravia</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516174554909_I%20racconti%20di%20Alberto%20Moravia.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:14:57 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:48:49 -0000</pubDate>
             <item>
                 <title>Sciupone - 02/08/2010</title>
                 <link>https://www.raiplayradio.it/audio/2015/05/Sciupone---02082010-eaeb27f9-bd86-492b-9970-8de695339079.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=K64wWMM70GceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=K64wWMM70GceeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:49 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2015/05/Romolo-e-Remo---03082010-a0dad6a5-c9ee-48af-b38c-22fef45acd43.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dE5JSrpPpPlussTLzkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dE5JSrpPpPlussTLzkeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:49 -0000</pubDate>
                 
             </item>
             <item>
@@ -35,6 +37,7 @@
                 <link>https://www.raiplayradio.it/audio/2015/05/Ladri-in-chiesa---04082010-46931f57-2d3d-496f-bc24-458e3a9b0670.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VcpBibwOTbweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VcpBibwOTbweeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:49 -0000</pubDate>
                 
             </item>
             <item>
@@ -42,6 +45,7 @@
                 <link>https://www.raiplayradio.it/audio/2015/05/Impataccato---05082010-042bfb0f-ec12-42f8-b4a5-ea135333887f.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OxBcwfKv8eIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OxBcwfKv8eIeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:49 -0000</pubDate>
                 
             </item>
             <item>
@@ -49,6 +53,7 @@
                 <link>https://www.raiplayradio.it/audio/2015/05/Il-pensatore---06082010-edd94478-d410-413e-a120-d90c2a56b5ab.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v5jdNpHNexAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v5jdNpHNexAeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:49 -0000</pubDate>
                 
             </item>
     </channel>

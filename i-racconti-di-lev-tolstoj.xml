@@ -9,18 +9,19 @@
         </image>
         <description>di Lev Tolstoj letto da Arturo Cirillo</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:14:59 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:48:52 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Lev Tolstoj letto da Arturo Cirillo</itunes:summary>
         <itunes:subtitle>di Lev Tolstoj letto da Arturo Cirillo</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612623506_I-racconti-di-Lev-Tolstoj.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:14:59 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:48:52 -0000</pubDate>
             <item>
                 <title>Alëša Bricco</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/I-racconti-di-Lev-Tolstoj---Lettura-I-b94fecbb-06c3-459c-99ca-33081f477f54.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Nonc9ssSlashCpr4geeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Nonc9ssSlashCpr4geeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:52 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/I-racconti-di-Lev-Tolstoj---Lettura-II-d0e2a52e-3707-4c7e-a571-08a5a7fe9369.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sb4z4u0xyfIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sb4z4u0xyfIeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:52 -0000</pubDate>
                 
             </item>
             <item>
@@ -35,6 +37,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/I-racconti-di-Lev-Tolstoj---Lettura-III-df440180-2b22-47f3-a656-5b6741172ffa.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fcrjRsaUAsYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fcrjRsaUAsYeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:52 -0000</pubDate>
                 
             </item>
             <item>
@@ -42,6 +45,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/I-racconti-di-Lev-Tolstoj---Lettura-IV-8a91a8ae-a02c-464d-9dde-8c061ba2acf6.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SssSlash3mRcTpPpPlussFhIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SssSlash3mRcTpPpPlussFhIeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:52 -0000</pubDate>
                 
             </item>
             <item>
@@ -49,6 +53,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/I-racconti-di-Lev-Tolstoj---Lettura-V-9fc8bec2-84bc-439e-bfda-8aa710f50d97.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AhUuK8NtqBoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AhUuK8NtqBoeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:52 -0000</pubDate>
                 
             </item>
     </channel>

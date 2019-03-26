@@ -9,18 +9,19 @@
         </image>
         <description>di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:15:37 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:49:28 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti</itunes:summary>
         <itunes:subtitle>di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/01/07/1546872433587_1546532717222_NottiBianche_05.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:15:37 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:49:28 -0000</pubDate>
             <item>
                 <title>#1 Le notti bianche</title>
                 <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-14b3b55b-8b91-43a2-ae3e-deaa678de7b8.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LhNDAlkaVLIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LhNDAlkaVLIeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:28 -0000</pubDate>
                 <itunes:duration>00:30:00</itunes:duration>
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-e9440d50-4df4-49ac-99d9-16b7d7c2fc6b.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QDApuRpPpPlussYAbQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QDApuRpPpPlussYAbQeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:28 -0000</pubDate>
                 <itunes:duration>00:30:00</itunes:duration>
             </item>
             <item>
@@ -35,6 +37,7 @@
                 <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE---Le-notti-bianche-a4bec740-886f-4b85-939a-108f59d6247e.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zKpPpPlussLJaplOS0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zKpPpPlussLJaplOS0eeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:28 -0000</pubDate>
                 <itunes:duration>00:30:00</itunes:duration>
             </item>
             <item>
@@ -42,6 +45,7 @@
                 <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE---Le-notti-bianche-09572a76-874d-40a1-aad1-a20cc7b11972.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FFMpPpPlusscrXGsVweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FFMpPpPlusscrXGsVweeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:28 -0000</pubDate>
                 <itunes:duration>00:30:00</itunes:duration>
             </item>
     </channel>

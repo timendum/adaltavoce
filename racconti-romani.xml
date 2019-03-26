@@ -9,18 +9,19 @@
         </image>
         <description>di Alberto Moravia letti da Valerio Aprea</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:15:49 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:49:39 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Alberto Moravia letti da Valerio Aprea</itunes:summary>
         <itunes:subtitle>di Alberto Moravia letti da Valerio Aprea</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446771613_raccontiromani.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:15:49 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:49:39 -0000</pubDate>
             <item>
                 <title>Impataccato - Ad Alta Voce del 04/12/2014</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Impataccato---Ad-Alta-Voce-del-04122014-49fd598b-af5d-42aa-823d-273353f0bd9f.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RY6KCeN6zPAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RY6KCeN6zPAeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:39 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/Ladri-in-chiesa---Ad-Alta-Voce-del-05122014-e2bb038f-8e68-4b4e-ac10-5a927ca3528e.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rhMjMg4VYUYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rhMjMg4VYUYeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:49:39 -0000</pubDate>
                 
             </item>
     </channel>

@@ -9,18 +9,19 @@
         </image>
         <description>di Ernest Hemingway letto da Ennio Fantastichini </description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:14:57 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:48:50 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Ernest Hemingway letto da Ennio Fantastichini </itunes:summary>
         <itunes:subtitle>di Ernest Hemingway letto da Ennio Fantastichini </itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613994415_Tutti-i-racconti-di-Ernest-Hemingway.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:14:57 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
             <item>
                 <title>La farfalla e il carrarmato</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/La-farfalla-e-il-carrarmato-79b76a31-eb88-47ba-9a87-9d409efe27b5.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d0sO8anoI5keeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d0sO8anoI5keeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/Paesaggio-con-figure-467d21b0-6883-40ad-baa7-631538d57550.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FW1WOtl7EwoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FW1WOtl7EwoeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
                 
             </item>
             <item>
@@ -35,6 +37,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/Dieci-indiani-e-Campo-indiano-33c35a0a-8ce8-4b3c-9aff-d1e753f5733c.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
                 
             </item>
             <item>
@@ -42,6 +45,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-I-a76c13b8-b803-4d9a-b6d6-a1b5fe0bf22b.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
                 
             </item>
             <item>
@@ -49,6 +53,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-II-f76d5e74-9bc8-4cad-93bd-ab6f21e3bdb8.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
                 
             </item>
     </channel>

@@ -9,18 +9,19 @@
         </image>
         <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:14:51 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:48:45 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
         <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516089742223_Grande%20fiume%20dai%20due%20cuori.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:14:51 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:48:45 -0000</pubDate>
             <item>
                 <title>Grande fiume dai due cuori (I)</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-I-a76c13b8-b803-4d9a-b6d6-a1b5fe0bf22b.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:45 -0000</pubDate>
                 
             </item>
             <item>
@@ -28,6 +29,7 @@
                 <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-II-f76d5e74-9bc8-4cad-93bd-ab6f21e3bdb8.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:45 -0000</pubDate>
                 
             </item>
     </channel>

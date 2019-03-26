@@ -9,18 +9,19 @@
         </image>
         <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 19 Mar 2019 16:14:45 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2019 15:48:35 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
         <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516007442606_Dieci%20indiani%20e%20Campo%20indiano.jpg"/>
-        <pubDate>Tue, 19 Mar 2019 16:14:45 -0000</pubDate>
+        <pubDate>Tue, 26 Mar 2019 15:48:35 -0000</pubDate>
             <item>
                 <title>Dieci indiani e Campo indiano</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Dieci-indiani-e-Campo-indiano-33c35a0a-8ce8-4b3c-9aff-d1e753f5733c.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual</guid>
+                <pubDate>Tue, 26 Mar 2019 15:48:35 -0000</pubDate>
                 
             </item>
     </channel>
