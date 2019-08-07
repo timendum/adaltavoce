@@ -1,5 +1,6 @@
 from os import path as path
 import re
+import datetime
 from collections import namedtuple
 from urllib.parse import urljoin
 import sys
@@ -70,7 +71,7 @@ class AdAltaVoce():
         renderer = pystache.Renderer()
         output = renderer.render_path(
             path.join(path.dirname(path.abspath(__file__)), 'index.mustache'),
-            {'index': index_data})
+            {'index': index_data, 'lastUpdate': datetime.date.today().isoformat()})
         with open('index.html', "w", encoding="utf8") as text_file:
             text_file.write(output)
 
