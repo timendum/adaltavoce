@@ -51,6 +51,7 @@ class AltaVoce():
         contents = soup.find(class_='elencoPlaylist').find_all('li')
 
         out_data['entries'] = self.parse(contents)
+        out_data['entries'].reverse()
 
         filename = out_data['title'].lower()
         filename = unicodedata.normalize('NFKD', filename)
