@@ -9,35 +9,18 @@
         </image>
         <description>Versione integrale</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:48:50 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:13 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale</itunes:summary>
         <itunes:subtitle>Versione integrale</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612550384_I-racconti-di-Anton-Cechov.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:13 -0000</pubDate>
             <item>
-                <title>Il violino di Rothshild</title>
-                <link>https://www.raiplayradio.it/audio/2015/08/IL-VIOLINO-DI-ROTHSHILD---Ad-Alta-Voce-del-31082015-6731dc7f-7f36-404e-91a8-9e8beb12f35b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
-                
-            </item>
-            <item>
-                <title>Il viaggiatore di prima classe</title>
-                <link>https://www.raiplayradio.it/audio/2015/08/IL-VIAGGIATORE-DI-PRIMA-CLASSE----Ad-Alta-Voce-del-01092015-ed1eeab0-2ff6-49ab-a730-a326baf4c099.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
-                
-            </item>
-            <item>
-                <title>La scommessa</title>
-                <link>https://www.raiplayradio.it/audio/2015/08/LA-SCOMMESSA---Ad-Alta-Voce-del-02092015-1864d7f5-9e35-4b43-ac45-b47be23e0178.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
+                <title>Grisha e il racconto del giardiniere capo</title>
+                <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
                 
             </item>
             <item>
@@ -45,15 +28,27 @@
                 <link>https://www.raiplayradio.it/audio/2015/08/DUSECKA---Ad-Alta-Voce-del-03092015-48b72c88-4fb0-4c0a-93f9-58ee862b02b5.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lJ9csECOlBseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lJ9csECOlBseeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
                 
             </item>
             <item>
-                <title>Grisha e il racconto del giardiniere capo</title>
-                <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:50 -0000</pubDate>
+                <title>La scommessa</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/LA-SCOMMESSA---Ad-Alta-Voce-del-02092015-1864d7f5-9e35-4b43-ac45-b47be23e0178.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il viaggiatore di prima classe</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/IL-VIAGGIATORE-DI-PRIMA-CLASSE----Ad-Alta-Voce-del-01092015-ed1eeab0-2ff6-49ab-a730-a326baf4c099.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il violino di Rothshild</title>
+                <link>https://www.raiplayradio.it/audio/2015/08/IL-VIOLINO-DI-ROTHSHILD---Ad-Alta-Voce-del-31082015-6731dc7f-7f36-404e-91a8-9e8beb12f35b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual</guid>
                 
             </item>
     </channel>

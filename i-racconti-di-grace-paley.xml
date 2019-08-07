@@ -9,19 +9,18 @@
         </image>
         <description>I racconti di Grace Paley</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:48:51 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:13 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>I racconti di Grace Paley</itunes:summary>
         <itunes:subtitle>I racconti di Grace Paley</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516180039419_I%20racconti%20di%20Grace%20Paley.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:48:51 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:13 -0000</pubDate>
             <item>
-                <title>Arrivederci e tanti auguri</title>
-                <link>https://www.raiplayradio.it/audio/2015/02/I-racconti-di-Grace-Paley---Arrivederci-e-tanti-auguri-842f7f18-ee16-4820-9c1e-c5b767c7a398.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzssSlashismxkBmoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzssSlashismxkBmoeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:51 -0000</pubDate>
+                <title>Da qualche altra parte</title>
+                <link>https://www.raiplayradio.it/audio/2015/02/I-racconti-di-Grace-Paley---Da-qualche-altra-parte-a54af15b-af69-4823-8bde-3e58a0da2046.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MR0KHLtdJEEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MR0KHLtdJEEeeqqEEqual</guid>
                 
             </item>
             <item>
@@ -29,15 +28,13 @@
                 <link>https://www.raiplayradio.it/audio/2015/02/I-racconti-di-Grace-Paley---Il-concorso-c5a822c6-d7fd-4d37-975c-01ef7f9df598.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IMe0q2t94uYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IMe0q2t94uYeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:51 -0000</pubDate>
                 
             </item>
             <item>
-                <title>Da qualche altra parte</title>
-                <link>https://www.raiplayradio.it/audio/2015/02/I-racconti-di-Grace-Paley---Da-qualche-altra-parte-a54af15b-af69-4823-8bde-3e58a0da2046.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MR0KHLtdJEEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MR0KHLtdJEEeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:51 -0000</pubDate>
+                <title>Arrivederci e tanti auguri</title>
+                <link>https://www.raiplayradio.it/audio/2015/02/I-racconti-di-Grace-Paley---Arrivederci-e-tanti-auguri-842f7f18-ee16-4820-9c1e-c5b767c7a398.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzssSlashismxkBmoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzssSlashismxkBmoeeqqEEqual</guid>
                 
             </item>
     </channel>

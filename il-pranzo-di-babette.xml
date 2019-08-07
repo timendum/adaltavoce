@@ -9,27 +9,18 @@
         </image>
         <description>di Karen Blixen letto da Anna Bonaiuto</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:49:11 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:25 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Karen Blixen letto da Anna Bonaiuto</itunes:summary>
         <itunes:subtitle>di Karen Blixen letto da Anna Bonaiuto</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612428263_il-pranzo-di-babette.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:25 -0000</pubDate>
             <item>
-                <title>Il pranzo di Babette - Ad Alta Voce del 12/10/2015</title>
-                <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-12102015-84eac380-f2d9-420c-b50b-41267f3c348c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2dSjt3vsFhkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2dSjt3vsFhkeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
-                
-            </item>
-            <item>
-                <title>Il pranzo di Babette - Ad Alta Voce del 13/10/2015</title>
-                <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-13102015-d8df89a2-7664-4774-b4aa-25f2ff78f389.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=m5PXdsIQD5MeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=m5PXdsIQD5MeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
+                <title>Il pranzo di Babette - Ad Alta Voce del 15/10/2015</title>
+                <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-15102015-b45315d4-f86d-4b39-a5e3-4dda01f28337.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Uv055lnh7SEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Uv055lnh7SEeeqqEEqual</guid>
                 
             </item>
             <item>
@@ -37,15 +28,20 @@
                 <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-14102015-bbbcd89b-92c7-4c3a-bfe4-7946d26989ce.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k1FLT5cEyw4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k1FLT5cEyw4eeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
                 
             </item>
             <item>
-                <title>Il pranzo di Babette - Ad Alta Voce del 15/10/2015</title>
-                <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-15102015-b45315d4-f86d-4b39-a5e3-4dda01f28337.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Uv055lnh7SEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Uv055lnh7SEeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:11 -0000</pubDate>
+                <title>Il pranzo di Babette - Ad Alta Voce del 13/10/2015</title>
+                <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-13102015-d8df89a2-7664-4774-b4aa-25f2ff78f389.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=m5PXdsIQD5MeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=m5PXdsIQD5MeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Il pranzo di Babette - Ad Alta Voce del 12/10/2015</title>
+                <link>https://www.raiplayradio.it/audio/2015/10/Il-pranzo-di-Babette---Ad-Alta-Voce-del-12102015-84eac380-f2d9-420c-b50b-41267f3c348c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2dSjt3vsFhkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2dSjt3vsFhkeeqqEEqual</guid>
                 
             </item>
     </channel>

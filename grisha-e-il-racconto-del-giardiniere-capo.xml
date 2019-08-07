@@ -9,19 +9,18 @@
         </image>
         <description>Versione Integrale</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:48:46 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:11 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione Integrale</itunes:summary>
         <itunes:subtitle>Versione Integrale</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516092095652_Grisha%20e%20il%20racconto%20del%20giardiniere%20capo.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:48:46 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:11 -0000</pubDate>
             <item>
                 <title>Grisha e il racconto del giardiniere capo</title>
                 <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:48:46 -0000</pubDate>
                 
             </item>
     </channel>

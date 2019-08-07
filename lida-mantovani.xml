@@ -9,35 +9,18 @@
         </image>
         <description>di Giorgio Bassani letto da Valentina Carnelutti</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:49:30 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:35 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Giorgio Bassani letto da Valentina Carnelutti</itunes:summary>
         <itunes:subtitle>di Giorgio Bassani letto da Valentina Carnelutti</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613466878_Lida-Mantovani.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:49:30 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:35 -0000</pubDate>
             <item>
-                <title>Lida Mantovani - Ad Alta voce del 14/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-14032016-3c16ae74-3de9-4db8-8515-27458467816b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:30 -0000</pubDate>
-                
-            </item>
-            <item>
-                <title>Lida Mantovani - Ad Alta voce del 15/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-15032016-dc1f7ec8-5651-4dbf-9e5b-a9dbe3d6eeee.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:30 -0000</pubDate>
-                
-            </item>
-            <item>
-                <title>Lida Mantovani - Ad Alta voce del 16/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-16032016-38960ae6-cda1-4b8a-89c9-cf3ea83ed05f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:30 -0000</pubDate>
+                <title>Lida Mantovani - Ad Alta voce del 18/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-18032016-5c9d8cf6-47b2-41c9-ba81-2c1b909a4385.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual</guid>
                 
             </item>
             <item>
@@ -45,15 +28,27 @@
                 <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-17032016-f8451b2a-448a-47d0-a3f0-ed883b580f62.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G05Hmb2Z1SEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G05Hmb2Z1SEeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:30 -0000</pubDate>
                 
             </item>
             <item>
-                <title>Lida Mantovani - Ad Alta voce del 18/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-18032016-5c9d8cf6-47b2-41c9-ba81-2c1b909a4385.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:30 -0000</pubDate>
+                <title>Lida Mantovani - Ad Alta voce del 16/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-16032016-38960ae6-cda1-4b8a-89c9-cf3ea83ed05f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 15/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-15032016-dc1f7ec8-5651-4dbf-9e5b-a9dbe3d6eeee.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual</guid>
+                
+            </item>
+            <item>
+                <title>Lida Mantovani - Ad Alta voce del 14/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-14032016-3c16ae74-3de9-4db8-8515-27458467816b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual</guid>
                 
             </item>
     </channel>

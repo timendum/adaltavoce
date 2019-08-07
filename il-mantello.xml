@@ -9,19 +9,18 @@
         </image>
         <description>Versione integrale </description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:49:08 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:24 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale </itunes:summary>
         <itunes:subtitle>Versione integrale </itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612259905_il-mantello.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:49:08 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:24 -0000</pubDate>
             <item>
-                <title>Il mantello | Ad Alta Voce del 16/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/Il-mantello--Ad-Alta-Voce-del-16102017-e5f0398d-0588-45a2-a0d5-44926c97806b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WT3SAl79wooeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WT3SAl79wooeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:08 -0000</pubDate>
+                <title>Il mantello | Ad Alta Voce del 18/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/Il-mantello--Ad-Alta-Voce-del-18102017-f37a57ca-bf4b-4555-8e1b-6d63db7d8ce5.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WSvsJpPpPlussRKcToeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WSvsJpPpPlussRKcToeeqqEEqual</guid>
                 
             </item>
             <item>
@@ -29,15 +28,13 @@
                 <link>https://www.raiplayradio.it/audio/2017/09/Il-mantello--Ad-Alta-Voce-del-17102017-054b8beb-3dd6-484d-8ffe-e6940c5f2569.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TWNxXOJBTegeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TWNxXOJBTegeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:08 -0000</pubDate>
                 
             </item>
             <item>
-                <title>Il mantello | Ad Alta Voce del 18/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/Il-mantello--Ad-Alta-Voce-del-18102017-f37a57ca-bf4b-4555-8e1b-6d63db7d8ce5.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WSvsJpPpPlussRKcToeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WSvsJpPpPlussRKcToeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:08 -0000</pubDate>
+                <title>Il mantello | Ad Alta Voce del 16/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/Il-mantello--Ad-Alta-Voce-del-16102017-e5f0398d-0588-45a2-a0d5-44926c97806b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WT3SAl79wooeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WT3SAl79wooeeqqEEqual</guid>
                 
             </item>
     </channel>

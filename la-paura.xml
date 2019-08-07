@@ -9,19 +9,18 @@
         </image>
         <description>di Federico De Roberto letto da Pierfrancesco Favino</description>
         <language>it-it</language>
-        <lastBuildDate>Tue, 26 Mar 2019 15:49:19 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 14:32:29 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Federico De Roberto letto da Pierfrancesco Favino</itunes:summary>
         <itunes:subtitle>di Federico De Roberto letto da Pierfrancesco Favino</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613080299_La-Paura.jpg"/>
-        <pubDate>Tue, 26 Mar 2019 15:49:19 -0000</pubDate>
+        <pubDate>Wed, 07 Aug 2019 14:32:29 -0000</pubDate>
             <item>
-                <title>La Paura - Ad Alta Voce del 01/09/2014</title>
-                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-01092014-d603f6c9-e91b-4ab8-b1e3-5b490412063b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:19 -0000</pubDate>
+                <title>La Paura - Ad Alta Voce del 03/09/2014</title>
+                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-03092014-e47a719f-c83e-462f-9b46-b4cf93088fd7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual</guid>
                 
             </item>
             <item>
@@ -29,15 +28,13 @@
                 <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-02092014-1a1e9222-1056-4890-8033-cbe56d1a99e7.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XoKVmDApwBgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XoKVmDApwBgeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:19 -0000</pubDate>
                 
             </item>
             <item>
-                <title>La Paura - Ad Alta Voce del 03/09/2014</title>
-                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-03092014-e47a719f-c83e-462f-9b46-b4cf93088fd7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual</guid>
-                <pubDate>Tue, 26 Mar 2019 15:49:19 -0000</pubDate>
+                <title>La Paura - Ad Alta Voce del 01/09/2014</title>
+                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-01092014-d603f6c9-e91b-4ab8-b1e3-5b490412063b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual</guid>
                 
             </item>
     </channel>
