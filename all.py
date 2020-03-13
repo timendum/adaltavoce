@@ -1,8 +1,9 @@
-from os import path as path
+import datetime
 import re
-from collections import namedtuple
-from urllib.parse import urljoin
 import sys
+from collections import namedtuple
+from os import path as path
+from urllib.parse import urljoin
 
 import pystache
 import requests
@@ -63,14 +64,16 @@ class AdAltaVoce():
             index[letter]['entries'].append(entry)
         # Sort entries
         for letter in index:
-            index[letter]['entries'] = sorted(
-                index[letter]['entries'], key=lambda entry: entry.title.lower())
+            index[letter]['entries'] = sorted(index[letter]['entries'],
+                                              key=lambda entry: entry.title.lower())
         index_data = [index[k] for k in sorted(index.keys())]
         # Render
         renderer = pystache.Renderer()
         output = renderer.render_path(
-            path.join(path.dirname(path.abspath(__file__)), 'index.mustache'),
-            {'index': index_data})
+            path.join(path.dirname(path.abspath(__file__)), 'index.mustache'), {
+                'index': index_data,
+                'lastUpdate': datetime.date.today().isoformat()
+            })
         with open('index.html', "w", encoding="utf8") as text_file:
             text_file.write(output)
 
