@@ -51,6 +51,8 @@ class AltaVoce():
         contents = soup.find(class_='elencoPlaylist').find_all('li')
 
         out_data['entries'] = self.parse(contents)
+        if not out_data['entries']:
+            return None
         out_data['entries'].reverse()
 
         filename = out_data['title'].lower()
