@@ -81,5 +81,7 @@ class AdAltaVoce():
 if __name__ == '__main__':
     ALTAVOCE = AdAltaVoce()
     ALTAVOCE.all_pages()
-    if len(sys.argv) > 1 and sys.argv[1] == '-html':
+    if len(sys.argv) > 1 and sys.argv[1] == "-nohtml":
+        pass
+    else:    
         ALTAVOCE.write_index()
