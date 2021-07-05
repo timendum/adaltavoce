@@ -6,7 +6,7 @@ from email.utils import formatdate
 from os import path as path
 from urllib.parse import urljoin
 
-import pystache
+import chevron
 import requests
 from bs4 import BeautifulSoup
 
@@ -66,9 +66,8 @@ class AltaVoce():
 
     @staticmethod
     def output(filename, data):
-        renderer = pystache.Renderer()
-        output = renderer.render_path(
-            path.join(path.dirname(path.abspath(__file__)), 'podcast.mustache'), data)
+        with open(path.join(path.dirname(path.abspath(__file__)), 'podcast.mustache'), 'r') as t:
+            output = chevron.render(t, data)
         with open(filename, "w", encoding="utf8") as text_file:
             text_file.write(output)
         return True

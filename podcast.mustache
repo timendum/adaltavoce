@@ -25,8 +25,8 @@
                 <link>{{url}}</link>
                 <enclosure url="{{mp3}}" type="audio/mpeg"/>
                 <guid>{{mp3}}</guid>
-                {{#duration}}<itunes:duration>{{.}}</itunes:duration>{{/duration}}
-                <description>{{title}}</description>
+                <description>{{title}}</description>{{#duration}}
+                <itunes:duration>{{.}}</itunes:duration>{{/duration}}
             </item>
         {{/entries}}
     </channel>

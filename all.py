@@ -5,7 +5,7 @@ from collections import namedtuple
 from os import path as path
 from urllib.parse import urljoin
 
-import pystache
+import chevron
 import requests
 from bs4 import BeautifulSoup
 
@@ -70,11 +70,11 @@ class AdAltaVoce:
             )
         index_data = [index[k] for k in sorted(index.keys())]
         # Render
-        renderer = pystache.Renderer()
-        output = renderer.render_path(
-            path.join(path.dirname(path.abspath(__file__)), "index.mustache"),
-            {"index": index_data, "lastUpdate": datetime.date.today().isoformat()},
-        )
+        with open(path.join(path.dirname(path.abspath(__file__)), "index.mustache"), "r") as t:
+            output = chevron.render(
+                t,
+                {"index": index_data, "lastUpdate": datetime.date.today().isoformat()},
+            )
         with open(path.join(self._base_path, "index.html"), "w", encoding="utf8") as text_file:
             text_file.write(output)
 
@@ -84,5 +84,5 @@ if __name__ == "__main__":
     ALTAVOCE.all_pages()
     if len(sys.argv) > 1 and sys.argv[1] == "-nohtml":
         pass
-    else:    
+    else:
         ALTAVOCE.write_index()
