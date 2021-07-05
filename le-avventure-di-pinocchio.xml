@@ -1,125 +1,135 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Le avventure di Pinocchio</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Le-avventure-di-Pinocchio-8c75a482-30c1-4f7b-a740-3e73e172c8e2.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613237055_Le-avventure-di-Pinocchio.jpg</url>
-            <title>Le avventure di Pinocchio</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Le-avventure-di-Pinocchio-8c75a482-30c1-4f7b-a740-3e73e172c8e2.html</link>
-        </image>
-        <description>di Carlo Collodi letto da Paolo Poli</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:27 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Carlo Collodi letto da Paolo Poli</itunes:summary>
-        <itunes:subtitle>di Carlo Collodi letto da Paolo Poli</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613237055_Le-avventure-di-Pinocchio.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:27 -0000</pubDate>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura XV</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-XV-47bf3f08-9779-457f-ad7b-1483296b22b9.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aA7MFngkzRkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aA7MFngkzRkeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura XIV</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-XIV-a5f5ba22-50c3-4633-8ff5-fd5b75ee19e8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dh0DjCX6rwseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dh0DjCX6rwseeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura XIII</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-XIII-8b270bd2-bc7f-4389-ba1d-6d7cfbf37071.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=azhnyZLHpPpPlussT8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=azhnyZLHpPpPlussT8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura XII</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-XII-7715f2e9-4995-4011-a108-afa505a816e0.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DP0V29UVrxweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DP0V29UVrxweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura XI</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-XI-095723e0-061b-4a8b-a168-8d1fb4839694.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IReskQssSlashW3GUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IReskQssSlashW3GUeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura X</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-X-9664916a-36cd-4abd-97fc-539de517859f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pOuvEu8HZlIeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pOuvEu8HZlIeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura IX</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-IX-27ce5fbc-a95e-42fc-9a5b-a8959c1d25b1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iLYeTNrtssEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iLYeTNrtssEeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura VIII</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-VIII-dbe8f346-6ff9-4dac-8ea4-96f80176e3a9.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tbyFYiZstdoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tbyFYiZstdoeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura VII</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-VII-6d98e6e8-32af-4f4c-9ac0-c26e940bd56e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8oNwozA1ojEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8oNwozA1ojEeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura VI</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-VI-5fa77045-9fff-4058-8285-fdf0e0cde3b0.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wH4hZlBpPpPluss6m8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wH4hZlBpPpPluss6m8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura V</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-V-f1a23855-5122-4e0d-bf9a-eb0d682ab35f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KDN1KD4S7hoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KDN1KD4S7hoeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura IV</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-IV-f657b6bd-11fe-405c-bd65-c2801be6a4f9.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iO0iZ6Q8ZsgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iO0iZ6Q8ZsgeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura III</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-III-79c71129-413e-431e-bfd2-73a6e7310084.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7Y1tSSxDpPpPlussGIeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7Y1tSSxDpPpPlussGIeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura II</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-II-8c728871-e10d-4a72-a9ac-1f2a7e0dd0fd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NJu0AzbUBHweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NJu0AzbUBHweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Le avventure di Pinocchio - Lettura I</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Le-avventure-di-Pinocchio---Lettura-I-78952eac-e5b7-4d5b-878c-2826554744b5.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yeaWhlUh1ssSlash0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yeaWhlUh1ssSlash0eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Le avventure di Pinocchio</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Le-avventure-di-Pinocchio-8c75a482-30c1-4f7b-a740-3e73e172c8e2.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/12/21/1608561201659_PINOCCHIO_quad.png</url>
+            <title>Le avventure di Pinocchio</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Le-avventure-di-Pinocchio-8c75a482-30c1-4f7b-a740-3e73e172c8e2.html</link>
+        </image>
+        <description>di Carlo Collodi letto da Paolo Poli</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:56 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Carlo Collodi letto da Paolo Poli</itunes:summary>
+        <itunes:subtitle>di Carlo Collodi letto da Paolo Poli</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/12/21/1608561201659_PINOCCHIO_quad.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:56 -0000</pubDate>
+            <item>
+                <title>#14 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-92c20f15-b001-45d8-8775-369852d3d1d9.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash6PiAdqWyLOjdz7sZgz4lAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash6PiAdqWyLOjdz7sZgz4lAeeqqEEqualeeqqEEqual</guid>
+                <description>#14 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#13 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-4e6405b2-4fda-4944-97be-b93794579d33.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=B0QT9LLumssZZpPpPlussKfUw6IfweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=B0QT9LLumssZZpPpPlussKfUw6IfweeqqEEqualeeqqEEqual</guid>
+                <description>#13 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#12 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-5d89fb7b-71ae-4fc7-8f0f-e1c0d7fbd621.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tY0NaPB8qTLJA7I2IiaMIweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tY0NaPB8qTLJA7I2IiaMIweeqqEEqualeeqqEEqual</guid>
+                <description>#12 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#11 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-d0929fd9-8bb6-418b-ad4b-6fed64dc3c84.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1x2EKeFRXJzJWMpPpPlusssRssSlashVa1AeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1x2EKeFRXJzJWMpPpPlusssRssSlashVa1AeeqqEEqualeeqqEEqual</guid>
+                <description>#11 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#10 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-5f9e72a7-b9e3-494f-a33e-ac30ce1d6eaf.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=58JRpxTTE9h6DZzsEZRxcgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=58JRpxTTE9h6DZzsEZRxcgeeqqEEqualeeqqEEqual</guid>
+                <description>#10 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#09 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-7030193f-3dce-420c-9f26-fcbc987aa689.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CR0CnkuAVylc2GpPpPlussLJSq6PAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CR0CnkuAVylc2GpPpPlussLJSq6PAeeqqEEqualeeqqEEqual</guid>
+                <description>#09 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#08 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-39f64346-a2e7-42a7-ae84-a1f8ae1e5ffc.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MWZTLizhFiNsjPt3bnO4YgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MWZTLizhFiNsjPt3bnO4YgeeqqEEqualeeqqEEqual</guid>
+                <description>#08 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#07 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-21504d59-69ee-4322-bc4a-1de321be20f1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9AFdKxdX8UtKxUxjDNIaWQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9AFdKxdX8UtKxUxjDNIaWQeeqqEEqualeeqqEEqual</guid>
+                <description>#07 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#06 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-4e4ef854-63a3-4c58-befa-a973f3c8efdf.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6ZCaNTTcGssSlashoJtXvZbyPRuQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6ZCaNTTcGssSlashoJtXvZbyPRuQeeqqEEqualeeqqEEqual</guid>
+                <description>#06 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#05 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-2b5d7794-5940-4495-a089-bf697a60fcd0.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ff9bV9KJYucLUlVBd5V3vgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ff9bV9KJYucLUlVBd5V3vgeeqqEEqualeeqqEEqual</guid>
+                <description>#05 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#04 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-d080a925-1144-4bac-bbc6-174f8bff60cc.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kmkjQQnwi9pSAGSwdRIDFQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kmkjQQnwi9pSAGSwdRIDFQeeqqEEqualeeqqEEqual</guid>
+                <description>#04 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#03 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-f4a2a1b2-b94e-420c-9ca1-241934b6485d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=POBjAE7K1F5hMEqa2s1yZgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=POBjAE7K1F5hMEqa2s1yZgeeqqEEqualeeqqEEqual</guid>
+                <description>#03 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#02 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-6b614b82-2721-4330-9dcf-c75da2a51f92.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7xodyQssSlashmH9mIcNnkPNMUSweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7xodyQssSlashmH9mIcNnkPNMUSweeqqEEqualeeqqEEqual</guid>
+                <description>#02 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#01 Le avventure di Pinocchio di Carlo Collodi</title>
+                <link>https://www.raiplayradio.it/audio/2020/12/AD-ALTA-VOCE-bb1fb7ed-5999-4ae6-8d38-676ce3d06e6a.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2sDuPtho8HmOssSlashEpMCnY2oAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2sDuPtho8HmOssSlashEpMCnY2oAeeqqEEqualeeqqEEqual</guid>
+                <description>#01 Le avventure di Pinocchio di Carlo Collodi</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

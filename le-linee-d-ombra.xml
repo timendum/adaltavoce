@@ -1,195 +1,223 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Le linee d&#x27;ombra</title>
-        <link>https://www.raiplayradio.it/playlist/2018/12/Le-linee-dombra-5c589b76-6e67-466d-a61a-2a2e9467ba26.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/12/17/1545060248086_LineeOmbra_orizz_6b.jpg</url>
-            <title>Le linee d&#x27;ombra</title>
-            <link>https://www.raiplayradio.it/playlist/2018/12/Le-linee-dombra-5c589b76-6e67-466d-a61a-2a2e9467ba26.html</link>
-        </image>
-        <description>Elia Schilton legge &quot;Le linee d&#x27;ombra&quot; di Amitav Ghosh | Adattamento in 25 puntate di Chiara Valerio; The shadow lines di Amitav Ghosh. Copyright 1988, Amitav Gosh. Tutti i diritti riservati; traduzione di Anna Nadotti. A trenta anni dalla sua prima pubblicazione, Ad Alta Voce propone la lettura del romanzo che ha ci fatto conoscere Amitav Ghosh, grande scrittore e saggista indiano. Le linee d&#x27;ombra è un romanzo verticale, fisso nel luogo – Londra, Calcutta – e che va avanti e indietro nel tempo, come la memoria e come la tendenza dei popoli a spostarsi. Ad alta voce è un programma a cura di Anna Antonelli e Fabiana Carobolante, con Lorenzo Pavolini e Chiara Valerio.</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:27 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Elia Schilton legge &quot;Le linee d&#x27;ombra&quot; di Amitav Ghosh | Adattamento in 25 puntate di Chiara Valerio; The shadow lines di Amitav Ghosh. Copyright 1988, Amitav Gosh. Tutti i diritti riservati; traduzione di Anna Nadotti. A trenta anni dalla sua prima pubblicazione, Ad Alta Voce propone la lettura del romanzo che ha ci fatto conoscere Amitav Ghosh, grande scrittore e saggista indiano. Le linee d&#x27;ombra è un romanzo verticale, fisso nel luogo – Londra, Calcutta – e che va avanti e indietro nel tempo, come la memoria e come la tendenza dei popoli a spostarsi. Ad alta voce è un programma a cura di Anna Antonelli e Fabiana Carobolante, con Lorenzo Pavolini e Chiara Valerio.</itunes:summary>
-        <itunes:subtitle>Elia Schilton legge &quot;Le linee d&#x27;ombra&quot; di Amitav Ghosh | Adattamento in 25 puntate di Chiara Valerio; The shadow lines di Amitav Ghosh. Copyright 1988, Amitav Gosh. Tutti i diritti riservati; traduzione di Anna Nadotti. A trenta anni dalla sua prima pubblicazione, Ad Alta Voce propone la lettura del romanzo che ha ci fatto conoscere Amitav Ghosh, grande scrittore e saggista indiano. Le linee d&#x27;ombra è un romanzo verticale, fisso nel luogo – Londra, Calcutta – e che va avanti e indietro nel tempo, come la memoria e come la tendenza dei popoli a spostarsi. Ad alta voce è un programma a cura di Anna Antonelli e Fabiana Carobolante, con Lorenzo Pavolini e Chiara Valerio.</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/12/17/1545060248086_LineeOmbra_orizz_6b.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:27 -0000</pubDate>
-            <item>
-                <title>#25 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-25-Le-linee-daposombra-di-Amitav-Ghosh-3893e1d5-6c7c-4159-bc34-2e002c0d1075.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LpPpPlussM91mQ20cMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LpPpPlussM91mQ20cMeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#24 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-24-Le-linee-daposombra-di-Amitav-Ghosh-9b1314c4-fa6c-4925-a674-ac9d255c538c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EN8X60mDepPpPlussgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EN8X60mDepPpPlussgeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#23 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-23-Le-linee-daposombra-di-Amitav-Ghosh-44580945-b1b2-43c9-9f2c-ada96b03bce4.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LGKQ8NogssSlash1QeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LGKQ8NogssSlash1QeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#22 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-22-Le-linee-daposombra-di-Amitav-Ghosh-70dd1607-2fd3-467b-9b5a-68d571544a0d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bNJIZwyMssSlashcceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bNJIZwyMssSlashcceeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#21 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-21-Le-linee-daposombra-di-Amitav-Ghosh-bed5348b-3eda-4fa4-b99e-4aa93b8eae71.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zo4WvtPKKl0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zo4WvtPKKl0eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#20 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-20-Le-linee-daposombra-di-Amitav-Ghosh-2a0dafae-3c3b-4b0c-863f-a5d709148068.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EZbjF4OP8f8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EZbjF4OP8f8eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#19 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-19-Le-linee-daposombra-di-Amitav-Ghosh-ec70ccc6-061d-4b61-a235-17c5964d5d0c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2CysgK3zPyoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2CysgK3zPyoeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#18 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-18-Le-linee-daposombra-di-Amitav-Ghosh-dc657590-88fa-42f0-a8f1-6496e44b2670.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EsDRXccssSlashAooeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EsDRXccssSlashAooeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#17 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-17-Le-linee-daposombra-di-Amitav-Ghosh-aed00db4-6f79-47d3-9e3c-49b2069ffda2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nd1OPByCwssSlashoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nd1OPByCwssSlashoeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#16 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-16-Le-linee-daposombra-di-Amitav-Ghosh-de048527-133b-4fd2-8340-8d5691801167.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o1pBYFpPpPlussDJE8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o1pBYFpPpPlussDJE8eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#15 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-15-Le-linee-daposombra-di-Amitav-Ghosh-7b69ef05-d4e7-4792-8fda-62329907cd4f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k53LLbO1tX4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k53LLbO1tX4eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#14 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-14-Le-linee-daposombra-di-Amitav-Ghosh-bf4b6431-d0de-44e3-8fdf-930259a33017.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dQKu2Ueo2apz6vawuSAqtAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dQKu2Ueo2apz6vawuSAqtAeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>01:00:00</itunes:duration>
-            </item>
-            <item>
-                <title>#13 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-13-Le-linee-daposombra-di-Amitav-Ghosh-9d7d4aab-53a5-4280-95e6-d0fa8222b20f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k2q7UeRfQSAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k2q7UeRfQSAeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#12 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-12-Le-linee-daposombra-di-Amitav-Ghosh-e582831c-4228-473b-ab9b-0e0298905168.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iLxwtR7NZhoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iLxwtR7NZhoeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#11 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-11-Le-linee-daposombra-di-Amitav-Ghosh-c9d2f9e8-17c6-4d7c-90fb-f30818cc11cd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UCygIUgu9QMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UCygIUgu9QMeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#10 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-10-Le-linee-daposombra-di-Amitav-Ghosh-a21b12be-aa4d-4fb2-9bd4-6ef2325e7ad1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5QGjNv9okwceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5QGjNv9okwceeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#9 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-9-Le-linee-daposombra-di-Amitav-Ghosh-4712a961-b512-453b-bc28-45571f0e93e7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4HrCWy9wvV8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4HrCWy9wvV8eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#8 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-8-Le-linee-daposombra-di-Amitav-Ghosh-d17649cc-5ccf-4617-b2b6-2be8a0646a4d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aq5s3W5R0fAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aq5s3W5R0fAeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#7 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-7-Le-linee-daposombra-di-Amitav-Ghosh-6f6e2ae2-a438-4c5a-a90e-4c0a66658243.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Krz1pPpPlussh2rssSlashlkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Krz1pPpPlussh2rssSlashlkeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#6 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-6-Le-linee-daposombra-di-Amitav-Ghosh-f156f748-f137-4624-87d3-d6b256b93ae1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t5PIswORNCMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t5PIswORNCMeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#5 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-5-Le-linee-daposombra-di-Amitav-Ghosh-caed499e-1445-4c97-921f-3732c65d0c93.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Pl4gPCT9V1seeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Pl4gPCT9V1seeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#4  Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-4-Le-linee-daposombra-di-Amitav-Ghosh-1f803832-35d3-45d2-a371-f6bbb6db43af.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KKdODZw8Od0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KKdODZw8Od0eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#3 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-3-Le-linee-daposombra-di-Amitav-Ghosh-cea46117-a172-4d24-990e-4cc1746d5940.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q3BMM82eLrEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q3BMM82eLrEeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#2 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-2-Le-linee-daposombra-di-Amitav-Ghosh-ccfc3567-966a-434d-ac08-21730f302019.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=D4lPdkT2h2geeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=D4lPdkT2h2geeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#1 Le linee d&#x27;ombra di Amitav Ghosh</title>
-                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-65fd330d-08f7-40a2-a80a-de9ca1eadb01.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YpPpPlusstbldkxWJkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YpPpPlusstbldkxWJkeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Le linee d'ombra</title>
+        <link>https://www.raiplayradio.it/playlist/2018/12/Le-linee-dombra-5c589b76-6e67-466d-a61a-2a2e9467ba26.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/12/17/1545060248086_LineeOmbra_orizz_6b.jpg</url>
+            <title>Le linee d'ombra</title>
+            <link>https://www.raiplayradio.it/playlist/2018/12/Le-linee-dombra-5c589b76-6e67-466d-a61a-2a2e9467ba26.html</link>
+        </image>
+        <description>Elia Schilton legge &quot;Le linee d'ombra&quot; di Amitav Ghosh | Adattamento in 25 puntate di Chiara Valerio; The shadow lines di Amitav Ghosh. Copyright 1988, Amitav Gosh. Tutti i diritti riservati; traduzione di Anna Nadotti. A trenta anni dalla sua prima pubblicazione, Ad Alta Voce propone la lettura del romanzo che ha ci fatto conoscere Amitav Ghosh, grande scrittore e saggista indiano. Le linee d'ombra è un romanzo verticale, fisso nel luogo – Londra, Calcutta – e che va avanti e indietro nel tempo, come la memoria e come la tendenza dei popoli a spostarsi. Ad alta voce è un programma a cura di Anna Antonelli e Fabiana Carobolante, con Lorenzo Pavolini e Chiara Valerio.</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:57 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Elia Schilton legge &quot;Le linee d'ombra&quot; di Amitav Ghosh | Adattamento in 25 puntate di Chiara Valerio; The shadow lines di Amitav Ghosh. Copyright 1988, Amitav Gosh. Tutti i diritti riservati; traduzione di Anna Nadotti. A trenta anni dalla sua prima pubblicazione, Ad Alta Voce propone la lettura del romanzo che ha ci fatto conoscere Amitav Ghosh, grande scrittore e saggista indiano. Le linee d'ombra è un romanzo verticale, fisso nel luogo – Londra, Calcutta – e che va avanti e indietro nel tempo, come la memoria e come la tendenza dei popoli a spostarsi. Ad alta voce è un programma a cura di Anna Antonelli e Fabiana Carobolante, con Lorenzo Pavolini e Chiara Valerio.</itunes:summary>
+        <itunes:subtitle>Elia Schilton legge &quot;Le linee d'ombra&quot; di Amitav Ghosh | Adattamento in 25 puntate di Chiara Valerio; The shadow lines di Amitav Ghosh. Copyright 1988, Amitav Gosh. Tutti i diritti riservati; traduzione di Anna Nadotti. A trenta anni dalla sua prima pubblicazione, Ad Alta Voce propone la lettura del romanzo che ha ci fatto conoscere Amitav Ghosh, grande scrittore e saggista indiano. Le linee d'ombra è un romanzo verticale, fisso nel luogo – Londra, Calcutta – e che va avanti e indietro nel tempo, come la memoria e come la tendenza dei popoli a spostarsi. Ad alta voce è un programma a cura di Anna Antonelli e Fabiana Carobolante, con Lorenzo Pavolini e Chiara Valerio.</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/12/17/1545060248086_LineeOmbra_orizz_6b.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:57 -0000</pubDate>
+            <item>
+                <title>#25 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-25-Le-linee-daposombra-di-Amitav-Ghosh-3893e1d5-6c7c-4159-bc34-2e002c0d1075.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LpPpPlussM91mQ20cMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LpPpPlussM91mQ20cMeeqqEEqual</guid>
+                <description>#25 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#24 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-24-Le-linee-daposombra-di-Amitav-Ghosh-9b1314c4-fa6c-4925-a674-ac9d255c538c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EN8X60mDepPpPlussgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EN8X60mDepPpPlussgeeqqEEqual</guid>
+                <description>#24 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#23 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-23-Le-linee-daposombra-di-Amitav-Ghosh-44580945-b1b2-43c9-9f2c-ada96b03bce4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LGKQ8NogssSlash1QeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LGKQ8NogssSlash1QeeqqEEqual</guid>
+                <description>#23 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#22 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-22-Le-linee-daposombra-di-Amitav-Ghosh-70dd1607-2fd3-467b-9b5a-68d571544a0d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bNJIZwyMssSlashcceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bNJIZwyMssSlashcceeqqEEqual</guid>
+                <description>#22 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#21 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-21-Le-linee-daposombra-di-Amitav-Ghosh-bed5348b-3eda-4fa4-b99e-4aa93b8eae71.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zo4WvtPKKl0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zo4WvtPKKl0eeqqEEqual</guid>
+                <description>#21 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#20 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-20-Le-linee-daposombra-di-Amitav-Ghosh-2a0dafae-3c3b-4b0c-863f-a5d709148068.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EZbjF4OP8f8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EZbjF4OP8f8eeqqEEqual</guid>
+                <description>#20 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#19 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-19-Le-linee-daposombra-di-Amitav-Ghosh-ec70ccc6-061d-4b61-a235-17c5964d5d0c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2CysgK3zPyoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2CysgK3zPyoeeqqEEqual</guid>
+                <description>#19 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#18 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-18-Le-linee-daposombra-di-Amitav-Ghosh-dc657590-88fa-42f0-a8f1-6496e44b2670.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EsDRXccssSlashAooeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EsDRXccssSlashAooeeqqEEqual</guid>
+                <description>#18 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#17 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-17-Le-linee-daposombra-di-Amitav-Ghosh-aed00db4-6f79-47d3-9e3c-49b2069ffda2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nd1OPByCwssSlashoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nd1OPByCwssSlashoeeqqEEqual</guid>
+                <description>#17 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#16 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-16-Le-linee-daposombra-di-Amitav-Ghosh-de048527-133b-4fd2-8340-8d5691801167.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o1pBYFpPpPlussDJE8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o1pBYFpPpPlussDJE8eeqqEEqual</guid>
+                <description>#16 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#15 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-15-Le-linee-daposombra-di-Amitav-Ghosh-7b69ef05-d4e7-4792-8fda-62329907cd4f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k53LLbO1tX4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k53LLbO1tX4eeqqEEqual</guid>
+                <description>#15 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#14 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-14-Le-linee-daposombra-di-Amitav-Ghosh-bf4b6431-d0de-44e3-8fdf-930259a33017.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dQKu2Ueo2apz6vawuSAqtAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dQKu2Ueo2apz6vawuSAqtAeeqqEEqualeeqqEEqual</guid>
+                <description>#14 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>01:00:00</itunes:duration>
+            </item>
+            <item>
+                <title>#13 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-13-Le-linee-daposombra-di-Amitav-Ghosh-9d7d4aab-53a5-4280-95e6-d0fa8222b20f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k2q7UeRfQSAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k2q7UeRfQSAeeqqEEqual</guid>
+                <description>#13 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#12 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-12-Le-linee-daposombra-di-Amitav-Ghosh-e582831c-4228-473b-ab9b-0e0298905168.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iLxwtR7NZhoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iLxwtR7NZhoeeqqEEqual</guid>
+                <description>#12 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#11 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-11-Le-linee-daposombra-di-Amitav-Ghosh-c9d2f9e8-17c6-4d7c-90fb-f30818cc11cd.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UCygIUgu9QMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UCygIUgu9QMeeqqEEqual</guid>
+                <description>#11 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#10 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-10-Le-linee-daposombra-di-Amitav-Ghosh-a21b12be-aa4d-4fb2-9bd4-6ef2325e7ad1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5QGjNv9okwceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5QGjNv9okwceeqqEEqual</guid>
+                <description>#10 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#9 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-9-Le-linee-daposombra-di-Amitav-Ghosh-4712a961-b512-453b-bc28-45571f0e93e7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4HrCWy9wvV8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4HrCWy9wvV8eeqqEEqual</guid>
+                <description>#9 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#8 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-8-Le-linee-daposombra-di-Amitav-Ghosh-d17649cc-5ccf-4617-b2b6-2be8a0646a4d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aq5s3W5R0fAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aq5s3W5R0fAeeqqEEqual</guid>
+                <description>#8 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#7 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-7-Le-linee-daposombra-di-Amitav-Ghosh-6f6e2ae2-a438-4c5a-a90e-4c0a66658243.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Krz1pPpPlussh2rssSlashlkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Krz1pPpPlussh2rssSlashlkeeqqEEqual</guid>
+                <description>#7 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#6 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-6-Le-linee-daposombra-di-Amitav-Ghosh-f156f748-f137-4624-87d3-d6b256b93ae1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t5PIswORNCMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t5PIswORNCMeeqqEEqual</guid>
+                <description>#6 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#5 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-5-Le-linee-daposombra-di-Amitav-Ghosh-caed499e-1445-4c97-921f-3732c65d0c93.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Pl4gPCT9V1seeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Pl4gPCT9V1seeqqEEqual</guid>
+                <description>#5 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#4  Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-4-Le-linee-daposombra-di-Amitav-Ghosh-1f803832-35d3-45d2-a371-f6bbb6db43af.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KKdODZw8Od0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KKdODZw8Od0eeqqEEqual</guid>
+                <description>#4  Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#3 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-3-Le-linee-daposombra-di-Amitav-Ghosh-cea46117-a172-4d24-990e-4cc1746d5940.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q3BMM82eLrEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q3BMM82eLrEeeqqEEqual</guid>
+                <description>#3 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#2 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-2-Le-linee-daposombra-di-Amitav-Ghosh-ccfc3567-966a-434d-ac08-21730f302019.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=D4lPdkT2h2geeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=D4lPdkT2h2geeqqEEqual</guid>
+                <description>#2 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#1 Le linee d'ombra di Amitav Ghosh</title>
+                <link>https://www.raiplayradio.it/audio/2018/11/AD-ALTA-VOCE-65fd330d-08f7-40a2-a80a-de9ca1eadb01.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YpPpPlusstbldkxWJkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YpPpPlusstbldkxWJkeeqqEEqual</guid>
+                <description>#1 Le linee d'ombra di Amitav Ghosh</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

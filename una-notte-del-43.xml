@@ -1,55 +1,58 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Una notte del &#x27;43</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Una-notte-del-43-cb995d4c-1d3c-4470-80ff-b49638bc4a86.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/22/1516615046873_Una%20notte%20del%2043.jpg</url>
-            <title>Una notte del &#x27;43</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Una-notte-del-43-cb995d4c-1d3c-4470-80ff-b49638bc4a86.html</link>
-        </image>
-        <description>Valerio Binasco legge Giorgio Bassani	</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:39 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Valerio Binasco legge Giorgio Bassani	</itunes:summary>
-        <itunes:subtitle>Valerio Binasco legge Giorgio Bassani	</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/22/1516615046873_Una%20notte%20del%2043.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:39 -0000</pubDate>
-            <item>
-                <title>Una notte del &#x27;43 - Ad Alta voce del 01/04/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-01042016-6c26d634-fec4-4c55-98f7-581e74778a5c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OzZhFC3UssSlashNYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OzZhFC3UssSlashNYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una notte del &#x27;43 - Ad Alta voce del 31/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-31032016-8a4d2d91-021e-457a-9bb4-c33ad8ba6bb3.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5vNnt51BmsQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5vNnt51BmsQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una notte del &#x27;43 - Ad Alta voce del 30/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-30032016-073d1fa5-b67f-4186-bf0f-38a85a8bbc5d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Wo8h1n4rGkYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Wo8h1n4rGkYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una notte del &#x27;43 - Ad Alta voce del 29/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-29032016-3806c382-fad8-4d14-829c-be09a566c503.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PjyHud0KCfAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PjyHud0KCfAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una notte del &#x27;43 - Ad Alta voce del 28/03/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-28032016-3d25a46a-5abd-45ee-baf7-843f33f91020.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cHr7ucgjIgEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cHr7ucgjIgEeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Una notte del '43</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Una-notte-del-43-cb995d4c-1d3c-4470-80ff-b49638bc4a86.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2021/04/23/1619167088511_Una-notte-del-43.png</url>
+            <title>Una notte del '43</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Una-notte-del-43-cb995d4c-1d3c-4470-80ff-b49638bc4a86.html</link>
+        </image>
+        <description>di Giorgio Bassani letto da Valerio Binasco</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:33 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Giorgio Bassani letto da Valerio Binasco</itunes:summary>
+        <itunes:subtitle>di Giorgio Bassani letto da Valerio Binasco</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2021/04/23/1619167088511_Una-notte-del-43.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:33 -0000</pubDate>
+            <item>
+                <title>Una notte del '43 - Ad Alta voce del 01/04/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-01042016-6c26d634-fec4-4c55-98f7-581e74778a5c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OzZhFC3UssSlashNYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OzZhFC3UssSlashNYeeqqEEqual</guid>
+                <description>Una notte del '43 - Ad Alta voce del 01/04/2016</description>
+            </item>
+            <item>
+                <title>Una notte del '43 - Ad Alta voce del 31/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-31032016-8a4d2d91-021e-457a-9bb4-c33ad8ba6bb3.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5vNnt51BmsQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5vNnt51BmsQeeqqEEqual</guid>
+                <description>Una notte del '43 - Ad Alta voce del 31/03/2016</description>
+            </item>
+            <item>
+                <title>Una notte del '43 - Ad Alta voce del 30/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-30032016-073d1fa5-b67f-4186-bf0f-38a85a8bbc5d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Wo8h1n4rGkYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Wo8h1n4rGkYeeqqEEqual</guid>
+                <description>Una notte del '43 - Ad Alta voce del 30/03/2016</description>
+            </item>
+            <item>
+                <title>Una notte del '43 - Ad Alta voce del 29/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-29032016-3806c382-fad8-4d14-829c-be09a566c503.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PjyHud0KCfAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PjyHud0KCfAeeqqEEqual</guid>
+                <description>Una notte del '43 - Ad Alta voce del 29/03/2016</description>
+            </item>
+            <item>
+                <title>Una notte del '43 - Ad Alta voce del 28/03/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-28032016-3d25a46a-5abd-45ee-baf7-843f33f91020.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cHr7ucgjIgEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cHr7ucgjIgEeeqqEEqual</guid>
+                <description>Una notte del '43 - Ad Alta voce del 28/03/2016</description>
+            </item>
+    </channel>
 </rss>

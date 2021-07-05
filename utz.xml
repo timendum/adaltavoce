@@ -1,90 +1,103 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Utz</title>
-        <link>https://www.raiplayradio.it/playlist/2019/02/Utz-01dff495-fc6f-431d-9ad1-ac3949966cf4.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/02/22/1550850692185_Focus%20origami%202048x1152%201280x720%20utz.png</url>
-            <title>Utz</title>
-            <link>https://www.raiplayradio.it/playlist/2019/02/Utz-01dff495-fc6f-431d-9ad1-ac3949966cf4.html</link>
-        </image>
-        <description>Lino Guanciale legge Utz di Bruce Chatwin. Traduzione di Dario Mazzone. Lettura integrale in 10 puntate. &quot;Si tratta di un uomo che si è rovinato la vita aggrappandosi alla sua meravigliosa collezione di statuine di Meissen tra gli orrori della seconda guerra mondiale e i primi anni dello stalinismo&quot;, così Chatwin descrive a un amico il protagonista del suo ultimo romanzo, pubblicato pochi mesi prima della morte, nel 1988. Un racconto che nasce dall&#x27;esperienza dell&#x27;incontro personale con Kaspar Utz nell&#x27;estate del &#x27;67, poco prima della primavera di Praga, dal suo morboso attaccamento a degli oggetti simbolo di un mondo perduto, in un paese che ha abolito la proprietà privata, e dal mistero della sparizione della sua collezione dopo la morte.</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:40 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Lino Guanciale legge Utz di Bruce Chatwin. Traduzione di Dario Mazzone. Lettura integrale in 10 puntate. &quot;Si tratta di un uomo che si è rovinato la vita aggrappandosi alla sua meravigliosa collezione di statuine di Meissen tra gli orrori della seconda guerra mondiale e i primi anni dello stalinismo&quot;, così Chatwin descrive a un amico il protagonista del suo ultimo romanzo, pubblicato pochi mesi prima della morte, nel 1988. Un racconto che nasce dall&#x27;esperienza dell&#x27;incontro personale con Kaspar Utz nell&#x27;estate del &#x27;67, poco prima della primavera di Praga, dal suo morboso attaccamento a degli oggetti simbolo di un mondo perduto, in un paese che ha abolito la proprietà privata, e dal mistero della sparizione della sua collezione dopo la morte.</itunes:summary>
-        <itunes:subtitle>Lino Guanciale legge Utz di Bruce Chatwin. Traduzione di Dario Mazzone. Lettura integrale in 10 puntate. &quot;Si tratta di un uomo che si è rovinato la vita aggrappandosi alla sua meravigliosa collezione di statuine di Meissen tra gli orrori della seconda guerra mondiale e i primi anni dello stalinismo&quot;, così Chatwin descrive a un amico il protagonista del suo ultimo romanzo, pubblicato pochi mesi prima della morte, nel 1988. Un racconto che nasce dall&#x27;esperienza dell&#x27;incontro personale con Kaspar Utz nell&#x27;estate del &#x27;67, poco prima della primavera di Praga, dal suo morboso attaccamento a degli oggetti simbolo di un mondo perduto, in un paese che ha abolito la proprietà privata, e dal mistero della sparizione della sua collezione dopo la morte.</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/02/22/1550850692185_Focus%20origami%202048x1152%201280x720%20utz.png"/>
-        <pubDate>Tue, 26 May 2020 10:57:40 -0000</pubDate>
-            <item>
-                <title>#10 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-10-053225f4-271d-43b7-96c7-d494d6434f92.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dpPpPlusstGV5N26qzpPpPluss6uewlb0zuQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dpPpPlusstGV5N26qzpPpPluss6uewlb0zuQeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#9 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-9-2b82ddc1-a1b9-4e80-8058-93b7647a73ea.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nvCw2BxpPpPluss2p8vfuedFpPpPlussrfkQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nvCw2BxpPpPluss2p8vfuedFpPpPlussrfkQeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#8 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-8-a752280b-83e6-4270-97d9-ec6a1e98619c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q4lPHRqd8Sn0pPpPlussbHoSrGK1AeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q4lPHRqd8Sn0pPpPlussbHoSrGK1AeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#7 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-7-9eafa8eb-31df-4537-b0e6-526f4d5b16fa.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0uaJlQu8MRUE994Q0oRaZQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0uaJlQu8MRUE994Q0oRaZQeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#6 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-6-a9237147-f1ca-480d-b793-e57be26d9955.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IFoNZasWs4ssSlashiHkVtbelnTAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IFoNZasWs4ssSlashiHkVtbelnTAeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#5 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-5-99bda67d-e106-49f2-a61f-67f3301de6d7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ohSdssSlashDd5LYDRXHEx3KwUqQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ohSdssSlashDd5LYDRXHEx3KwUqQeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#4 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-4-99c2b3eb-e3ef-45ec-a9c7-d1ba9309c2d2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UkUf9XlqIZ8XpPpPlussOzxwnkXGQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UkUf9XlqIZ8XpPpPlussOzxwnkXGQeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#3 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-3-e39fa2c7-d7b4-47c9-aae8-c38a9b6e2b04.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KoODVv0e0kMMjqhMJqN7rgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KoODVv0e0kMMjqhMJqN7rgeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#2 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-2-6876c267-30e4-4493-9c6c-726882c634f6.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iqQEoAudjlICRnP6C3KqzgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iqQEoAudjlICRnP6C3KqzgeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#1 Utz</title>
-                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-1-5cf6dbee-4a38-4dc9-9fc2-31857de4bf9c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eUgWEpPpPlusswFpPpPlusszzo26qfjJYtbgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eUgWEpPpPlusswFpPpPlusszzo26qfjJYtbgeeqqEEqualeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Utz</title>
+        <link>https://www.raiplayradio.it/playlist/2019/02/Utz-01dff495-fc6f-431d-9ad1-ac3949966cf4.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/02/22/1550850692185_Focus%20origami%202048x1152%201280x720%20utz.png</url>
+            <title>Utz</title>
+            <link>https://www.raiplayradio.it/playlist/2019/02/Utz-01dff495-fc6f-431d-9ad1-ac3949966cf4.html</link>
+        </image>
+        <description>Lino Guanciale legge Utz di Bruce Chatwin. Traduzione di Dario Mazzone. Lettura integrale in 10 puntate. &quot;Si tratta di un uomo che si è rovinato la vita aggrappandosi alla sua meravigliosa collezione di statuine di Meissen tra gli orrori della seconda guerra mondiale e i primi anni dello stalinismo&quot;, così Chatwin descrive a un amico il protagonista del suo ultimo romanzo, pubblicato pochi mesi prima della morte, nel 1988. Un racconto che nasce dall'esperienza dell'incontro personale con Kaspar Utz nell'estate del '67, poco prima della primavera di Praga, dal suo morboso attaccamento a degli oggetti simbolo di un mondo perduto, in un paese che ha abolito la proprietà privata, e dal mistero della sparizione della sua collezione dopo la morte.</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:35 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Lino Guanciale legge Utz di Bruce Chatwin. Traduzione di Dario Mazzone. Lettura integrale in 10 puntate. &quot;Si tratta di un uomo che si è rovinato la vita aggrappandosi alla sua meravigliosa collezione di statuine di Meissen tra gli orrori della seconda guerra mondiale e i primi anni dello stalinismo&quot;, così Chatwin descrive a un amico il protagonista del suo ultimo romanzo, pubblicato pochi mesi prima della morte, nel 1988. Un racconto che nasce dall'esperienza dell'incontro personale con Kaspar Utz nell'estate del '67, poco prima della primavera di Praga, dal suo morboso attaccamento a degli oggetti simbolo di un mondo perduto, in un paese che ha abolito la proprietà privata, e dal mistero della sparizione della sua collezione dopo la morte.</itunes:summary>
+        <itunes:subtitle>Lino Guanciale legge Utz di Bruce Chatwin. Traduzione di Dario Mazzone. Lettura integrale in 10 puntate. &quot;Si tratta di un uomo che si è rovinato la vita aggrappandosi alla sua meravigliosa collezione di statuine di Meissen tra gli orrori della seconda guerra mondiale e i primi anni dello stalinismo&quot;, così Chatwin descrive a un amico il protagonista del suo ultimo romanzo, pubblicato pochi mesi prima della morte, nel 1988. Un racconto che nasce dall'esperienza dell'incontro personale con Kaspar Utz nell'estate del '67, poco prima della primavera di Praga, dal suo morboso attaccamento a degli oggetti simbolo di un mondo perduto, in un paese che ha abolito la proprietà privata, e dal mistero della sparizione della sua collezione dopo la morte.</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/02/22/1550850692185_Focus%20origami%202048x1152%201280x720%20utz.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:35 -0000</pubDate>
+            <item>
+                <title>#10 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-10-053225f4-271d-43b7-96c7-d494d6434f92.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dpPpPlusstGV5N26qzpPpPluss6uewlb0zuQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dpPpPlusstGV5N26qzpPpPluss6uewlb0zuQeeqqEEqualeeqqEEqual</guid>
+                <description>#10 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#9 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-9-2b82ddc1-a1b9-4e80-8058-93b7647a73ea.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nvCw2BxpPpPluss2p8vfuedFpPpPlussrfkQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nvCw2BxpPpPluss2p8vfuedFpPpPlussrfkQeeqqEEqualeeqqEEqual</guid>
+                <description>#9 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#8 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-8-a752280b-83e6-4270-97d9-ec6a1e98619c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q4lPHRqd8Sn0pPpPlussbHoSrGK1AeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=q4lPHRqd8Sn0pPpPlussbHoSrGK1AeeqqEEqualeeqqEEqual</guid>
+                <description>#8 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#7 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-7-9eafa8eb-31df-4537-b0e6-526f4d5b16fa.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0uaJlQu8MRUE994Q0oRaZQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0uaJlQu8MRUE994Q0oRaZQeeqqEEqualeeqqEEqual</guid>
+                <description>#7 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#6 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-6-a9237147-f1ca-480d-b793-e57be26d9955.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IFoNZasWs4ssSlashiHkVtbelnTAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IFoNZasWs4ssSlashiHkVtbelnTAeeqqEEqualeeqqEEqual</guid>
+                <description>#6 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#5 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-5-99bda67d-e106-49f2-a61f-67f3301de6d7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ohSdssSlashDd5LYDRXHEx3KwUqQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ohSdssSlashDd5LYDRXHEx3KwUqQeeqqEEqualeeqqEEqual</guid>
+                <description>#5 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#4 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-4-99c2b3eb-e3ef-45ec-a9c7-d1ba9309c2d2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UkUf9XlqIZ8XpPpPlussOzxwnkXGQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UkUf9XlqIZ8XpPpPlussOzxwnkXGQeeqqEEqualeeqqEEqual</guid>
+                <description>#4 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#3 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-3-e39fa2c7-d7b4-47c9-aae8-c38a9b6e2b04.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KoODVv0e0kMMjqhMJqN7rgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KoODVv0e0kMMjqhMJqN7rgeeqqEEqualeeqqEEqual</guid>
+                <description>#3 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#2 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-2-6876c267-30e4-4493-9c6c-726882c634f6.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iqQEoAudjlICRnP6C3KqzgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iqQEoAudjlICRnP6C3KqzgeeqqEEqualeeqqEEqual</guid>
+                <description>#2 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#1 Utz</title>
+                <link>https://www.raiplayradio.it/audio/2019/02/AD-ALTA-VOCE---Utz-1-5cf6dbee-4a38-4dc9-9fc2-31857de4bf9c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eUgWEpPpPlusswFpPpPlusszzo26qfjJYtbgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eUgWEpPpPlusswFpPpPlusszzo26qfjJYtbgeeqqEEqualeeqqEEqual</guid>
+                <description>#1 Utz</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

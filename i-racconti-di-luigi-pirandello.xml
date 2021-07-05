@@ -1,55 +1,58 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>I racconti di Luigi Pirandello</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-I-racconti-di-Pirandello-2e8ac40b-6815-4dd3-a3ec-4302ae958899.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516183321801_I%20racconti%20di%20Pirandello.jpg</url>
-            <title>I racconti di Luigi Pirandello</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-I-racconti-di-Pirandello-2e8ac40b-6815-4dd3-a3ec-4302ae958899.html</link>
-        </image>
-        <description>I racconti di Luigi Pirandello</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:12 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>I racconti di Luigi Pirandello</itunes:summary>
-        <itunes:subtitle>I racconti di Luigi Pirandello</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516183321801_I%20racconti%20di%20Pirandello.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:12 -0000</pubDate>
-            <item>
-                <title>Tu ridi</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Tu-ridi-5436d75d-8d5e-417c-b4b5-7eb2e8866cc1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FqvCkGaatD8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FqvCkGaatD8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La signora Frola</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/La-signora-Frola-2517ca07-d249-4a43-9434-9733f97d47b9.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DLMNVvcHDYceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DLMNVvcHDYceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La giara</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/La-giara-e0343f03-660c-4bca-adc1-c2f54a94c938.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hHTq5J1O594eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hHTq5J1O594eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Ciàula scopre la luna</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/Ciaula-scopre-la-luna-3daa712c-3ca8-489b-8cd3-1708b4b01f88.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La carriola</title>
-                <link>https://www.raiplayradio.it/audio/2014/10/La-carriola-21ee3eeb-9cdc-4de6-9aee-55b1ac010396.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mm09uuJUMzseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mm09uuJUMzseeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I racconti di Luigi Pirandello</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-I-racconti-di-Pirandello-2e8ac40b-6815-4dd3-a3ec-4302ae958899.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516183321801_I%20racconti%20di%20Pirandello.jpg</url>
+            <title>I racconti di Luigi Pirandello</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-I-racconti-di-Pirandello-2e8ac40b-6815-4dd3-a3ec-4302ae958899.html</link>
+        </image>
+        <description>I racconti di Luigi Pirandello</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:12 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>I racconti di Luigi Pirandello</itunes:summary>
+        <itunes:subtitle>I racconti di Luigi Pirandello</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516183321801_I%20racconti%20di%20Pirandello.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:12 -0000</pubDate>
+            <item>
+                <title>Tu ridi</title>
+                <link>https://www.raiplayradio.it/audio/2014/10/Tu-ridi-5436d75d-8d5e-417c-b4b5-7eb2e8866cc1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FqvCkGaatD8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FqvCkGaatD8eeqqEEqual</guid>
+                <description>Tu ridi</description>
+            </item>
+            <item>
+                <title>La signora Frola</title>
+                <link>https://www.raiplayradio.it/audio/2014/10/La-signora-Frola-2517ca07-d249-4a43-9434-9733f97d47b9.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DLMNVvcHDYceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DLMNVvcHDYceeqqEEqual</guid>
+                <description>La signora Frola</description>
+            </item>
+            <item>
+                <title>La giara</title>
+                <link>https://www.raiplayradio.it/audio/2014/10/La-giara-e0343f03-660c-4bca-adc1-c2f54a94c938.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hHTq5J1O594eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hHTq5J1O594eeqqEEqual</guid>
+                <description>La giara</description>
+            </item>
+            <item>
+                <title>Ciàula scopre la luna</title>
+                <link>https://www.raiplayradio.it/audio/2014/10/Ciaula-scopre-la-luna-3daa712c-3ca8-489b-8cd3-1708b4b01f88.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual</guid>
+                <description>Ciàula scopre la luna</description>
+            </item>
+            <item>
+                <title>La carriola</title>
+                <link>https://www.raiplayradio.it/audio/2014/10/La-carriola-21ee3eeb-9cdc-4de6-9aee-55b1ac010396.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mm09uuJUMzseeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mm09uuJUMzseeqqEEqual</guid>
+                <description>La carriola</description>
+            </item>
+    </channel>
 </rss>

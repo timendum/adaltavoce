@@ -1,188 +1,191 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>I racconti di Raymond Carver </title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Raymond-Carver--99e47c11-3427-48c5-8c74-561def5b9bfe.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612651129_I-racconti-di-Raymond-Carver.jpg</url>
-            <title>I racconti di Raymond Carver </title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Raymond-Carver--99e47c11-3427-48c5-8c74-561def5b9bfe.html</link>
-        </image>
-        <description>di Carver letto da Ernesto Goio</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:12 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Carver letto da Ernesto Goio</itunes:summary>
-        <itunes:subtitle>di Carver letto da Ernesto Goio</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612651129_I-racconti-di-Raymond-Carver.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:12 -0000</pubDate>
-            <item>
-                <title>Di cosa parliamo quando parliamo d&#x27;amore</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-V-6622a566-3a43-4ba1-b070-b2ac34fe2799.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aAPvUknjGkMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aAPvUknjGkMeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Un&#x27;altra cosa</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-IV-265a0b8e-3ef6-41fb-b709-895875274ce8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YPX3pvJqKyMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YPX3pvJqKyMeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Sacchetti</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-III-6ed97887-a7fc-4963-bff0-0194355fe39b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UUm53fZOnP0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UUm53fZOnP0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Gazebo</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---lettura-II-21eeea1c-9939-473d-a8f9-8d018551d27d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P9aVssSlash2DFsKkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P9aVssSlash2DFsKkeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Perché non ballate?</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-I-c3b8773b-1b32-4def-a752-5750c75c4d8d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sT6pb7ptDj8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sT6pb7ptDj8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Vicini  | Ad Alta Voce del 08/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-dbd2b991-31df-46ca-8191-e989eb8ed6d1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=auxia9JB0wkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=auxia9JB0wkeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Con tanta di quell’acqua a due passi da casa | Ad Alta Voce del 30/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-103b7440-a1c8-47ea-8b51-905d08dda56c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=udGfZDzIU6QeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=udGfZDzIU6QeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Con tanta di quell’acqua a due passi da casa | Ad Alta Voce del 29/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-e1bb04cf-25a2-4f21-bc3c-2d374ddcd7d3.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uE7pKAwmi3ceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uE7pKAwmi3ceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una cosa piccola ma buona | Ad Alta Voce del 28/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-c7055a12-cb7a-46c4-9ef0-6b248a65b28c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rJ1m6uJo3hoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rJ1m6uJo3hoeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una cosa piccola ma buona | Ad Alta Voce del 27/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-534d53cc-826d-46da-bf99-f0c0734eb160.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=65C0YhRv2NweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=65C0YhRv2NweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una cosa piccola ma buona | Ad Alta Voce del 26/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-dcea4d5b-b282-4195-bcb6-8c2785f583a0.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XHlj1v2oWy4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XHlj1v2oWy4eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Conservazione | Ad Alta Voce del 23/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-167eb74d-b159-44fb-978c-27bf85700d5f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OtfYz6bHU50eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OtfYz6bHU50eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Jerry, Molly e Sam | Ad Alta Voce del 22/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-36fe6eca-6df1-4c7e-b384-bb71cfb42a77.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gsy5hC8Nz6seeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gsy5hC8Nz6seeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Jerry, Molly e Sam | Ad Alta Voce del 21/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-bc92ad6c-2bbf-47d0-87b7-9fce79eb1da2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WvOgmyflQTQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WvOgmyflQTQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Vuoi star zitta per favore | Ad Alta Voce del 20/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-c55c558f-1ffe-48bb-a4df-0a4aa1e0695e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f41XWkAwdoceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f41XWkAwdoceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Vuoi star zitta per favore  | Ad Alta Voce del 19/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-6a39a581-0937-4ee8-b331-a2c043837486.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EFxIoNvEatAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EFxIoNvEatAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il treno | Ad Alta Voce del 16/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-8cbd42b9-4fb6-4ca8-a06e-a992107e1880.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nMxMssSlashlbpVw8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nMxMssSlashlbpVw8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Distanza | Ad Alta Voce del 15/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-a613b763-2b5c-4727-817f-7f187dbd4ac8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlashCopPpPlussZcaeqSceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlashCopPpPlussZcaeqSceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Di alle donne che usciamo - Mio | Ad Alta Voce del 14/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-0fe89946-a004-421e-a876-cf16774ee526.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Vitamine  | Ad Alta Voce del 13/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-7c06bfb3-005d-41b7-9f8c-51c736a99655.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JUH98XA3Vr0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JUH98XA3Vr0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Vitamine  | Ad Alta Voce del 12/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-8b30bcfa-6ad4-465a-bf04-955bc5e3fbcf.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AuMC9dNVoWweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AuMC9dNVoWweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Loro non sono tuo marito  | Ad Alta Voce del 09/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-e15794c6-1941-4332-b539-349feacb22a1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OjseCcOHYD8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OjseCcOHYD8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Collettori - Limonata | Ad Alta Voce del 07/09/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-750d5a50-ce81-4642-8d72-9f75bf7e80b4.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G94Ex0pPpPlussj2gYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G94Ex0pPpPlussj2gYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>&quot;Cattedrale&quot; di Raymond Carver letto da Fausto Paravidino</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-1f3794a7-b46a-48a5-a60e-a19e6395e3c4.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I racconti di Raymond Carver </title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Raymond-Carver--99e47c11-3427-48c5-8c74-561def5b9bfe.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612651129_I-racconti-di-Raymond-Carver.jpg</url>
+            <title>I racconti di Raymond Carver </title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Raymond-Carver--99e47c11-3427-48c5-8c74-561def5b9bfe.html</link>
+        </image>
+        <description>di Carver letto da Ernesto Goio</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:12 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Carver letto da Ernesto Goio</itunes:summary>
+        <itunes:subtitle>di Carver letto da Ernesto Goio</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612651129_I-racconti-di-Raymond-Carver.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:12 -0000</pubDate>
+            <item>
+                <title>Di cosa parliamo quando parliamo d'amore</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-V-6622a566-3a43-4ba1-b070-b2ac34fe2799.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aAPvUknjGkMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aAPvUknjGkMeeqqEEqual</guid>
+                <description>Di cosa parliamo quando parliamo d'amore</description>
+            </item>
+            <item>
+                <title>Un'altra cosa</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-IV-265a0b8e-3ef6-41fb-b709-895875274ce8.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YPX3pvJqKyMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YPX3pvJqKyMeeqqEEqual</guid>
+                <description>Un'altra cosa</description>
+            </item>
+            <item>
+                <title>Sacchetti</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-III-6ed97887-a7fc-4963-bff0-0194355fe39b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UUm53fZOnP0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UUm53fZOnP0eeqqEEqual</guid>
+                <description>Sacchetti</description>
+            </item>
+            <item>
+                <title>Gazebo</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---lettura-II-21eeea1c-9939-473d-a8f9-8d018551d27d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P9aVssSlash2DFsKkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P9aVssSlash2DFsKkeeqqEEqual</guid>
+                <description>Gazebo</description>
+            </item>
+            <item>
+                <title>Perché non ballate?</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/I-racconti-di-Carver---Lettura-I-c3b8773b-1b32-4def-a752-5750c75c4d8d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sT6pb7ptDj8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sT6pb7ptDj8eeqqEEqual</guid>
+                <description>Perché non ballate?</description>
+            </item>
+            <item>
+                <title>Vicini  | Ad Alta Voce del 08/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-dbd2b991-31df-46ca-8191-e989eb8ed6d1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=auxia9JB0wkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=auxia9JB0wkeeqqEEqual</guid>
+                <description>Vicini  | Ad Alta Voce del 08/09/2016</description>
+            </item>
+            <item>
+                <title>Con tanta di quell’acqua a due passi da casa | Ad Alta Voce del 30/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-103b7440-a1c8-47ea-8b51-905d08dda56c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=udGfZDzIU6QeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=udGfZDzIU6QeeqqEEqual</guid>
+                <description>Con tanta di quell’acqua a due passi da casa | Ad Alta Voce del 30/09/2016</description>
+            </item>
+            <item>
+                <title>Con tanta di quell’acqua a due passi da casa | Ad Alta Voce del 29/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-e1bb04cf-25a2-4f21-bc3c-2d374ddcd7d3.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uE7pKAwmi3ceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uE7pKAwmi3ceeqqEEqual</guid>
+                <description>Con tanta di quell’acqua a due passi da casa | Ad Alta Voce del 29/09/2016</description>
+            </item>
+            <item>
+                <title>Una cosa piccola ma buona | Ad Alta Voce del 28/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-c7055a12-cb7a-46c4-9ef0-6b248a65b28c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rJ1m6uJo3hoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rJ1m6uJo3hoeeqqEEqual</guid>
+                <description>Una cosa piccola ma buona | Ad Alta Voce del 28/09/2016</description>
+            </item>
+            <item>
+                <title>Una cosa piccola ma buona | Ad Alta Voce del 27/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-534d53cc-826d-46da-bf99-f0c0734eb160.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=65C0YhRv2NweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=65C0YhRv2NweeqqEEqual</guid>
+                <description>Una cosa piccola ma buona | Ad Alta Voce del 27/09/2016</description>
+            </item>
+            <item>
+                <title>Una cosa piccola ma buona | Ad Alta Voce del 26/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-dcea4d5b-b282-4195-bcb6-8c2785f583a0.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XHlj1v2oWy4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XHlj1v2oWy4eeqqEEqual</guid>
+                <description>Una cosa piccola ma buona | Ad Alta Voce del 26/09/2016</description>
+            </item>
+            <item>
+                <title>Conservazione | Ad Alta Voce del 23/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-167eb74d-b159-44fb-978c-27bf85700d5f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OtfYz6bHU50eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OtfYz6bHU50eeqqEEqual</guid>
+                <description>Conservazione | Ad Alta Voce del 23/09/2016</description>
+            </item>
+            <item>
+                <title>Jerry, Molly e Sam | Ad Alta Voce del 22/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-36fe6eca-6df1-4c7e-b384-bb71cfb42a77.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gsy5hC8Nz6seeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gsy5hC8Nz6seeqqEEqual</guid>
+                <description>Jerry, Molly e Sam | Ad Alta Voce del 22/09/2016</description>
+            </item>
+            <item>
+                <title>Jerry, Molly e Sam | Ad Alta Voce del 21/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-bc92ad6c-2bbf-47d0-87b7-9fce79eb1da2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WvOgmyflQTQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WvOgmyflQTQeeqqEEqual</guid>
+                <description>Jerry, Molly e Sam | Ad Alta Voce del 21/09/2016</description>
+            </item>
+            <item>
+                <title>Vuoi star zitta per favore | Ad Alta Voce del 20/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-c55c558f-1ffe-48bb-a4df-0a4aa1e0695e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f41XWkAwdoceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f41XWkAwdoceeqqEEqual</guid>
+                <description>Vuoi star zitta per favore | Ad Alta Voce del 20/09/2016</description>
+            </item>
+            <item>
+                <title>Vuoi star zitta per favore  | Ad Alta Voce del 19/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-6a39a581-0937-4ee8-b331-a2c043837486.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EFxIoNvEatAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EFxIoNvEatAeeqqEEqual</guid>
+                <description>Vuoi star zitta per favore  | Ad Alta Voce del 19/09/2016</description>
+            </item>
+            <item>
+                <title>Il treno | Ad Alta Voce del 16/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-8cbd42b9-4fb6-4ca8-a06e-a992107e1880.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nMxMssSlashlbpVw8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nMxMssSlashlbpVw8eeqqEEqual</guid>
+                <description>Il treno | Ad Alta Voce del 16/09/2016</description>
+            </item>
+            <item>
+                <title>Distanza | Ad Alta Voce del 15/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-a613b763-2b5c-4727-817f-7f187dbd4ac8.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlashCopPpPlussZcaeqSceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlashCopPpPlussZcaeqSceeqqEEqual</guid>
+                <description>Distanza | Ad Alta Voce del 15/09/2016</description>
+            </item>
+            <item>
+                <title>Di alle donne che usciamo - Mio | Ad Alta Voce del 14/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-0fe89946-a004-421e-a876-cf16774ee526.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual</guid>
+                <description>Di alle donne che usciamo - Mio | Ad Alta Voce del 14/09/2016</description>
+            </item>
+            <item>
+                <title>Vitamine  | Ad Alta Voce del 13/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-7c06bfb3-005d-41b7-9f8c-51c736a99655.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JUH98XA3Vr0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JUH98XA3Vr0eeqqEEqual</guid>
+                <description>Vitamine  | Ad Alta Voce del 13/09/2016</description>
+            </item>
+            <item>
+                <title>Vitamine  | Ad Alta Voce del 12/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-8b30bcfa-6ad4-465a-bf04-955bc5e3fbcf.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AuMC9dNVoWweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AuMC9dNVoWweeqqEEqual</guid>
+                <description>Vitamine  | Ad Alta Voce del 12/09/2016</description>
+            </item>
+            <item>
+                <title>Loro non sono tuo marito  | Ad Alta Voce del 09/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-e15794c6-1941-4332-b539-349feacb22a1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OjseCcOHYD8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OjseCcOHYD8eeqqEEqual</guid>
+                <description>Loro non sono tuo marito  | Ad Alta Voce del 09/09/2016</description>
+            </item>
+            <item>
+                <title>Collettori - Limonata | Ad Alta Voce del 07/09/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-750d5a50-ce81-4642-8d72-9f75bf7e80b4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G94Ex0pPpPlussj2gYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G94Ex0pPpPlussj2gYeeqqEEqual</guid>
+                <description>Collettori - Limonata | Ad Alta Voce del 07/09/2016</description>
+            </item>
+            <item>
+                <title>&quot;Cattedrale&quot; di Raymond Carver letto da Fausto Paravidino</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-1f3794a7-b46a-48a5-a60e-a19e6395e3c4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual</guid>
+                <description>&quot;Cattedrale&quot; di Raymond Carver letto da Fausto Paravidino</description>
+            </item>
+    </channel>
 </rss>

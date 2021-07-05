@@ -1,90 +1,93 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>I racconti di Jack London</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Jack-London-e25d4568-a980-496a-975d-00bc0c966992.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612600177_I-racconti-di-Jack-London.jpg</url>
-            <title>I racconti di Jack London</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Jack-London-e25d4568-a980-496a-975d-00bc0c966992.html</link>
-        </image>
-        <description>letti da Piero Baldini</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:11 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>letti da Piero Baldini</itunes:summary>
-        <itunes:subtitle>letti da Piero Baldini</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612600177_I-racconti-di-Jack-London.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:11 -0000</pubDate>
-            <item>
-                <title>Nel reparto idioti</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Nel-reparto-idioti-29c09a5f-21e1-4c3e-bb71-c05760b131f1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ylBBYRlymj0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ylBBYRlymj0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Addio Jack</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Addio-Jack-caf1f0a2-1b37-40b6-a2f2-ce042548e2c4.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HuLbGpPpPlussCgtJ8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HuLbGpPpPlussCgtJ8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La legge della vita</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/La-legge-della-vita-7b32f7dc-5b60-4d9d-9d38-d5f2c3e40877.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mgIVA3mT7GAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mgIVA3mT7GAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Faccia perduta</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Faccia-perduta-c21d7eeb-c738-4076-8114-df82c2213285.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=j0ObAk6HpPpPlussQ0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=j0ObAk6HpPpPlussQ0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il silenzio bianco</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Il-silenzio-bianco-1b8e7fc1-4369-417d-8890-bb0b99007267.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wpxnKd9hQMQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wpxnKd9hQMQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una bistecca | Ad Alta Voce del 09/12/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-b712b6fb-644b-4a31-a219-7dd24e84bbe1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NEWJqH1hZf4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NEWJqH1hZf4eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una bistecca  | Ad Alta Voce del 08/12/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-4a699663-609e-4bde-b3dc-1576661dec2b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v2mpkTWNnIweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v2mpkTWNnIweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Bâtard  | Ad Alta Voce del 07/12/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-ffdab1f2-6768-4c48-a374-52874cb40faf.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5fq5SQoTVO8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5fq5SQoTVO8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>A sud dello Slot | Ad Alta Voce del 06/12/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-0c84dcde-4405-4155-8509-e9d002a3f0ab.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OcptFOU7rJceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OcptFOU7rJceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>A sud dello Slot | Ad Alta Voce del 05/12/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-9e207a46-f454-4bd1-9651-f34096287909.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wFY0BtvNMLYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wFY0BtvNMLYeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I racconti di Jack London</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Jack-London-e25d4568-a980-496a-975d-00bc0c966992.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612600177_I-racconti-di-Jack-London.jpg</url>
+            <title>I racconti di Jack London</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/I-racconti-di-Jack-London-e25d4568-a980-496a-975d-00bc0c966992.html</link>
+        </image>
+        <description>letti da Piero Baldini</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:10 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>letti da Piero Baldini</itunes:summary>
+        <itunes:subtitle>letti da Piero Baldini</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612600177_I-racconti-di-Jack-London.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:10 -0000</pubDate>
+            <item>
+                <title>Nel reparto idioti</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Nel-reparto-idioti-29c09a5f-21e1-4c3e-bb71-c05760b131f1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ylBBYRlymj0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ylBBYRlymj0eeqqEEqual</guid>
+                <description>Nel reparto idioti</description>
+            </item>
+            <item>
+                <title>Addio Jack</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Addio-Jack-caf1f0a2-1b37-40b6-a2f2-ce042548e2c4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HuLbGpPpPlussCgtJ8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HuLbGpPpPlussCgtJ8eeqqEEqual</guid>
+                <description>Addio Jack</description>
+            </item>
+            <item>
+                <title>La legge della vita</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/La-legge-della-vita-7b32f7dc-5b60-4d9d-9d38-d5f2c3e40877.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mgIVA3mT7GAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mgIVA3mT7GAeeqqEEqual</guid>
+                <description>La legge della vita</description>
+            </item>
+            <item>
+                <title>Faccia perduta</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Faccia-perduta-c21d7eeb-c738-4076-8114-df82c2213285.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=j0ObAk6HpPpPlussQ0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=j0ObAk6HpPpPlussQ0eeqqEEqual</guid>
+                <description>Faccia perduta</description>
+            </item>
+            <item>
+                <title>Il silenzio bianco</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Il-silenzio-bianco-1b8e7fc1-4369-417d-8890-bb0b99007267.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wpxnKd9hQMQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wpxnKd9hQMQeeqqEEqual</guid>
+                <description>Il silenzio bianco</description>
+            </item>
+            <item>
+                <title>Una bistecca | Ad Alta Voce del 09/12/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-b712b6fb-644b-4a31-a219-7dd24e84bbe1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NEWJqH1hZf4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NEWJqH1hZf4eeqqEEqual</guid>
+                <description>Una bistecca | Ad Alta Voce del 09/12/2016</description>
+            </item>
+            <item>
+                <title>Una bistecca  | Ad Alta Voce del 08/12/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-4a699663-609e-4bde-b3dc-1576661dec2b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v2mpkTWNnIweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v2mpkTWNnIweeqqEEqual</guid>
+                <description>Una bistecca  | Ad Alta Voce del 08/12/2016</description>
+            </item>
+            <item>
+                <title>Bâtard  | Ad Alta Voce del 07/12/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-ffdab1f2-6768-4c48-a374-52874cb40faf.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5fq5SQoTVO8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5fq5SQoTVO8eeqqEEqual</guid>
+                <description>Bâtard  | Ad Alta Voce del 07/12/2016</description>
+            </item>
+            <item>
+                <title>A sud dello Slot | Ad Alta Voce del 06/12/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-0c84dcde-4405-4155-8509-e9d002a3f0ab.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OcptFOU7rJceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OcptFOU7rJceeqqEEqual</guid>
+                <description>A sud dello Slot | Ad Alta Voce del 06/12/2016</description>
+            </item>
+            <item>
+                <title>A sud dello Slot | Ad Alta Voce del 05/12/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/11/A-sud-dello-Slot--Ad-Alta-Voce-del-05122016-9e207a46-f454-4bd1-9651-f34096287909.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wFY0BtvNMLYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wFY0BtvNMLYeeqqEEqual</guid>
+                <description>A sud dello Slot | Ad Alta Voce del 05/12/2016</description>
+            </item>
+    </channel>
 </rss>

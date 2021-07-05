@@ -1,34 +1,37 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Otto ebrei</title>
-        <link>https://www.raiplayradio.it/playlist/2018/07/Otto-ebrei-7dbba230-26c0-4359-88e6-74e67e6d922f.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531324379218_Focus%20origami%202048x1152%201280x720%20stella%20di%20david.png</url>
-            <title>Otto ebrei</title>
-            <link>https://www.raiplayradio.it/playlist/2018/07/Otto-ebrei-7dbba230-26c0-4359-88e6-74e67e6d922f.html</link>
-        </image>
-        <description>di Giacomo Debenedetti letto da Moni Ovadia</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:34 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Giacomo Debenedetti letto da Moni Ovadia</itunes:summary>
-        <itunes:subtitle>di Giacomo Debenedetti letto da Moni Ovadia</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531324379218_Focus%20origami%202048x1152%201280x720%20stella%20di%20david.png"/>
-        <pubDate>Tue, 26 May 2020 10:57:34 -0000</pubDate>
-            <item>
-                <title>Otto Ebrei - Lettura II</title>
-                <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-II-729537ea-edc5-4841-8c7a-6b96f7650d0f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Otto Ebrei - Lettura I</title>
-                <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-I-12e582de-d445-471d-aab9-ff2e278b9c8c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Otto ebrei</title>
+        <link>https://www.raiplayradio.it/playlist/2018/07/Otto-ebrei-7dbba230-26c0-4359-88e6-74e67e6d922f.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531324379218_Focus%20origami%202048x1152%201280x720%20stella%20di%20david.png</url>
+            <title>Otto ebrei</title>
+            <link>https://www.raiplayradio.it/playlist/2018/07/Otto-ebrei-7dbba230-26c0-4359-88e6-74e67e6d922f.html</link>
+        </image>
+        <description>di Giacomo Debenedetti letto da Moni Ovadia</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:13 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Giacomo Debenedetti letto da Moni Ovadia</itunes:summary>
+        <itunes:subtitle>di Giacomo Debenedetti letto da Moni Ovadia</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531324379218_Focus%20origami%202048x1152%201280x720%20stella%20di%20david.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:13 -0000</pubDate>
+            <item>
+                <title>Otto Ebrei - Lettura II</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-II-729537ea-edc5-4841-8c7a-6b96f7650d0f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual</guid>
+                <description>Otto Ebrei - Lettura II</description>
+            </item>
+            <item>
+                <title>Otto Ebrei - Lettura I</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-I-12e582de-d445-471d-aab9-ff2e278b9c8c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual</guid>
+                <description>Otto Ebrei - Lettura I</description>
+            </item>
+    </channel>
 </rss>

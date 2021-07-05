@@ -1,90 +1,103 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Uno studio in rosso</title>
-        <link>https://www.raiplayradio.it/playlist/2018/04/Uno-studio-in-rosso-45cb400d-e9bc-4186-bb2b-7878b42b5d02.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/04/20/1524235012376_Focus%20origami%202048x2048%20pipa.png</url>
-            <title>Uno studio in rosso</title>
-            <link>https://www.raiplayradio.it/playlist/2018/04/Uno-studio-in-rosso-45cb400d-e9bc-4186-bb2b-7878b42b5d02.html</link>
-        </image>
-        <description>di Arthur Conan Doyle letto da Marco Cavalcoli</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:40 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Arthur Conan Doyle letto da Marco Cavalcoli</itunes:summary>
-        <itunes:subtitle>di Arthur Conan Doyle letto da Marco Cavalcoli</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/04/20/1524235012376_Focus%20origami%202048x2048%20pipa.png"/>
-        <pubDate>Tue, 26 May 2020 10:57:40 -0000</pubDate>
-            <item>
-                <title>#10 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-10-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-05431e98-ce8e-4b36-8fe8-902136c4aded.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VSHVz0p9IEgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VSHVz0p9IEgeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#9 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-9-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-91423c15-2f28-4252-a3e8-18d67e645b9a.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9mnvgtl5JwgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9mnvgtl5JwgeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#8 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-8-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-f719abac-af33-44d7-9ffc-c790019ac69e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KkiJeJlA8KQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KkiJeJlA8KQeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#7 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-7-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-1cd3e5b3-4c1d-440c-b057-7499959cb68d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EXJ8WT3UeDceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EXJ8WT3UeDceeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#6 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-6-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-54d8e15e-c240-49bb-b6bf-50d00456adc2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9xnYAt5qLcceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9xnYAt5qLcceeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#5 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-5-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-3e5921ce-014a-4957-95f4-5f64f2b96506.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mDlgNqvBAZAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mDlgNqvBAZAeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#4 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-4-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-89b03bf6-3ee3-4fbf-8782-8f1bab818e86.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xSkj7VUNLSIeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xSkj7VUNLSIeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#3 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-3-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-4c9a4c8f-ab21-4da9-8d9a-5fcab1eb5b35.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LbHrNK66YkseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LbHrNK66YkseeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#2 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-2-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-66faccaa-a7aa-482a-8ff2-c580c37e387d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BaWpIGSeHhMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BaWpIGSeHhMeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#1 Uno studio in rosso di Arthur Conan Doyle</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-1-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-8d85f344-042d-4a69-8d07-dbd5a02c8935.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6RwpPpPlussvs69wkMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6RwpPpPlussvs69wkMeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Uno studio in rosso</title>
+        <link>https://www.raiplayradio.it/playlist/2018/04/Uno-studio-in-rosso-45cb400d-e9bc-4186-bb2b-7878b42b5d02.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/10/07/1602083397280_1599141203366_STRSS_01.png</url>
+            <title>Uno studio in rosso</title>
+            <link>https://www.raiplayradio.it/playlist/2018/04/Uno-studio-in-rosso-45cb400d-e9bc-4186-bb2b-7878b42b5d02.html</link>
+        </image>
+        <description>&quot;Uno studio in rosso&quot; di Arthur Conan Doyle letto da Marco Cavalcoli. L'ascolto di tutte le puntate è disponibile sul sito di ad Ad alta voce.</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:35 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>&quot;Uno studio in rosso&quot; di Arthur Conan Doyle letto da Marco Cavalcoli. L'ascolto di tutte le puntate è disponibile sul sito di ad Ad alta voce.</itunes:summary>
+        <itunes:subtitle>&quot;Uno studio in rosso&quot; di Arthur Conan Doyle letto da Marco Cavalcoli. L'ascolto di tutte le puntate è disponibile sul sito di ad Ad alta voce.</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/10/07/1602083397280_1599141203366_STRSS_01.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:35 -0000</pubDate>
+            <item>
+                <title>#10 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-10-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-05431e98-ce8e-4b36-8fe8-902136c4aded.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=U2LUKfhOf8MbQtjkhyKAxAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=U2LUKfhOf8MbQtjkhyKAxAeeqqEEqualeeqqEEqual</guid>
+                <description>#10 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#9 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-9-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-91423c15-2f28-4252-a3e8-18d67e645b9a.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cUNHlPbc2bIvvpPpPlussHLa0YVZgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cUNHlPbc2bIvvpPpPlussHLa0YVZgeeqqEEqualeeqqEEqual</guid>
+                <description>#9 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#8 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-8-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-f719abac-af33-44d7-9ffc-c790019ac69e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kByZssSlashpPpPlussassSlashpPpPluss54FssSlashM3UU87EZQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kByZssSlashpPpPlussassSlashpPpPluss54FssSlashM3UU87EZQeeqqEEqualeeqqEEqual</guid>
+                <description>#8 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#7 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-7-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-1cd3e5b3-4c1d-440c-b057-7499959cb68d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yNiHqEM2fjNN2LXiZ8LMJQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yNiHqEM2fjNN2LXiZ8LMJQeeqqEEqualeeqqEEqual</guid>
+                <description>#7 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#6 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-6-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-54d8e15e-c240-49bb-b6bf-50d00456adc2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NRwhtampWVpPpPlussYTYLBQmWsYAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NRwhtampWVpPpPlussYTYLBQmWsYAeeqqEEqualeeqqEEqual</guid>
+                <description>#6 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#5 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-5-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-3e5921ce-014a-4957-95f4-5f64f2b96506.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AA2BfLxJYfkBrYIfEtFdmweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AA2BfLxJYfkBrYIfEtFdmweeqqEEqualeeqqEEqual</guid>
+                <description>#5 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#4 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-4-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-89b03bf6-3ee3-4fbf-8782-8f1bab818e86.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=3DzwWnjr51PhssSlash6V0ZTbmMgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=3DzwWnjr51PhssSlash6V0ZTbmMgeeqqEEqualeeqqEEqual</guid>
+                <description>#4 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#3 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-3-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-4c9a4c8f-ab21-4da9-8d9a-5fcab1eb5b35.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VbRCf0b1uPBmWI0lp5T3tgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VbRCf0b1uPBmWI0lp5T3tgeeqqEEqualeeqqEEqual</guid>
+                <description>#3 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#2 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-2-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-66faccaa-a7aa-482a-8ff2-c580c37e387d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t7uwrf86F6HHfHloCUVXtgeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t7uwrf86F6HHfHloCUVXtgeeqqEEqualeeqqEEqual</guid>
+                <description>#2 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#1 Uno studio in rosso di Arthur Conan Doyle</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-1-Uno-studio-in-rosso-di-Arthur-Conan-Doyle-8d85f344-042d-4a69-8d07-dbd5a02c8935.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jTfccjk1XIbj6p6K1nmnZweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jTfccjk1XIbj6p6K1nmnZweeqqEEqualeeqqEEqual</guid>
+                <description>#1 Uno studio in rosso di Arthur Conan Doyle</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

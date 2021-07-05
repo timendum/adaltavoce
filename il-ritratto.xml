@@ -1,55 +1,58 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Il ritratto</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Il-ritratto-a8fd57db-eb2e-44c8-9723-09b1b043073e.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612495734_Il-ritratto.jpg</url>
-            <title>Il ritratto</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Il-ritratto-a8fd57db-eb2e-44c8-9723-09b1b043073e.html</link>
-        </image>
-        <description>Versione integrale</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:21 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Versione integrale</itunes:summary>
-        <itunes:subtitle>Versione integrale</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612495734_Il-ritratto.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:21 -0000</pubDate>
-            <item>
-                <title>Il ritratto | Ad Alta Voce del 27/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-20b0ee92-1b96-484d-9527-da8210ea7105.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mqyb5UY2VJ4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mqyb5UY2VJ4eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il ritratto | Ad Alta Voce del 26/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-077fda42-1797-467e-8863-16ba867cea2b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=a8pPpPlussssSlash44dEVMMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=a8pPpPlussssSlash44dEVMMeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il ritratto | Ad Alta Voce del 25/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-90bed26d-777d-4f6a-9bc6-3fc1b581218e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eG6pyo6MIssSlashMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eG6pyo6MIssSlashMeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il ritratto | Ad Alta Voce del 24/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-20d6b8b1-b08b-4db5-8de8-7ed739776c5c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1Aip5fdmtHoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1Aip5fdmtHoeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il ritratto | Ad Alta Voce del 23/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-c7620818-4510-4b3a-bfd5-728d82af2fa2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A5TYhX1HrSQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A5TYhX1HrSQeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Il ritratto</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Il-ritratto-a8fd57db-eb2e-44c8-9723-09b1b043073e.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612495734_Il-ritratto.jpg</url>
+            <title>Il ritratto</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Il-ritratto-a8fd57db-eb2e-44c8-9723-09b1b043073e.html</link>
+        </image>
+        <description>Versione integrale</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:36 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Versione integrale</itunes:summary>
+        <itunes:subtitle>Versione integrale</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612495734_Il-ritratto.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:36 -0000</pubDate>
+            <item>
+                <title>Il ritratto | Ad Alta Voce del 27/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-20b0ee92-1b96-484d-9527-da8210ea7105.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mqyb5UY2VJ4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mqyb5UY2VJ4eeqqEEqual</guid>
+                <description>Il ritratto | Ad Alta Voce del 27/10/2017</description>
+            </item>
+            <item>
+                <title>Il ritratto | Ad Alta Voce del 26/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-077fda42-1797-467e-8863-16ba867cea2b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=a8pPpPlussssSlash44dEVMMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=a8pPpPlussssSlash44dEVMMeeqqEEqual</guid>
+                <description>Il ritratto | Ad Alta Voce del 26/10/2017</description>
+            </item>
+            <item>
+                <title>Il ritratto | Ad Alta Voce del 25/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-90bed26d-777d-4f6a-9bc6-3fc1b581218e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eG6pyo6MIssSlashMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eG6pyo6MIssSlashMeeqqEEqual</guid>
+                <description>Il ritratto | Ad Alta Voce del 25/10/2017</description>
+            </item>
+            <item>
+                <title>Il ritratto | Ad Alta Voce del 24/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-20d6b8b1-b08b-4db5-8de8-7ed739776c5c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1Aip5fdmtHoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1Aip5fdmtHoeeqqEEqual</guid>
+                <description>Il ritratto | Ad Alta Voce del 24/10/2017</description>
+            </item>
+            <item>
+                <title>Il ritratto | Ad Alta Voce del 23/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-c7620818-4510-4b3a-bfd5-728d82af2fa2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A5TYhX1HrSQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=A5TYhX1HrSQeeqqEEqual</guid>
+                <description>Il ritratto | Ad Alta Voce del 23/10/2017</description>
+            </item>
+    </channel>
 </rss>

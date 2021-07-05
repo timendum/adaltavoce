@@ -1,30 +1,33 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Cattedrale</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-audiolibri-Cattedrale-3f5fdefd-32c3-4c46-91fd-db9956f8e806.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140240178_Cattedrale.png</url>
-            <title>Cattedrale</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-audiolibri-Cattedrale-3f5fdefd-32c3-4c46-91fd-db9956f8e806.html</link>
-        </image>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cattedrale</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-audiolibri-Cattedrale-3f5fdefd-32c3-4c46-91fd-db9956f8e806.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140240178_Cattedrale.png</url>
+            <title>Cattedrale</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-audiolibri-Cattedrale-3f5fdefd-32c3-4c46-91fd-db9956f8e806.html</link>
+        </image>
         <description>Fausto Paravidino legge il racconto di Raymond Carver &quot;Cattedrale&quot;.
-</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:56:58 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:46:40 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Fausto Paravidino legge il racconto di Raymond Carver &quot;Cattedrale&quot;.
-</itunes:summary>
+</itunes:summary>
         <itunes:subtitle>Fausto Paravidino legge il racconto di Raymond Carver &quot;Cattedrale&quot;.
-</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140240178_Cattedrale.png"/>
-        <pubDate>Tue, 26 May 2020 10:56:58 -0000</pubDate>
-            <item>
-                <title>&quot;Cattedrale&quot; di Raymond Carver letto da Fausto Paravidino</title>
-                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-1f3794a7-b46a-48a5-a60e-a19e6395e3c4.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140240178_Cattedrale.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:46:40 -0000</pubDate>
+            <item>
+                <title>&quot;Cattedrale&quot; di Raymond Carver letto da Fausto Paravidino</title>
+                <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-1f3794a7-b46a-48a5-a60e-a19e6395e3c4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0sy6sKTq9rbTeiliLcbbVQeeqqEEqualeeqqEEqual</guid>
+                <description>&quot;Cattedrale&quot; di Raymond Carver letto da Fausto Paravidino</description>
+            </item>
+    </channel>
 </rss>

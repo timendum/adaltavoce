@@ -1,55 +1,58 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>I racconti di Katherine Mansfield</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-I-racconti-di-Katherine-Mansfield-a1383712-95f7-4cca-b007-2169d6b153a0.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516182805169_I%20racconti%20di%20Katherine%20Mansfield.jpg</url>
-            <title>I racconti di Katherine Mansfield</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-I-racconti-di-Katherine-Mansfield-a1383712-95f7-4cca-b007-2169d6b153a0.html</link>
-        </image>
-        <description>I racconti di Katherine Mansfield</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:11 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>I racconti di Katherine Mansfield</itunes:summary>
-        <itunes:subtitle>I racconti di Katherine Mansfield</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516182805169_I%20racconti%20di%20Katherine%20Mansfield.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:11 -0000</pubDate>
-            <item>
-                <title>La mosca</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/La-mosca-6134a244-a064-4003-9386-5ed04e679b96.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cDRG3zumyRceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cDRG3zumyRceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Lezioni di canto</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Lezioni-di-canto-cb8b6820-123f-4e62-afae-0f9b4461cea0.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4Q8gBQmstYceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4Q8gBQmstYceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Dill Pickle</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Dill-Pickle-80908c4e-36f5-4ecf-aa47-cd40ca8c92db.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HVgSGMbE31oeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HVgSGMbE31oeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Una giornata di Reginaldo Peacock</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Una-giornata-di-Reginaldo-Peacock-9d0f0498-46cb-4c88-a523-3bf569d222b1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=joNNzXE4OUAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=joNNzXE4OUAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Istantanee</title>
-                <link>https://www.raiplayradio.it/audio/2015/05/Istantanee-c22ef5f5-6168-46be-85fb-80dfa26dcda2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YYqejQsdhpoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YYqejQsdhpoeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I racconti di Katherine Mansfield</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-I-racconti-di-Katherine-Mansfield-a1383712-95f7-4cca-b007-2169d6b153a0.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516182805169_I%20racconti%20di%20Katherine%20Mansfield.jpg</url>
+            <title>I racconti di Katherine Mansfield</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-I-racconti-di-Katherine-Mansfield-a1383712-95f7-4cca-b007-2169d6b153a0.html</link>
+        </image>
+        <description>I racconti di Katherine Mansfield</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:11 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>I racconti di Katherine Mansfield</itunes:summary>
+        <itunes:subtitle>I racconti di Katherine Mansfield</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516182805169_I%20racconti%20di%20Katherine%20Mansfield.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:11 -0000</pubDate>
+            <item>
+                <title>La mosca</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/La-mosca-6134a244-a064-4003-9386-5ed04e679b96.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cDRG3zumyRceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cDRG3zumyRceeqqEEqual</guid>
+                <description>La mosca</description>
+            </item>
+            <item>
+                <title>Lezioni di canto</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Lezioni-di-canto-cb8b6820-123f-4e62-afae-0f9b4461cea0.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4Q8gBQmstYceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4Q8gBQmstYceeqqEEqual</guid>
+                <description>Lezioni di canto</description>
+            </item>
+            <item>
+                <title>Dill Pickle</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Dill-Pickle-80908c4e-36f5-4ecf-aa47-cd40ca8c92db.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HVgSGMbE31oeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HVgSGMbE31oeeqqEEqual</guid>
+                <description>Dill Pickle</description>
+            </item>
+            <item>
+                <title>Una giornata di Reginaldo Peacock</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Una-giornata-di-Reginaldo-Peacock-9d0f0498-46cb-4c88-a523-3bf569d222b1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=joNNzXE4OUAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=joNNzXE4OUAeeqqEEqual</guid>
+                <description>Una giornata di Reginaldo Peacock</description>
+            </item>
+            <item>
+                <title>Istantanee</title>
+                <link>https://www.raiplayradio.it/audio/2015/05/Istantanee-c22ef5f5-6168-46be-85fb-80dfa26dcda2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YYqejQsdhpoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YYqejQsdhpoeeqqEEqual</guid>
+                <description>Istantanee</description>
+            </item>
+    </channel>
 </rss>

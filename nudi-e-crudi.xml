@@ -1,62 +1,65 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Nudi e crudi</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Nudi-e-crudi-1521df0e-abdc-4971-a963-b4de94d53718.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613669613_Nudi-e-crudi.jpg</url>
-            <title>Nudi e crudi</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Nudi-e-crudi-1521df0e-abdc-4971-a963-b4de94d53718.html</link>
-        </image>
-        <description>di Alan Bennet letto da Iaia Forte</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:33 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Alan Bennet letto da Iaia Forte</itunes:summary>
-        <itunes:subtitle>di Alan Bennet letto da Iaia Forte</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613669613_Nudi-e-crudi.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:33 -0000</pubDate>
-            <item>
-                <title>Nudi e crudi | Ad Alta Voce del 17/05/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-b5da2c2f-6762-4bb5-a1f6-e4ea79a8f692.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z7Xqq8HWHQMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z7Xqq8HWHQMeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Nudi e crudi | Ad Alta Voce del 16/05/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-ae8615c2-0d67-44aa-9f97-111296b8ef72.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nEG5lBlUhj8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nEG5lBlUhj8eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Nudi e crudi | Ad Alta Voce del 15/05/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-12f04a0b-3c1a-49b9-b684-bcdcc5ceb6e1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rWRwVOPGJdQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rWRwVOPGJdQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Nudi e crudi | Ad Alta Voce del 12/05/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-af60575d-237e-4a5b-98dc-c6bbcd7039cb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=avP4EBGGGUseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=avP4EBGGGUseeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Nudi e crudi | Ad Alta Voce del 11/05/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-0a907b68-b838-4c81-9a9c-e70497ca0103.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NyoBYBPUh04eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NyoBYBPUh04eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Nudi e crudi | Ad Alta Voce del 10/05/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-04036c7f-1a0a-4805-b0fc-dcefe1f73397.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=L6nr4k3ssSlashLZoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=L6nr4k3ssSlashLZoeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Nudi e crudi</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Nudi-e-crudi-1521df0e-abdc-4971-a963-b4de94d53718.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613669613_Nudi-e-crudi.jpg</url>
+            <title>Nudi e crudi</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Nudi-e-crudi-1521df0e-abdc-4971-a963-b4de94d53718.html</link>
+        </image>
+        <description>di Alan Bennet letto da Iaia Forte</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:11 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Alan Bennet letto da Iaia Forte</itunes:summary>
+        <itunes:subtitle>di Alan Bennet letto da Iaia Forte</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613669613_Nudi-e-crudi.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:11 -0000</pubDate>
+            <item>
+                <title>Nudi e crudi | Ad Alta Voce del 17/05/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-b5da2c2f-6762-4bb5-a1f6-e4ea79a8f692.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z7Xqq8HWHQMeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z7Xqq8HWHQMeeqqEEqual</guid>
+                <description>Nudi e crudi | Ad Alta Voce del 17/05/2017</description>
+            </item>
+            <item>
+                <title>Nudi e crudi | Ad Alta Voce del 16/05/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-ae8615c2-0d67-44aa-9f97-111296b8ef72.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nEG5lBlUhj8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nEG5lBlUhj8eeqqEEqual</guid>
+                <description>Nudi e crudi | Ad Alta Voce del 16/05/2017</description>
+            </item>
+            <item>
+                <title>Nudi e crudi | Ad Alta Voce del 15/05/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-12f04a0b-3c1a-49b9-b684-bcdcc5ceb6e1.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rWRwVOPGJdQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rWRwVOPGJdQeeqqEEqual</guid>
+                <description>Nudi e crudi | Ad Alta Voce del 15/05/2017</description>
+            </item>
+            <item>
+                <title>Nudi e crudi | Ad Alta Voce del 12/05/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-af60575d-237e-4a5b-98dc-c6bbcd7039cb.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=avP4EBGGGUseeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=avP4EBGGGUseeqqEEqual</guid>
+                <description>Nudi e crudi | Ad Alta Voce del 12/05/2017</description>
+            </item>
+            <item>
+                <title>Nudi e crudi | Ad Alta Voce del 11/05/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-0a907b68-b838-4c81-9a9c-e70497ca0103.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NyoBYBPUh04eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NyoBYBPUh04eeqqEEqual</guid>
+                <description>Nudi e crudi | Ad Alta Voce del 11/05/2017</description>
+            </item>
+            <item>
+                <title>Nudi e crudi | Ad Alta Voce del 10/05/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/04/Nudi-e-crudi--Ad-Alta-Voce-del-10052017-04036c7f-1a0a-4805-b0fc-dcefe1f73397.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=L6nr4k3ssSlashLZoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=L6nr4k3ssSlashLZoeeqqEEqual</guid>
+                <description>Nudi e crudi | Ad Alta Voce del 10/05/2017</description>
+            </item>
+    </channel>
 </rss>

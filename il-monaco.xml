@@ -1,125 +1,128 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Il Monaco</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Il-Monaco-5fff09ee-c13b-4e3d-a13d-15c53e714678.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612305547_il-monaco.jpg</url>
-            <title>Il Monaco</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Il-Monaco-5fff09ee-c13b-4e3d-a13d-15c53e714678.html</link>
-        </image>
-        <description>di Matthew G. Lewis legge Tommaso Ragno</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:20 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Matthew G. Lewis legge Tommaso Ragno</itunes:summary>
-        <itunes:subtitle>di Matthew G. Lewis legge Tommaso Ragno</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612305547_il-monaco.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:20 -0000</pubDate>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 31/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-f4fc3f7d-1498-4305-8c51-a24c2d34d893.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=I2TTrgSvCl4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=I2TTrgSvCl4eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 30/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-4f8790c6-90d4-4934-8141-2a2c6bb741f4.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LEVT9GBgKuAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LEVT9GBgKuAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 29/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-2dfb34e6-3a8a-41ae-a520-605ebedc1b39.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dz6SOPjK7jYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dz6SOPjK7jYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 28/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-cbd55aaf-518d-4b91-a674-c9e8c46c4a15.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ILhKO8zSgAQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ILhKO8zSgAQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 27/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-2f20ddd8-ddbd-40c8-990f-f17c519e74c3.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9tCssSlashyW0bcNUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9tCssSlashyW0bcNUeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 24/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-d107690f-a968-4a4a-ac05-3c566e626804.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yW3SKDCVNDYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yW3SKDCVNDYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 23/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-b55919f2-27ec-4ca5-bb17-e69c8f43c171.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yzEdGyZZHToeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yzEdGyZZHToeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 22/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-fa26f6b9-f1cf-4243-b15f-6eb5ecb95c1f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NrApckBKt5QeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NrApckBKt5QeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 21/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-b8bd7a2d-ba0b-4f85-b032-3552d423d3d2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KNetS6aIsHAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KNetS6aIsHAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 20/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-4f8f10e5-f2f6-4b53-86e5-9111ca8c0236.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bYdD3j6ZgEgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bYdD3j6ZgEgeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 17/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-9fdcec06-e180-40ab-bd53-67cd0439c90c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2BZCy1wrjpEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2BZCy1wrjpEeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 16/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-96a9cced-2c8c-4550-b95d-e4453f41b626.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xFaL87Jze4oeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xFaL87Jze4oeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 15/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-cd7d77ae-35cd-4705-a425-418f9c3e5edd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LrVbdLJrstQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LrVbdLJrstQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 14/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-1fcf7f58-38f1-4d69-9c51-db3b1fe6ea12.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rGKIDnvU46geeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rGKIDnvU46geeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il Monaco | Ad Alta Voce del 13/03/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-1e197cef-e896-411d-b112-75e562b33ca5.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JrKBcUJqiy4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JrKBcUJqiy4eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Il Monaco</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Il-Monaco-5fff09ee-c13b-4e3d-a13d-15c53e714678.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612305547_il-monaco.jpg</url>
+            <title>Il Monaco</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Il-Monaco-5fff09ee-c13b-4e3d-a13d-15c53e714678.html</link>
+        </image>
+        <description>di Matthew G. Lewis legge Tommaso Ragno</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:31 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Matthew G. Lewis legge Tommaso Ragno</itunes:summary>
+        <itunes:subtitle>di Matthew G. Lewis legge Tommaso Ragno</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612305547_il-monaco.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:31 -0000</pubDate>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 31/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-f4fc3f7d-1498-4305-8c51-a24c2d34d893.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=I2TTrgSvCl4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=I2TTrgSvCl4eeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 31/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 30/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-4f8790c6-90d4-4934-8141-2a2c6bb741f4.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LEVT9GBgKuAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LEVT9GBgKuAeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 30/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 29/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-2dfb34e6-3a8a-41ae-a520-605ebedc1b39.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dz6SOPjK7jYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dz6SOPjK7jYeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 29/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 28/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-cbd55aaf-518d-4b91-a674-c9e8c46c4a15.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ILhKO8zSgAQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ILhKO8zSgAQeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 28/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 27/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-2f20ddd8-ddbd-40c8-990f-f17c519e74c3.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9tCssSlashyW0bcNUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9tCssSlashyW0bcNUeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 27/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 24/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-d107690f-a968-4a4a-ac05-3c566e626804.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yW3SKDCVNDYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yW3SKDCVNDYeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 24/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 23/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-b55919f2-27ec-4ca5-bb17-e69c8f43c171.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yzEdGyZZHToeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yzEdGyZZHToeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 23/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 22/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-fa26f6b9-f1cf-4243-b15f-6eb5ecb95c1f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NrApckBKt5QeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NrApckBKt5QeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 22/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 21/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-b8bd7a2d-ba0b-4f85-b032-3552d423d3d2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KNetS6aIsHAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KNetS6aIsHAeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 21/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 20/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-4f8f10e5-f2f6-4b53-86e5-9111ca8c0236.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bYdD3j6ZgEgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bYdD3j6ZgEgeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 20/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 17/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-9fdcec06-e180-40ab-bd53-67cd0439c90c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2BZCy1wrjpEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2BZCy1wrjpEeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 17/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 16/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-96a9cced-2c8c-4550-b95d-e4453f41b626.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xFaL87Jze4oeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xFaL87Jze4oeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 16/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 15/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-cd7d77ae-35cd-4705-a425-418f9c3e5edd.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LrVbdLJrstQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LrVbdLJrstQeeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 15/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 14/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-1fcf7f58-38f1-4d69-9c51-db3b1fe6ea12.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rGKIDnvU46geeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rGKIDnvU46geeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 14/03/2017</description>
+            </item>
+            <item>
+                <title>Il Monaco | Ad Alta Voce del 13/03/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/03/Il-Monaco--Ad-Alta-Voce-del-13032017-1e197cef-e896-411d-b112-75e562b33ca5.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JrKBcUJqiy4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JrKBcUJqiy4eeqqEEqual</guid>
+                <description>Il Monaco | Ad Alta Voce del 13/03/2017</description>
+            </item>
+    </channel>
 </rss>

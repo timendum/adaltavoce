@@ -1,34 +1,37 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Grande fiume dai due cuori</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Grande-fiume-dai-due-cuori-ab948613-9f94-4c29-998c-0989d16be7e3.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516089742223_Grande%20fiume%20dai%20due%20cuori.jpg</url>
-            <title>Grande fiume dai due cuori</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Grande-fiume-dai-due-cuori-ab948613-9f94-4c29-998c-0989d16be7e3.html</link>
-        </image>
-        <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:07 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
-        <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516089742223_Grande%20fiume%20dai%20due%20cuori.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:07 -0000</pubDate>
-            <item>
-                <title>Grande fiume dai due cuori (II)</title>
-                <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-II-f76d5e74-9bc8-4cad-93bd-ab6f21e3bdb8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Grande fiume dai due cuori (I)</title>
-                <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-I-a76c13b8-b803-4d9a-b6d6-a1b5fe0bf22b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Grande fiume dai due cuori</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Grande-fiume-dai-due-cuori-ab948613-9f94-4c29-998c-0989d16be7e3.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516089742223_Grande%20fiume%20dai%20due%20cuori.jpg</url>
+            <title>Grande fiume dai due cuori</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Grande-fiume-dai-due-cuori-ab948613-9f94-4c29-998c-0989d16be7e3.html</link>
+        </image>
+        <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:01 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
+        <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516089742223_Grande%20fiume%20dai%20due%20cuori.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:01 -0000</pubDate>
+            <item>
+                <title>Grande fiume dai due cuori (II)</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-II-f76d5e74-9bc8-4cad-93bd-ab6f21e3bdb8.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual</guid>
+                <description>Grande fiume dai due cuori (II)</description>
+            </item>
+            <item>
+                <title>Grande fiume dai due cuori (I)</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-I-a76c13b8-b803-4d9a-b6d6-a1b5fe0bf22b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual</guid>
+                <description>Grande fiume dai due cuori (I)</description>
+            </item>
+    </channel>
 </rss>

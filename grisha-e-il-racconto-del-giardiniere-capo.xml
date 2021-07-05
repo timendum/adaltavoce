@@ -1,27 +1,30 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Grisha e il racconto del giardiniere capo</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-Grisha-e-il-racconto-del-giardiniere-capo-577573b0-cb93-4850-811e-03ddf50e0616.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516092095652_Grisha%20e%20il%20racconto%20del%20giardiniere%20capo.jpg</url>
-            <title>Grisha e il racconto del giardiniere capo</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-Grisha-e-il-racconto-del-giardiniere-capo-577573b0-cb93-4850-811e-03ddf50e0616.html</link>
-        </image>
-        <description>Versione Integrale</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:08 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Versione Integrale</itunes:summary>
-        <itunes:subtitle>Versione Integrale</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516092095652_Grisha%20e%20il%20racconto%20del%20giardiniere%20capo.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:08 -0000</pubDate>
-            <item>
-                <title>Grisha e il racconto del giardiniere capo</title>
-                <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Grisha e il racconto del giardiniere capo</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-Grisha-e-il-racconto-del-giardiniere-capo-577573b0-cb93-4850-811e-03ddf50e0616.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516092095652_Grisha%20e%20il%20racconto%20del%20giardiniere%20capo.jpg</url>
+            <title>Grisha e il racconto del giardiniere capo</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-ad-alta-voce-Grisha-e-il-racconto-del-giardiniere-capo-577573b0-cb93-4850-811e-03ddf50e0616.html</link>
+        </image>
+        <description>Versione Integrale</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:02 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Versione Integrale</itunes:summary>
+        <itunes:subtitle>Versione Integrale</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516092095652_Grisha%20e%20il%20racconto%20del%20giardiniere%20capo.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:02 -0000</pubDate>
+            <item>
+                <title>Grisha e il racconto del giardiniere capo</title>
+                <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
+                <description>Grisha e il racconto del giardiniere capo</description>
+            </item>
+    </channel>
 </rss>

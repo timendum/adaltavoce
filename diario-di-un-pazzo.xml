@@ -1,34 +1,37 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Diario di un pazzo</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Il-diario-di-un-pazzo-d3677aa7-9b07-43a7-83d2-c2bf5a54a988.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541611773548_il-diario-di-un-pazzo.jpg</url>
-            <title>Diario di un pazzo</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Il-diario-di-un-pazzo-d3677aa7-9b07-43a7-83d2-c2bf5a54a988.html</link>
-        </image>
-        <description>Letto Valerio Aprea</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:02 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Letto Valerio Aprea</itunes:summary>
-        <itunes:subtitle>Letto Valerio Aprea</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541611773548_il-diario-di-un-pazzo.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:02 -0000</pubDate>
-            <item>
-                <title>Diario di un pazzo | Ad Alta Voce del 20/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-2c0c4fe7-8cb4-46bb-885e-5c8ef5bc49ae.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HP59ypuVfF0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HP59ypuVfF0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Diario di un pazzo | Ad Alta Voce del 19/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-4f6aa7d6-7a00-4c02-8847-de0a3a1ae608.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XcgGP2KEnz4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XcgGP2KEnz4eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Diario di un pazzo</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Il-diario-di-un-pazzo-d3677aa7-9b07-43a7-83d2-c2bf5a54a988.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541611773548_il-diario-di-un-pazzo.jpg</url>
+            <title>Diario di un pazzo</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Il-diario-di-un-pazzo-d3677aa7-9b07-43a7-83d2-c2bf5a54a988.html</link>
+        </image>
+        <description>Letto Valerio Aprea</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:46:50 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Letto Valerio Aprea</itunes:summary>
+        <itunes:subtitle>Letto Valerio Aprea</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541611773548_il-diario-di-un-pazzo.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:46:50 -0000</pubDate>
+            <item>
+                <title>Diario di un pazzo | Ad Alta Voce del 20/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-2c0c4fe7-8cb4-46bb-885e-5c8ef5bc49ae.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HP59ypuVfF0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HP59ypuVfF0eeqqEEqual</guid>
+                <description>Diario di un pazzo | Ad Alta Voce del 20/10/2017</description>
+            </item>
+            <item>
+                <title>Diario di un pazzo | Ad Alta Voce del 19/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-4f6aa7d6-7a00-4c02-8847-de0a3a1ae608.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XcgGP2KEnz4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XcgGP2KEnz4eeqqEEqual</guid>
+                <description>Diario di un pazzo | Ad Alta Voce del 19/10/2017</description>
+            </item>
+    </channel>
 </rss>

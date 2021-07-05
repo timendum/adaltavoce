@@ -1,160 +1,103 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>La luna e i falò</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/La-luna-e-i-falo-7d54affd-b8b1-44d0-af1a-bdb3a0b8addf.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613026530_La-luna-e-i-falo.jpg</url>
-            <title>La luna e i falò</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/La-luna-e-i-falo-7d54affd-b8b1-44d0-af1a-bdb3a0b8addf.html</link>
-        </image>
-        <description>di Cesare Pavese letto da Remo Girone</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:24 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Cesare Pavese letto da Remo Girone</itunes:summary>
-        <itunes:subtitle>di Cesare Pavese letto da Remo Girone</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613026530_La-luna-e-i-falo.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:24 -0000</pubDate>
-            <item>
-                <title>La luna e i falò - Lettura XX</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XX-a1adccd1-ac35-4a70-a638-59b063f180f1.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mZkjfvrtg1AeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mZkjfvrtg1AeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XIX</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XIX-aa6dbd90-0487-47de-93ee-26a66a259360.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6JSIpPpPlussDhLLxIeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6JSIpPpPlussDhLLxIeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XVIII</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XVIII-39d4fa5c-3399-4a17-b470-80f23f6d417c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rIm10KfssSlashPEEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rIm10KfssSlashPEEeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XVII</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XVII-bd616c16-1dbb-4712-b0c2-583a8e17918d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JKg17U33000eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JKg17U33000eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XVI</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XVI-a9805bdf-85ee-4069-91c6-9e7a59bd7ccb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Xp7ADcEd8r0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Xp7ADcEd8r0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XV</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XV-0ef53484-9a3b-4f6a-afad-c417a2945bb8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LLQLBxBr3JAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LLQLBxBr3JAeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XIV</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XIV-db875625-3d52-4ec5-9f97-eab802ea3a1e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8G4nReqvrqceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8G4nReqvrqceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XIII</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XIII-403425b2-a0f6-46d6-8497-8395158a3329.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zapPpPlussNtPJk0XkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zapPpPlussNtPJk0XkeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XII</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XII-78ba094b-21b1-440e-b334-a2a6cf8c2762.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1pPpPlussMlplox18oeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1pPpPlussMlplox18oeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura XI</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-XI-aca46f29-270a-4f10-a264-1a0eaeecd354.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z5sKYWTg3CseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z5sKYWTg3CseeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura X</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-X-165d6e78-0b37-4e0d-a6fd-3d22b70383bd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LoRsmf5MprYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LoRsmf5MprYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura IX</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-IX-a401fac1-b3c4-4529-a2d8-d92ecc0b0c32.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bSmKXGN6qZQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bSmKXGN6qZQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura VIII</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-VIII-767085ef-3090-4cb8-9fca-2713e686842a.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ezpy8LfDisgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ezpy8LfDisgeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura VII</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-VII-4405bdc0-f70d-4543-8274-267b4e14cc95.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gssSlashWydjPlHaseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gssSlashWydjPlHaseeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura VI</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-VI-1d975bd5-a718-47ad-80eb-aeddd59a24cb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=y5XaWJRWfIceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=y5XaWJRWfIceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura V</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-V-7f1f2314-8b6c-4b6e-b612-a59b1dea536e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yFN1pPpPlussbRtb8EeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yFN1pPpPlussbRtb8EeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura IV</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-IV-735abf5b-8020-4743-acc1-ff98caa44339.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZrvlMwRNuzweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZrvlMwRNuzweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura III</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-III-614c2651-c920-48a7-8f6f-1a987f43f1fc.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nVXnF9G1Yz0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nVXnF9G1Yz0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura II</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-II-cd67c045-8eb9-42e7-ac0e-98b74d4f507d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NLSbdOHJRwseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NLSbdOHJRwseeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La luna e i falò - Lettura I</title>
-                <link>https://www.raiplayradio.it/audio/2015/06/La-luna-e-i-falo---Lettura-I-c0d02f9a-119b-4648-a110-5754bf07cf15.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CFXVz7EJTT4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CFXVz7EJTT4eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>La luna e i falò</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/La-luna-e-i-falo-7d54affd-b8b1-44d0-af1a-bdb3a0b8addf.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2021/06/11/1623400017249_PAVESE_02.png</url>
+            <title>La luna e i falò</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/La-luna-e-i-falo-7d54affd-b8b1-44d0-af1a-bdb3a0b8addf.html</link>
+        </image>
+        <description>&quot;La luna e i falò&quot; di Cesare Pavese, legge Remo Girone, versione integrale in 20 puntate - Quando Anguilla, dopo venti anni di America, torna nelle Langhe, spera, nell'Italia liberata di incontrare quelli che aveva lasciato. Di trovarli cambiati, ma trovarli. Incontra invece solo Nuto. Gli altri, come apprende, sono morti o scomparsi. Cerca, Anguilla, con l'aiuto dell'amico, di adattarsi all'idea e alle circostanze che anche i luoghi che paiono immutabili siano invece travolti dai tempi imposti dalla modernità. Pure dell'infanzia, che più che un tempo è un luogo – tant'è che Anguilla ha cercato di tornarci – è rimasto poco, è rimasto Nuto. Anguilla dovrà fare i conti con l'unica cosa impossibile sradicare: l'ingiustizia. Nel romanzo forse più noto di Cesare Pavese, le proteste, le ansie, i malumori, e le passioni improvvise della giovinezza.</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:46 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>&quot;La luna e i falò&quot; di Cesare Pavese, legge Remo Girone, versione integrale in 20 puntate - Quando Anguilla, dopo venti anni di America, torna nelle Langhe, spera, nell'Italia liberata di incontrare quelli che aveva lasciato. Di trovarli cambiati, ma trovarli. Incontra invece solo Nuto. Gli altri, come apprende, sono morti o scomparsi. Cerca, Anguilla, con l'aiuto dell'amico, di adattarsi all'idea e alle circostanze che anche i luoghi che paiono immutabili siano invece travolti dai tempi imposti dalla modernità. Pure dell'infanzia, che più che un tempo è un luogo – tant'è che Anguilla ha cercato di tornarci – è rimasto poco, è rimasto Nuto. Anguilla dovrà fare i conti con l'unica cosa impossibile sradicare: l'ingiustizia. Nel romanzo forse più noto di Cesare Pavese, le proteste, le ansie, i malumori, e le passioni improvvise della giovinezza.</itunes:summary>
+        <itunes:subtitle>&quot;La luna e i falò&quot; di Cesare Pavese, legge Remo Girone, versione integrale in 20 puntate - Quando Anguilla, dopo venti anni di America, torna nelle Langhe, spera, nell'Italia liberata di incontrare quelli che aveva lasciato. Di trovarli cambiati, ma trovarli. Incontra invece solo Nuto. Gli altri, come apprende, sono morti o scomparsi. Cerca, Anguilla, con l'aiuto dell'amico, di adattarsi all'idea e alle circostanze che anche i luoghi che paiono immutabili siano invece travolti dai tempi imposti dalla modernità. Pure dell'infanzia, che più che un tempo è un luogo – tant'è che Anguilla ha cercato di tornarci – è rimasto poco, è rimasto Nuto. Anguilla dovrà fare i conti con l'unica cosa impossibile sradicare: l'ingiustizia. Nel romanzo forse più noto di Cesare Pavese, le proteste, le ansie, i malumori, e le passioni improvvise della giovinezza.</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2021/06/11/1623400017249_PAVESE_02.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:46 -0000</pubDate>
+            <item>
+                <title>#06  La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-6b778901-27ad-43b0-9a70-bd88cf927cb3.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=51ALfDvamfw5Rs2YcssSlash62oweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=51ALfDvamfw5Rs2YcssSlash62oweeqqEEqualeeqqEEqual</guid>
+                <description>#06  La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#07 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-05551e00-2228-4341-81f8-f526482c8fe9.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash5bClH3LfN5uIkhJ1MJHbweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash5bClH3LfN5uIkhJ1MJHbweeqqEEqualeeqqEEqual</guid>
+                <description>#07 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#08 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-40ccf83d-a25b-42ec-ad58-7ddd333ab9f0.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=assSlashhCZT5JHPPkCfyn9aFc4weeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=assSlashhCZT5JHPPkCfyn9aFc4weeqqEEqualeeqqEEqual</guid>
+                <description>#08 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#09 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-6f7f958c-ccdc-4d51-85fb-523c1338a802.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QPhssSlashlhDNhK3xglkdsedafQeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QPhssSlashlhDNhK3xglkdsedafQeeqqEEqualeeqqEEqual</guid>
+                <description>#09 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#10 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-89745ba5-c9e3-4c0e-b3d6-71dbf9346a32.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ddCssSlashoVVLlzEDx6oGNEdq5geeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ddCssSlashoVVLlzEDx6oGNEdq5geeqqEEqualeeqqEEqual</guid>
+                <description>#10 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#05 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-0099ec0f-067d-4b55-816c-a57f18d90b9c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aORi61BmaOeessSlashg4bUpPpPlussPAssSlashweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aORi61BmaOeessSlashg4bUpPpPlussPAssSlashweeqqEEqualeeqqEEqual</guid>
+                <description>#05 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#04 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-029cba02-cb95-4c94-92fb-181d74144ea6.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sv0SCApPpPlussRCxQlVkDHFssSlashlqhAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sv0SCApPpPlussRCxQlVkDHFssSlashlqhAeeqqEEqualeeqqEEqual</guid>
+                <description>#04 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#03 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-4c7b2d25-bf3f-4aeb-9463-c78646e14913.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gZeijWyiegcFQEwAMuy87AeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gZeijWyiegcFQEwAMuy87AeeqqEEqualeeqqEEqual</guid>
+                <description>#03 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#02 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-7c053065-21db-4c60-959e-0490d7418a24.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GItfhq085tQB8M0WKQF3AweeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GItfhq085tQB8M0WKQF3AweeqqEEqualeeqqEEqual</guid>
+                <description>#02 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#01 La luna e i falò di Cesare Pavese</title>
+                <link>https://www.raiplayradio.it/audio/2021/06/AD-ALTA-VOCE-ea468779-16a3-4d41-95e0-144d4b5f4d95.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=j545aS2DhW6Xyd9FVDbx9weeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=j545aS2DhW6Xyd9FVDbx9weeqqEEqualeeqqEEqual</guid>
+                <description>#01 La luna e i falò di Cesare Pavese</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

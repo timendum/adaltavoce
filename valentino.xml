@@ -1,55 +1,58 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Valentino</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Valentino-881b6a9f-644f-41cc-89dc-aaa010c11816.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541614103385_Valentino.jpg</url>
-            <title>Valentino</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Valentino-881b6a9f-644f-41cc-89dc-aaa010c11816.html</link>
-        </image>
-        <description>di Natalia Ginzburg legge Michela Martini</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:40 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Natalia Ginzburg legge Michela Martini</itunes:summary>
-        <itunes:subtitle>di Natalia Ginzburg legge Michela Martini</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541614103385_Valentino.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:40 -0000</pubDate>
-            <item>
-                <title>Valentino | Ad Alta Voce del 05/08/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-677d76ff-e555-4f0b-9200-7ea771c6b4ca.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jqmo2T72YaoeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jqmo2T72YaoeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Valentino | Ad Alta Voce del 04/08/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-247c2652-c79b-43f3-90c5-87bce49b9355.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HAgupcVPVeYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HAgupcVPVeYeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Valentino | Ad Alta Voce del 03/08/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c5a9aa10-58a4-47c1-8207-557120c8f1f8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2E52XGjissSlashsweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2E52XGjissSlashsweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Valentino | Ad Alta Voce del 02/08/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-29100c42-b114-4c4e-8753-d2e204ea00eb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eYnM1HPay8IeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eYnM1HPay8IeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Valentino | Ad Alta Voce del 01/08/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c3dd20f3-9dc9-4a97-a7a7-06b29973675e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FfWhbaSbprUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FfWhbaSbprUeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Valentino</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Valentino-881b6a9f-644f-41cc-89dc-aaa010c11816.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541614103385_Valentino.jpg</url>
+            <title>Valentino</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Valentino-881b6a9f-644f-41cc-89dc-aaa010c11816.html</link>
+        </image>
+        <description>di Natalia Ginzburg legge Michela Martini</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:36 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Natalia Ginzburg legge Michela Martini</itunes:summary>
+        <itunes:subtitle>di Natalia Ginzburg legge Michela Martini</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541614103385_Valentino.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:36 -0000</pubDate>
+            <item>
+                <title>Valentino | Ad Alta Voce del 05/08/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-677d76ff-e555-4f0b-9200-7ea771c6b4ca.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jqmo2T72YaoeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jqmo2T72YaoeeqqEEqual</guid>
+                <description>Valentino | Ad Alta Voce del 05/08/2016</description>
+            </item>
+            <item>
+                <title>Valentino | Ad Alta Voce del 04/08/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-247c2652-c79b-43f3-90c5-87bce49b9355.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HAgupcVPVeYeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HAgupcVPVeYeeqqEEqual</guid>
+                <description>Valentino | Ad Alta Voce del 04/08/2016</description>
+            </item>
+            <item>
+                <title>Valentino | Ad Alta Voce del 03/08/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c5a9aa10-58a4-47c1-8207-557120c8f1f8.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2E52XGjissSlashsweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2E52XGjissSlashsweeqqEEqual</guid>
+                <description>Valentino | Ad Alta Voce del 03/08/2016</description>
+            </item>
+            <item>
+                <title>Valentino | Ad Alta Voce del 02/08/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-29100c42-b114-4c4e-8753-d2e204ea00eb.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eYnM1HPay8IeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eYnM1HPay8IeeqqEEqual</guid>
+                <description>Valentino | Ad Alta Voce del 02/08/2016</description>
+            </item>
+            <item>
+                <title>Valentino | Ad Alta Voce del 01/08/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c3dd20f3-9dc9-4a97-a7a7-06b29973675e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FfWhbaSbprUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FfWhbaSbprUeeqqEEqual</guid>
+                <description>Valentino | Ad Alta Voce del 01/08/2016</description>
+            </item>
+    </channel>
 </rss>

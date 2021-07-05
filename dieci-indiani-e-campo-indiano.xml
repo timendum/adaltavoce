@@ -1,27 +1,30 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Dieci indiani e Campo indiano</title>
-        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-Ad-Alta-Voce-Dieci-indiani-e-Campo-indiano-a7b0bd18-d65b-4c5c-9251-a97f91e044ce.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516007442606_Dieci%20indiani%20e%20Campo%20indiano.jpg</url>
-            <title>Dieci indiani e Campo indiano</title>
-            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-Ad-Alta-Voce-Dieci-indiani-e-Campo-indiano-a7b0bd18-d65b-4c5c-9251-a97f91e044ce.html</link>
-        </image>
-        <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:02 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
-        <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516007442606_Dieci%20indiani%20e%20Campo%20indiano.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:02 -0000</pubDate>
-            <item>
-                <title>Dieci indiani e Campo indiano</title>
-                <link>https://www.raiplayradio.it/audio/2014/11/Dieci-indiani-e-Campo-indiano-33c35a0a-8ce8-4b3c-9aff-d1e753f5733c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dieci indiani e Campo indiano</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-Ad-Alta-Voce-Dieci-indiani-e-Campo-indiano-a7b0bd18-d65b-4c5c-9251-a97f91e044ce.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516007442606_Dieci%20indiani%20e%20Campo%20indiano.jpg</url>
+            <title>Dieci indiani e Campo indiano</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/Radio3-Ad-Alta-Voce-Dieci-indiani-e-Campo-indiano-a7b0bd18-d65b-4c5c-9251-a97f91e044ce.html</link>
+        </image>
+        <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:46:51 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
+        <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/15/1516007442606_Dieci%20indiani%20e%20Campo%20indiano.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:46:51 -0000</pubDate>
+            <item>
+                <title>Dieci indiani e Campo indiano</title>
+                <link>https://www.raiplayradio.it/audio/2014/11/Dieci-indiani-e-Campo-indiano-33c35a0a-8ce8-4b3c-9aff-d1e753f5733c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual</guid>
+                <description>Dieci indiani e Campo indiano</description>
+            </item>
+    </channel>
 </rss>

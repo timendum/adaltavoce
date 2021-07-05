@@ -1,48 +1,51 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>La scoperta del Bambino</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/La-scoperta-del-Bambino-9b098b05-50cf-4d44-9e83-4240e7a5062c.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612851102_La%20scoperta%20del%20bambino.jpg</url>
-            <title>La scoperta del Bambino</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/La-scoperta-del-Bambino-9b098b05-50cf-4d44-9e83-4240e7a5062c.html</link>
-        </image>
-        <description>di Maria Montessori letto da Laura Curino</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:25 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Maria Montessori letto da Laura Curino</itunes:summary>
-        <itunes:subtitle>di Maria Montessori letto da Laura Curino</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612851102_La%20scoperta%20del%20bambino.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:25 -0000</pubDate>
-            <item>
-                <title>La scoperta del Bambino - Lettura IV</title>
-                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-IV-b36f3f28-1dd4-49fd-b2a7-1bb008d957f7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5ssSlashAv9VeUM04eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5ssSlashAv9VeUM04eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La scoperta del Bambino - Lettura III</title>
-                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-III-a35ba931-d18e-45a0-aa9b-a80a76c2269c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VpQBSPDjks0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VpQBSPDjks0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La scoperta del Bambino - Lettura II</title>
-                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-II-501408a4-1490-4434-9d5e-cb6befa366f2.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5klJsdypPpPlussJaQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5klJsdypPpPlussJaQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La scoperta del Bambino - Lettura I</title>
-                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-I-32e425ba-495c-4c6f-b1a5-e14472389c17.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=coRIzl2IKa0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=coRIzl2IKa0eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>La scoperta del Bambino</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/La-scoperta-del-Bambino-9b098b05-50cf-4d44-9e83-4240e7a5062c.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612851102_La%20scoperta%20del%20bambino.jpg</url>
+            <title>La scoperta del Bambino</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/La-scoperta-del-Bambino-9b098b05-50cf-4d44-9e83-4240e7a5062c.html</link>
+        </image>
+        <description>di Maria Montessori letto da Laura Curino</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:51 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Maria Montessori letto da Laura Curino</itunes:summary>
+        <itunes:subtitle>di Maria Montessori letto da Laura Curino</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612851102_La%20scoperta%20del%20bambino.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:51 -0000</pubDate>
+            <item>
+                <title>La scoperta del Bambino - Lettura IV</title>
+                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-IV-b36f3f28-1dd4-49fd-b2a7-1bb008d957f7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5ssSlashAv9VeUM04eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5ssSlashAv9VeUM04eeqqEEqual</guid>
+                <description>La scoperta del Bambino - Lettura IV</description>
+            </item>
+            <item>
+                <title>La scoperta del Bambino - Lettura III</title>
+                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-III-a35ba931-d18e-45a0-aa9b-a80a76c2269c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VpQBSPDjks0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VpQBSPDjks0eeqqEEqual</guid>
+                <description>La scoperta del Bambino - Lettura III</description>
+            </item>
+            <item>
+                <title>La scoperta del Bambino - Lettura II</title>
+                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-II-501408a4-1490-4434-9d5e-cb6befa366f2.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5klJsdypPpPlussJaQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5klJsdypPpPlussJaQeeqqEEqual</guid>
+                <description>La scoperta del Bambino - Lettura II</description>
+            </item>
+            <item>
+                <title>La scoperta del Bambino - Lettura I</title>
+                <link>https://www.raiplayradio.it/audio/2014/09/La-scoperta-del-Bambino---Lettura-I-32e425ba-495c-4c6f-b1a5-e14472389c17.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=coRIzl2IKa0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=coRIzl2IKa0eeqqEEqual</guid>
+                <description>La scoperta del Bambino - Lettura I</description>
+            </item>
+    </channel>
 </rss>

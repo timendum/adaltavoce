@@ -1,1593 +1,845 @@
 <!DOCTYPE HTML>
-
 <!--
-
 	Editorial by HTML5 UP
-
 	html5up.net | @ajlkn
-
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 -->
-
 <html>
-
 	<head>
-
 		<title>Ad alta voce - Podcast non ufficiale</title>
-
 		<meta charset="utf-8" />
-
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-
 		<link rel="stylesheet" href="assets/css/main.css" />
-
 	</head>
-
 	<body class="is-preload">
 
-
-
 		<!-- Wrapper -->
-
 			<div id="wrapper">
 
-
-
 				<!-- Main -->
-
 					<div id="main">
-
 						<div class="inner">
-
-
 
 							<!-- Header -->
-
 								<header id="header">
-
 									<a href="index.html" class="logo">Documentazione</a>
-
 									<ul class="icons">
-
 										<li><a href="https://github.com/timendum/adaltavoce" class="icon fa-github"><span class="label">Github</span></a></li>
-
 									</ul>
-
 								</header>
 
-
-
 							<!-- Banner -->
-
 								<section id="banner">
-
 									<div class="content">
-
 										<header>
-
 											<h1>Ad alta voce - Podcast non ufficiale</h1>
-
 										</header>
-
 										<p>Script per la generazione dei Feed Podcast da 
-
 											<a href="https://www.raiplayradio.it/programmi/adaltavoce/">Ad Alta Voce</a>,
-
 											il programma di <a href="https://www.raiplayradio.it/radio3">Radio 3</a>.
-
 										</p>
-
-										<p>Ultimo aggiornamento: 2020-05-26.</p>
-
+										<p>Ultimo aggiornamento: 2021-07-05.</p>
 										<ul class="actions">
-
 											<li><a href="#list" class="button big">Lista dei podcast</a></li>
-
 										</ul>
-
 									</div>
-
 								</section>
 
-
-
 							<!-- Section -->
-
 								<section>
-
 									<header class="major">
-
 										<h2 id="info">Istruzioni</h2>
-
 									</header>
-
 									<div class="features">
-
 										<article>
-
 											<div class="content">
-
 												<h3>Installazione</h3>
-
 												<p>Clonare il repository</p>
-
 												<pre>git clone https://github.com/timendum/adaltavoce.git</pre>
-
 												<p>Installare le dipendenze</p>
-
 												<pre>pip install -r requirements.txt</pre>
-
 											</div>
-
 										</article>
-
 										<article>
-
 											<div class="content">
-
 												<h3>Utilizzo</h3>
-
 												<p>Per generare un singolo Feed podcast:</p>
-
 												<pre>python single.py https://www.raiplayradio.it/playlist/20...</pre>
-
-												<p>Per generare tutti i feed in un colpo solo.</p>
-
-												<pre>python all.py</pre>
-
+												<p>Per generare tutti i feed in un colpo solo nella cartella <code>dist</code>.</p>
+												<pre>python all.py -nohtml</pre>
+												<p>L'opzione <code>-nohtml</code> evita la creazione di questa pagina HTML.</p>
 											</div>
-
 										</article>
-
 									</div>
-
 								</section>
-
-
 
 							<!-- Section -->
-
 								<section>
-
 									<header class="major">
-
 										<h2 id="list"> Lista dei feed</h2>
-
 									</header>
-
 									<div class="posts">
-
 										<article>
-
 											<h3 id="list-1">1</h3>
-
 											<p>
-
 												<a href="16-ottobre-1943.xml">16 ottobre 1943</a> - di Giacomo Debenedetti letto da Moni Ovadia
-
 											</p>
-
+																						
 											<h3 id="list-a">A</h3>
-
 											<p>
-
 												<a href="addio-alle-armi.xml">Addio alle armi</a> - di Ernest Hemingway letto da Tommaso Ragno
-
 											</p>
-
 											<p>
-
 												<a href="agostino.xml">Agostino</a> - di Alberto Moravia letto da Alba Rohrwacher
-
 											</p>
-
 											<p>
-
 												<a href="alice-nel-paese-delle-meraviglie.xml">Alice nel paese delle meraviglie</a> - di Lewis Carrol letto da Aldo Busi
-
 											</p>
-
 											<p>
-
 												<a href="all-ombra-delle-fanciulle-in-fiore.xml">All&#x27;ombra delle fanciulle in fiore</a> - di Marcel Proust letto da Sandro Lombardi
-
 											</p>
-
 											<p>
-
+												<a href="alpinisti-ciabattoni.xml">Alpinisti ciabattoni</a> - di Achille Giovanni Cagna letto da Silvia Pasello
+											</p>
+											<p>
 												<a href="amatissima.xml">Amatissima</a> - di Toni Morrison letto da Maria Paiato
-
 											</p>
-
 											<p>
-
 												<a href="amici.xml">Amici </a> - di Romano Bilenchi letto da Sandro Lombardi
-
 											</p>
-
 											<p>
-
 												<a href="amore-e-ginnastica.xml">Amore e ginnastica</a> - di Edmondo De Amicis letto da Leopoldo Mastelloni
-
 											</p>
-
 											<p>
-
 												<a href="amuleto.xml">Amuleto </a> - di Roberto Bolaño letto da Maria Paiato
-
 											</p>
-
 											<p>
-
 												<a href="arancia-meccanica.xml">Arancia Meccanica</a> - di Anthony Burgess legge Marco Cavalcoli
-
 											</p>
-
+											<p>
+												<a href="assassinio-sull-orient-express.xml">Assassinio sull'Orient Express</a> - di Agatha Christie letto da Massimo Popolizio
+											</p>
+																						
 											<h3 id="list-b">B</h3>
-
 											<p>
-
 												<a href="bartleby-lo-scrivano.xml">Bartleby lo scrivano</a> - di Herman Melville letto da Elia Schilton
-
 											</p>
-
 											<p>
-
 												<a href="bel-ami.xml">Bel Ami</a> - Ad alta voce
-
 											</p>
-
+																						
 											<h3 id="list-c">C</h3>
-
 											<p>
-
-												<a href="c-era-due-volte-il-barone-lamberto.xml">C&#x27;era due volte il barone Lamberto</a> - di Gianni Rodari letto Manuela Mandracchia
-
+												<a href="c-era-due-volte-il-barone-lamberto.xml">C'era due volte il barone Lamberto</a> - di Gianni Rodari letto Manuela Mandracchia
 											</p>
-
 											<p>
-
 												<a href="camera-con-vista.xml">Camera con vista</a> - di Edward Morgan Foster letto da Tommaso Ragno
-
 											</p>
-
 											<p>
-
 												<a href="canne-al-vento.xml">Canne al vento</a> - di Grazia Deledda letto da Valentina Carnelutti
-
 											</p>
-
 											<p>
-
 												<a href="caro-michele.xml">Caro Michele</a> - di Natalia Ginzburg letto da Anna Bonaiuto
-
 											</p>
-
 											<p>
-
 												<a href="cattedrale.xml">Cattedrale</a> - di Raymond Carver letto da Fausto Paravidino
-
 											</p>
-
 											<p>
-
+												<a href="cent-anni-di-solitudine.xml">Cent&#x27;anni di solitudine</a> - di Gabriel Garcia Marquez letto da Ermanna Montanari, Piero Baldini, Manuela Mandracchia, Marco Foschi, Chiara Guidi, Peppe Servillo, Valentina Carnelutti, Elio De Capitani. Traduzione di Enrico Cicogna
+											</p>
+											<p>
 												<a href="cattivo-natale.xml">Cattivo Natale</a> - di Frank L. Baum letto da Sandra Toffolatti
-
 											</p>
-
 											<p>
-
-												<a href="cent-anni-di-solitudine.xml">Cent&#x27;anni di solitudine</a> - di Gabriel Garcia Marquez letto da Ermanna Montanari, Piero Baldini, Manuela Mandracchia, Marco Foschi, Chiara Guidi, Peppe Servillo, Valentina Carnelutti, Elio De Capitani. Traduzione di Enrico Cicogna.
-
+												<a href="chissa-dov-ero-quel-25-aprile.xml">Chissà dov'ero quel 25 aprile</a> - di Mario Rigoni Stern letto da Valerio Binasco
 											</p>
-
 											<p>
-
-												<a href="chissa-dov-ero-quel-25-aprile.xml">Chissà dov&#x27;ero quel 25 aprile</a> - di Mario Rigoni Stern letto da Valerio Binasco
-
-											</p>
-
-											<p>
-
 												<a href="cime-tempestose.xml">Cime tempestose</a> - di Emily Bronte letto da Anna Maria Guarnieri
-
 											</p>
-
 											<p>
-
 												<a href="cia-ula-scopre-la-luna.xml">Ciàula scopre la luna</a> - di Luigi Pirandello letto da Vinicio Marchioni
-
 											</p>
-
 											<p>
-
 												<a href="collettori-limonata.xml">Collettori - Limonata</a> - di Raymond Carver letto da Fausto Paravidino
-
 											</p>
-
 											<p>
-
 												<a href="con-gli-occhi-chiusi.xml">Con gli occhi chiusi</a> - di Federigo Tozzi letto da Francesco Siciliano
-
 											</p>
-
 											<p>
-
 												<a href="conservazione.xml">Conservazione</a> - di Raymond Carver letto da Betti Pedrazzi
-
 											</p>
-
 											<p>
-
 												<a href="conversazione-in-sicilia.xml">Conversazione in Sicilia</a> - di Elio Vittorini letto da Tommaso Ragno
-
 											</p>
-
 											<p>
-
 												<a href="cristo-si-e-fermato-a-eboli.xml">Cristo si è fermato a Eboli</a> - di Carlo Levi letto da Elio De Capitani
-
 											</p>
-
 											<p>
-
 												<a href="cuore-di-tenebra.xml">Cuore di tenebra</a> - di Joseph Conrad letto da Lino Guanciale
-
 											</p>
-
+																						
 											<h3 id="list-d">D</h3>
-
 											<p>
-
 												<a href="da-quarto-al-volturno.xml">Da Quarto al Volturno</a> - di Giuseppe Cesare Abba letto da Tommaso Ragno
-
 											</p>
-
 											<p>
-
 												<a href="decamerone.xml">Decamerone</a> - di Giovanni Boccaccio letto dalle più grandi voci del teatro italiano
-
 											</p>
-
 											<p>
-
-												<a href="di-alle-donne-che-usciamo.xml">Di&#x27; alle donne che usciamo</a> - di Raymond Carver letto da Fabrizio Falco
-
+												<a href="di-alle-donne-che-usciamo.xml">Di' alle donne che usciamo</a> - di Raymond Carver letto da Fabrizio Falco
 											</p>
-
 											<p>
-
 												<a href="diario-1941-1943-di-etty-hillesum.xml">Diario 1941-1943 di Etty Hillesum</a> - Il romanzo di Etty Hillesum letto da Sandra Toffolatti
-
 											</p>
-
 											<p>
-
 												<a href="diario-di-anna-frank.xml">Diario di Anna Frank</a> - legge Daria Deflorian
-
 											</p>
-
 											<p>
-
 												<a href="diario-di-un-pazzo.xml">Diario di un pazzo</a> - Letto Valerio Aprea
-
 											</p>
-
 											<p>
-
-												<a href="diceria-dell-untore.xml">Diceria dell&#x27;untore</a> - di Gesualdo Bufalino letto da  Roberto Herlitzka
-
+												<a href="diceria-dell-untore.xml">Diceria dell'untore</a> - di Gesualdo Bufalino letto da  Roberto Herlitzka
 											</p>
-
 											<p>
-
 												<a href="dieci-indiani-e-campo-indiano.xml">Dieci indiani e Campo indiano</a> - Ennio Fantastichini legge il romanzo di Ernest Hemingway
-
 											</p>
-
 											<p>
-
 												<a href="distanza.xml">Distanza</a> - Fabrizio Falco legge Raymond Carver
-
 											</p>
-
 											<p>
-
 												<a href="doppio-sogno.xml">Doppio sogno</a> - di Arthur Schnitzler letto da Marco Foschi
-
 											</p>
-
 											<p>
-
 												<a href="dracula.xml">Dracula</a> - di Bram Stoker letto da Tommaso Ragno
-
 											</p>
-
+																						
 											<h3 id="list-e">E</h3>
-
 											<p>
-
 												<a href="emma.xml">Emma</a> - di Jane Austen letto da Elsa Agalbato
-
 											</p>
-
+																						
 											<h3 id="list-f">F</h3>
-
 											<p>
-
 												<a href="fame.xml">Fame</a> - di Knut Hamsun letto da Elia Schilton
-
 											</p>
-
 											<p>
-
 												<a href="favole-al-telefono.xml">Favole al telefono</a> - di Gianni Rodari letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="febbre.xml">Febbre</a> - di Jonathan Bazzi letto da Valentina Carnelutti
-
 											</p>
-
 											<p>
-
 												<a href="ferito-a-morte.xml">Ferito a morte</a> - di Raffaele La Capria letto da Peppe Servillo
-
 											</p>
-
 											<p>
-
 												<a href="festa-mobile.xml">Festa mobile</a> - di Ernest Hemingway letto da Ennio Fantastichini
-
 											</p>
-
 											<p>
-
 												<a href="fiesta.xml">Fiesta</a> - di Ernest Hemingway letto da Luciano Virgilio
-
 											</p>
-
 											<p>
-
 												<a href="flush-una-biografia.xml">Flush. Una biografia</a> - di Virginia Woolf letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="fontamara.xml">Fontamara</a> - di Ignazio Silone letto da Marco Cavalcoli
-
 											</p>
-
 											<p>
-
 												<a href="fosca.xml">Fosca</a> - di Igino Ugo Tarchetti letto da Alberto Rossatti
-
 											</p>
-
 											<p>
-
 												<a href="frankenstein.xml">Frankenstein</a> - di Mary Shelley letto da Tommaso Ragno
-
 											</p>
-
+																						
 											<h3 id="list-g">G</h3>
-
 											<p>
-
 												<a href="gioventu-senza-dio.xml">Gioventù senza Dio</a> - di  Ödön von Horváth letto da Marco Foschi
-
 											</p>
-
 											<p>
-
 												<a href="giro-di-vite.xml">Giro di Vite</a> - di Henry James letto da Maria Paiato
-
 											</p>
-
 											<p>
-
 												<a href="gli-indifferenti.xml">Gli indifferenti</a> - di Alberto Moravia letto da Toni Servillo
-
 											</p>
-
 											<p>
-
-												<a href="gli-occhiali-d-oro.xml">Gli occhiali d&#x27;oro</a> - di Giorgio Bassani letto da Sandro Lombardi
-
+												<a href="gli-occhiali-d-oro.xml">Gli occhiali d'oro</a> - di Giorgio Bassani letto da Sandro Lombardi
 											</p>
-
 											<p>
-
 												<a href="gli-ultimi-anni-di-clelia-trotti.xml">Gli ultimi anni di Clelia Trotti</a> - Storie ferraresi - Maria Paiato legge il romanzo di  Giorgio Bassani
-
 											</p>
-
 											<p>
-
 												<a href="grande-fiume-dai-due-cuori.xml">Grande fiume dai due cuori</a> - Ennio Fantastichini legge il romanzo di Ernest Hemingway
-
 											</p>
-
 											<p>
-
 												<a href="grandi-speranze.xml">Grandi speranze</a> - di Charles Dickens letto da Piero Baldini
-
 											</p>
-
 											<p>
-
 												<a href="grisha-e-il-racconto-del-giardiniere-capo.xml">Grisha e il racconto del giardiniere capo</a> - Elia Schilton legge  Anton Cecov
-
 											</p>
-
 											<p>
-
 												<a href="guida-galattica-per-gli-autostoppisti.xml">Guida galattica per gli autostoppisti</a> - di Douglas Adams letto da Valerio Aprea
-
 											</p>
-
+																						
 											<h3 id="list-h">H</h3>
-
 											<p>
-
-												<a href="ho-servito-il-re-d-inghilterra.xml">Ho servito il re d&#x27;Inghilterra </a> - di Bohumil Hrabal letto da Fausto Paravidino
-
+												<a href="ho-servito-il-re-d-inghilterra.xml">Ho servito il re d'Inghilterra </a> - di Bohumil Hrabal letto da Fausto Paravidino
 											</p>
-
+																						
 											<h3 id="list-i">I</h3>
-
 											<p>
-
 												<a href="i-dieci-giorni-che-sconvolsero-il-mondo.xml">I dieci giorni che sconvolsero il mondo</a> - Di John Reed letto da Tommaso Ragno
-
 											</p>
-
 											<p>
-
 												<a href="i-dolori-del-giovane-werther.xml">I dolori del giovane Werther</a> - di J.W. Goethe letto da Toni Servillo
-
 											</p>
-
 											<p>
-
 												<a href="i-libri-di-oz.xml">I libri di Oz</a> - Di L. Frank Baum letti da Chiara Lagani
-
 											</p>
-
 											<p>
-
 												<a href="i-miei-premi.xml">I miei premi</a> - di Thomas Bernhard legge Elia Schilton
-
 											</p>
-
 											<p>
-
 												<a href="i-mille-da-genova-a-capua.xml">I mille da Genova a Capua</a> - di Giuseppe Bandi letto da Alessandro Benvenuti
-
 											</p>
-
 											<p>
-
 												<a href="i-piccoli-maestri.xml">I piccoli maestri</a> - Michele Di Mauro legge il romanzo di Luigi Meneghello
-
 											</p>
-
 											<p>
-
 												<a href="i-promessi-sposi.xml">I promessi sposi </a> - di Alessandro Manzoni letto da Piero Baldini, Alessandro Benvenuti, Anna Bonaiuto, Maddalena Crippa, Fabrizio Gifuni, Maria Paiato, Paola Pitagora, Lucia Poli, Paolo Poli, Massimo Popolizio.
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-alberto-moravia.xml">I racconti di Alberto Moravia</a> - I racconti di Alberto Moravia
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-anton-cechov.xml">I racconti di Anton Cechov</a> - letti da Elia Shilton
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-ernest-hemingway.xml">I racconti di Ernest Hemingway</a> - di Ernest Hemingway letto da Ennio Fantastichini
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-franz-kafka.xml">I racconti di Franz Kafka</a> - I racconti di Franz Kafka
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-grace-paley.xml">I racconti di Grace Paley</a> - I racconti di Grace Paley
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-italo-calvino.xml">I racconti di Italo Calvino </a> - di Italo Calvino letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-jack-london.xml">I racconti di Jack London</a> - letti da Piero Baldini
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-katherine-mansfield.xml">I racconti di Katherine Mansfield</a> - I racconti di Katherine Mansfield
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-lev-tolstoj.xml">I racconti di Lev Tolstoj </a> - di Lev Tolstoj letto da Arturo Cirillo
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-luigi-pirandello.xml">I racconti di Luigi Pirandello</a> - I racconti di Luigi Pirandello
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-raymond-carver.xml">I racconti di Raymond Carver </a> - di Carver letto da Ernesto Goio
-
 											</p>
-
 											<p>
-
 												<a href="i-racconti-di-ryunosuke-akutagawa.xml">I racconti di Ryunosuke Akutagawa</a> - di Ryunosuke Akutagawa letto da Elisabetta Piccolomini
-
 											</p>
-
 											<p>
-
 												<a href="i-ragazzi-della-via-pal.xml">I ragazzi della Via Pal</a> - di F. Molnar letto da Barbara Valmorin
-
 											</p>
-
 											<p>
-
 												<a href="i-tre-moschettieri.xml">I tre moschettieri</a> - di Alexandre Dumas letto da Paolo Bonacelli
-
 											</p>
-
 											<p>
-
 												<a href="i-vecchi-e-i-giovani.xml">I vecchi e i giovani</a> - di Luigi Pirandello letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="i-viaggi-di-gulliver.xml">I viaggi di Gulliver</a> - di Jonathan Swift letto da Chiara Guidi
-
 											</p>
-
 											<p>
-
 												<a href="il-barone-rampante.xml">Il barone rampante</a> - di Italo Calvino letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="il-bell-antonio.xml">Il bell&#x27;Antonio</a> - di Vitaliano Brancati letto da Remo Girone
-
 											</p>
-
 											<p>
-
-												<a href="il-buio-oltre-la-siepe.xml">Il buio oltre la siepe</a> - Il buio oltre la siepe
-
+												<a href="il-buio-oltre-la-siepe.xml">Il buio oltre la siepe</a> - di Harper Lee letto da Manuela Mandracchia
 											</p>
-
 											<p>
-
+												<a href="il-cappello-del-prete.xml">Il cappello del prete</a> - di Emilio De Marchi letto da Patrizia Zappa Mulas
+											</p>
+											<p>
 												<a href="il-cardillo-addolorato.xml">Il cardillo addolorato</a> - di Anna Maria Ortese letto da Arturo Cirillo
-
 											</p>
-
 											<p>
-
 												<a href="il-cavaliere-inesistente.xml">Il cavaliere inesistente</a> - di Italo Calvino letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="il-codice-di-perela.xml">Il codice di Perelà</a> - di Aldo Palazzeschi letto da Paolo Poli
-
 											</p>
-
 											<p>
-
 												<a href="il-commesso.xml">Il commesso</a> - di Bernard Malamud letto da Paolo Graziosi
-
 											</p>
-
 											<p>
-
 												<a href="il-conformista.xml">Il conformista</a> - Tommaso Ragno legge Il conformista di Alberto Moravia
-
 											</p>
-
 											<p>
-
 												<a href="il-conte-di-montecristo.xml">Il Conte di Montecristo</a> - di Alexandre Dumas letto da Andrea Giordana
-
 											</p>
-
 											<p>
-
 												<a href="il-deserto-della-libia.xml">Il deserto della Libia</a> - di Mario Tobino  letto da Claudio Bigagli
-
 											</p>
-
 											<p>
-
 												<a href="il-diavolo-in-corpo.xml">Il diavolo in corpo</a> - di Raymond Radiguet letto da Paola Pitagora
-
 											</p>
-
 											<p>
-
 												<a href="il-fondo-della-bottiglia.xml">Il fondo della bottiglia</a> - di Georges Simenon letto da Paolo Pierobon
-
 											</p>
-
 											<p>
-
 												<a href="il-fu-mattia-pascal.xml">Il fu Mattia Pascal</a> - di Luigi Pirandello letto da Omero Antonutti
-
 											</p>
-
 											<p>
-
-												<a href="il-gattopardo.xml">Il Gattopardo</a> - di Giuseppe Tomasi di Lampedusa letto da Pietro Biondi
-
+												<a href="il-gattopardo-di-giuseppe-tomasi-di-lampedusa-lettura-di-pietro-biondi.xml">Il Gattopardo, di Giuseppe Tomasi di Lampedusa. Lettura di Pietro Biondi</a> - di Giuseppe Tomasi di Lampedusa letto da Pietro Biondi
 											</p>
-
 											<p>
-
 												<a href="il-gelo.xml">Il gelo</a> - di Romano Bilenchi letto da Sandro Lombardi
-
 											</p>
-
 											<p>
-
 												<a href="il-giardino-dei-finzi-contini.xml">Il giardino dei Finzi Contini</a> - di Giorgio Bassani letto da Sandro Lombardi
-
 											</p>
-
 											<p>
-
 												<a href="il-gioco-dei-regni.xml">Il gioco dei regni</a> - Monica Piseddu legge Il gioco dei regni di Clara Sereni
-
 											</p>
-
 											<p>
-
 												<a href="il-giornalino-di-gianburrasca.xml">Il giornalino di Gianburrasca</a> - di Vamba (alias Luigi Bertelli) letto da Piero Baldini
-
 											</p>
-
 											<p>
-
 												<a href="il-giorno-del-giudizio.xml">Il giorno del giudizio</a> - di Salvatore Satta letto da Toni Servillo
-
 											</p>
-
 											<p>
-
 												<a href="il-giuoco-delle-perle-di-vetro.xml">Il giuoco delle perle di vetro</a> - di Hermann Hesse letto da Daniela Di Gusto
-
 											</p>
-
 											<p>
-
 												<a href="il-grande-bob.xml">Il grande Bob</a> - Paolo Graziosi legge il romanzo di Georges Simenon
-
 											</p>
-
 											<p>
-
 												<a href="il-grande-gatsby.xml">Il grande Gatsby</a> - di Francis Scott Fitzgerald letto da Rolando Ravello
-
 											</p>
-
 											<p>
-
 												<a href="il-libro-della-giungla.xml">Il libro della giungla</a> - di Rudyard Kipling letto da Giuseppe Cederna
-
 											</p>
-
 											<p>
-
-												<a href="il-maestro-e-margherita.xml">Il maestro e Margherita</a> - di Michail Afanas&#x27;evič Bulgakov letto da Massimo Popolizio
-
+												<a href="il-maestro-e-margherita.xml">Il maestro e Margherita</a> - di Michail Afanas'evič Bulgakov letto da Massimo Popolizio
 											</p>
-
 											<p>
-
 												<a href="il-mago-di-oz.xml">Il mago di Oz</a> - di Lyman Frank Baum letto da Alba Rohrwacher
-
 											</p>
-
 											<p>
-
 												<a href="il-mantello.xml">Il mantello</a> - di Nikolaj Gogol legge Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="il-mare-non-bagna-napoli.xml">Il mare non bagna Napoli</a> - di Anna Maria Ortese letto da Iaia Forte
-
 											</p>
-
 											<p>
-
 												<a href="il-monaco.xml">Il Monaco</a> - di Matthew G. Lewis legge Tommaso Ragno
-
 											</p>
-
 											<p>
-
 												<a href="il-naso.xml">Il naso</a> - Di Nikolaj Gogol legge Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="il-nome-della-rosa.xml">Il nome della rosa</a> - di Umberto Eco legge Moni Ovadia
-
 											</p>
-
 											<p>
-
 												<a href="il-nuotatore.xml">Il nuotatore</a> - di John Cheever letto da Tommaso Ragno
-
 											</p>
-
 											<p>
-
-												<a href="il-piacere.xml">Il piacere</a> - di Gabriele D&#x27;annunzio letto da Piero Baldini
-
+												<a href="il-piacere.xml">Il piacere</a> - di Gabriele D'annunzio letto da Piero Baldini
 											</p>
-
 											<p>
-
-												<a href="il-popolo-dell-abisso.xml">Il popolo dell&#x27;abisso</a> - di Jack London letto da Graziano Piazza
-
+												<a href="il-popolo-dell-abisso.xml">Il popolo dell'abisso</a> - di Jack London letto da Graziano Piazza
 											</p>
-
 											<p>
-
 												<a href="il-pranzo-di-babette.xml">Il pranzo di Babette</a> - di Karen Blixen letto da Anna Bonaiuto
-
 											</p>
-
 											<p>
-
-												<a href="il-richiamo-della-foresta.xml">Il richiamo della foresta</a> - di Jack London letto da Francesco Siciliano
-
+												<a href="il-richiamo-della-foresta.xml">Il richiamo della foresta</a> - traduzione di Gianni Celati
 											</p>
-
 											<p>
-
 												<a href="il-ritratto.xml">Il ritratto</a> - di Nikolaj Gogol letto da Valentina Carnelutti
-
 											</p>
-
 											<p>
-
 												<a href="il-ritratto-di-dorian-gray.xml">Il ritratto di Dorian Gray</a> - Tommaso Ragno legge il romanzo di Oscar Wilde
-
 											</p>
-
 											<p>
-
 												<a href="il-rosso-e-il-nero.xml">Il rosso e il nero</a> - Piero Baldini legge il romanzo di Stendhal
-
 											</p>
-
 											<p>
-
-												<a href="il-sentiero-dei-nidi-di-ragno.xml">Il sentiero dei nidi di ragno</a> - Manuela Mandracchia legge il romanzo di Italo Calvino
-
+												<a href="il-sentiero-dei-nidi-di-ragno.xml">Il sentiero dei nidi di ragno</a> - di Italo Calvino letto da Manuela Mandracchia
 											</p>
-
 											<p>
-
 												<a href="il-sistema-periodico.xml">Il sistema periodico</a> - di Primo Levi legge Elio De Capitani
-
 											</p>
-
 											<p>
-
 												<a href="il-soccombente.xml">Il soccombente</a> - di Thomas Bernhard letto da Elia Schilton
-
 											</p>
-
 											<p>
-
-												<a href="il-visconte-dimezzato.xml">Il visconte dimezzato </a> - di Italo Calvino letto da Manuela Mandracchia
-
+												<a href="il-visconte-dimezzato.xml">Il visconte dimezzato</a> - di Italo Calvino letto da Manuela Mandracchia
 											</p>
-
+																						
 											<h3 id="list-j">J</h3>
-
 											<p>
-
 												<a href="jakob-von-gunten.xml">Jakob von Gunten</a> - di Robert Walser letto da Enzo Turrin
-
 											</p>
-
 											<p>
-
 												<a href="jane-eyre.xml">Jane Eyre</a> - di Charlotte Bronte, letto da Elisabetta Piccolomini
-
 											</p>
-
 											<p>
-
 												<a href="jules-e-jim.xml">Jules e Jim</a> - di Henri-Pierre Roché letto da Valentina Carnelutti
-
 											</p>
-
+																						
 											<h3 id="list-l">L</h3>
-
 											<p>
-
-												<a href="l-agente-segreto.xml">L&#x27;agente segreto</a> - Valentina Carnelutti legge il romanzo di Joseph Conrad
-
+												<a href="l-agente-segreto.xml">L'agente segreto</a> - Valentina Carnelutti legge il romanzo di Joseph Conrad
 											</p>
-
 											<p>
-
-												<a href="l-educazione-sentimentale.xml">L&#x27;educazione Sentimentale</a> - di Gustave Flaubert letto da Anna Bonaiuto
-
+												<a href="l-educazione-sentimentale.xml">L'educazione Sentimentale</a> - di Gustave Flaubert letto da Anna Bonaiuto
 											</p>
-
 											<p>
-
-												<a href="l-iguana.xml">L&#x27;Iguana</a> - di Anna Maria Ortese letto da Monica Demuru
-
+												<a href="l-iguana.xml">L'Iguana</a> - di Anna Maria Ortese letto da Monica Demuru
 											</p>
-
 											<p>
-
-												<a href="l-imperatore-di-portugallia.xml">L&#x27;Imperatore di Portugallia</a> - Ignazio Oliva legge il romanzo di Selma Lagerlof
-
+												<a href="l-imperatore-di-portugallia.xml">L'Imperatore di Portugallia</a> - Ignazio Oliva legge il romanzo di Selma Lagerlof
 											</p>
-
 											<p>
-
 												<a href="l-onda-dell-incrociatore.xml">L&#x27;onda dell&#x27;incrociatore</a> - di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni
-
 											</p>
-
 											<p>
-
+												<a href="la-coscienza-di-zeno.xml">La coscienza di Zeno</a> - di Italo Svevo letto Massimo De Francovich
+											</p>
+											<p>
+												<a href="la-fattoria-degli-animali.xml">La fattoria degli animali</a> - di George Orwell letto da Elio De Capitani
+											</p>
+											<p>
+												<a href="la-gloria.xml">La Gloria</a> - di Giuseppe Berto letto da Marco Foschi
+											</p>
+											<p>
 												<a href="la-luna-e-i-falo.xml">La luna e i falò</a> - di Cesare Pavese letto da Remo Girone
-
 											</p>
-
 											<p>
-
 												<a href="la-morte-di-ivan-ilich.xml">La morte di Ivan Ilich</a> - di Lev Tolstoj letto da Elia SChilton
-
 											</p>
-
 											<p>
-
 												<a href="la-paura.xml">La Paura</a> - di Federico De Roberto letto da Pierfrancesco Favino
-
 											</p>
-
 											<p>
-
-												<a href="la-pelle.xml">La Pelle</a> - di Curzio Malaparte letto da Tony Laudadio
-
+												<a href="la-pelle.xml">La pelle</a> - di Curzio Malaparte letto da Tony Laudadio
 											</p>
-
 											<p>
-
 												<a href="la-peste.xml">La peste</a> - di Albert Camus letto da Remo Girone
-
 											</p>
-
 											<p>
-
+												<a href="la-pista-di-ghiaccio.xml">La pista di ghiaccio</a> - di Roberto Bolaño letto da Fabrizio Gifuni, Fausto Paravidino e Tommaso Ragno
+											</p>
+											<p>
 												<a href="la-ragazza-di-bube.xml">La ragazza di Bube</a> - di Carlo Cassola letto da Alessandro Benvenuti
-
 											</p>
-
 											<p>
-
 												<a href="la-ricorrenza.xml">La ricorrenza</a> - di Howard Phillips Lovecraft letto da Piero Baldini
-
 											</p>
-
 											<p>
-
 												<a href="la-scoperta-del-bambino.xml">La scoperta del Bambino</a> - di Maria Montessori letto da Laura Curino
-
 											</p>
-
 											<p>
-
 												<a href="la-signora-dalloway.xml">La signora Dalloway</a> - di Virginia Wolf letto da Paola Pitagora
-
 											</p>
-
 											<p>
-
 												<a href="la-sovrana-lettrice.xml">La sovrana lettrice</a> - di Alan Bennett letto da Anna Bonaiuto
-
 											</p>
-
 											<p>
-
 												<a href="la-torta-in-cielo.xml">La torta in cielo</a> - di Gianni Rodari letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="la-tregua.xml">La tregua</a> - di Primo Levi letto da Valentina Carnelutti
-
 											</p>
-
 											<p>
-
 												<a href="la-vergine-nel-giardino.xml">La vergine nel giardino</a> - di Antonia S. Byatt letto da Anna Bonaiuto
-
 											</p>
-
 											<p>
-
 												<a href="la-vita-agra.xml">La vita agra</a> - di Luciano Bianciardi
-
 											</p>
-
 											<p>
-
+												<a href="la-vita-davanti-a-se.xml">La vita davanti a sé</a> - di Romain Gary letto da Fausto Paravidino
+											</p>
+											<p>
 												<a href="le-avventure-di-gordon-pym.xml">Le avventure di Gordon Pym</a> - di Edgar Allan Poe letto da Paolo Pierobon
-
 											</p>
-
 											<p>
-
 												<a href="le-avventure-di-pinocchio.xml">Le avventure di Pinocchio</a> - di Carlo Collodi letto da Paolo Poli
-
 											</p>
-
 											<p>
-
 												<a href="le-avventure-di-tom-sawyer.xml">Le avventure di Tom Sawyer</a> - di Mark Twain letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
-												<a href="le-linee-d-ombra.xml">Le linee d&#x27;ombra</a> - di Amitav Ghosh letto da Elia Schilton
-
+												<a href="le-linee-d-ombra.xml">Le linee d'ombra</a> - di Amitav Ghosh letto da Elia Schilton
 											</p>
-
 											<p>
-
 												<a href="le-memorie-di-barry-lindon.xml">Le memorie di Barry Lindon</a> - di William Makepeace Tackeray letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="le-metamorfosi.xml">Le Metamorfosi</a> - di Ovidio lette e tradotte da Vittorio Sermonti
-
 											</p>
-
 											<p>
-
 												<a href="le-notti-bianche.xml">Le notti bianche</a> - di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti
-
 											</p>
-
 											<p>
-
 												<a href="le-piccole-virtu.xml">Le piccole virtù</a> - di Natalia Ginzburg letto da Michela Cescon
-
 											</p>
-
 											<p>
-
 												<a href="le-tigri-di-mompracem.xml">Le tigri di Mompracem</a> - di Emilio Salgari letto da Gabriele Vacis
-
 											</p>
-
 											<p>
-
 												<a href="le-voci-della-sera.xml">Le voci della sera</a> - di Natalia Ginzburg letto Sandra Toffolatti
-
 											</p>
-
 											<p>
-
 												<a href="le-voci-di-marrakech.xml">Le voci di Marrakech</a> - di Elias Canetti letto da Toni Servillo
-
 											</p>
-
 											<p>
-
 												<a href="lessico-famigliare.xml">Lessico famigliare</a> - di Natalia Ginzburg legge Anna Bonaiuto
-
 											</p>
-
 											<p>
-
 												<a href="lida-mantovani.xml">Lida Mantovani</a> - di Giorgio Bassani letto da Valentina Carnelutti
-
 											</p>
-
 											<p>
-
 												<a href="limonov.xml">Limonov </a> - di Emmanuel Carrère letto da Elio De Capitani
-
 											</p>
-
 											<p>
-
 												<a href="lo-stadio-di-wimbledon.xml">Lo stadio di Wimbledon</a> - di Daniele Del Giudice letto da Mauro Pescio
-
 											</p>
-
 											<p>
-
 												<a href="lolita.xml">Lolita</a> - Ennio Fantastichini legge Lolita di Vladimir Nabokov
-
 											</p>
-
+																						
 											<h3 id="list-m">M</h3>
-
 											<p>
-
 												<a href="ma-gli-androidi-sognano-pecore-elettriche.xml">Ma gli androidi sognano pecore elettriche?</a> - di Philip K. Dick letto da Marco Cavalcoli
-
 											</p>
-
 											<p>
-
 												<a href="madame-bovary.xml">Madame Bovary</a> - di Gustave Flaubert, letto da Elsa Algabato
-
 											</p>
-
 											<p>
-
 												<a href="martin-eden.xml">Martin Eden</a> - di Jack London letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="memorie-del-sottosuolo.xml">Memorie del sottosuolo</a> - di Fëdor Dostoevskij letto da Chiara Guidi
-
 											</p>
-
 											<p>
-
 												<a href="mephisto.xml">Mephisto</a> - Elio De Capitani legge Mephisto di Klaus Mann
-
 											</p>
-
 											<p>
-
 												<a href="metello.xml">Metello</a> - di Vasco Pratolini letto da Alessandro Benvenuti
-
 											</p>
-
 											<p>
-
 												<a href="moby-dick.xml">Moby Dick</a> - di Herman Melville letto da Piero Baldini
-
 											</p>
-
+																						
 											<h3 id="list-n">N</h3>
-
 											<p>
-
-												<a href="nemici-una-storia-d-amore.xml">Nemici, una storia d&#x27;amore</a> - di Isaac B. Singer letto da Patrizia Zappa Mulas
-
+												<a href="nemici-una-storia-d-amore.xml">Nemici, una storia d'amore</a> - di Isaac B. Singer letto da Patrizia Zappa Mulas
 											</p>
-
 											<p>
-
 												<a href="niente-di-nuovo-sul-fronte-occidentale.xml">Niente di nuovo sul fronte occidentale</a> - di Erich Maria Remarque letto da Elia Schilton
-
 											</p>
-
 											<p>
-
 												<a href="nudi-e-crudi.xml">Nudi e crudi</a> - di Alan Bennet letto da Iaia Forte
-
 											</p>
-
+																						
 											<h3 id="list-o">O</h3>
-
 											<p>
-
-												<a href="oblomov.xml">Oblomov</a> - di Ivan Aleksandrovič Gončarov letto da Paolo Bonacelli
-
-											</p>
-
-											<p>
-
 												<a href="opinioni-di-un-clown.xml">Opinioni di un clown</a> - di Henrich Böll letto da Warner Bentivegna
-
 											</p>
-
 											<p>
-
+												<a href="oblomov.xml">Oblomov</a> - di Ivan Aleksandrovič Gončarov letto da Paolo Bonacelli
+											</p>
+											<p>
 												<a href="orgoglio-e-pregiudizio.xml">Orgoglio e Pregiudizio</a> - di Jane Austen
-
 											</p>
-
 											<p>
-
 												<a href="otto-ebrei.xml">Otto ebrei</a> - di Giacomo Debenedetti letto da Moni Ovadia
-
 											</p>
-
+																						
 											<h3 id="list-p">P</h3>
-
 											<p>
-
 												<a href="padri-e-figli.xml">Padri e figli</a> - di Ivan Sergeevič Turgenev letto da Fausto Russo
-
 											</p>
-
 											<p>
-
 												<a href="passaggio-in-india.xml">Passaggio in India</a> - di Edward Morgan Forster letto da Sandro Lombardi
-
 											</p>
-
 											<p>
-
 												<a href="peter-pan.xml">Peter Pan</a> - di James M. Barrie letto da Nila Prisco
-
 											</p>
-
 											<p>
-
+												<a href="pippi-calzelunghe.xml">Pippi Calzelunghe</a> - di Astrid Lindgren letto da Valentina Carnelutti
+											</p>
+											<p>
 												<a href="prospettiva-nevskij.xml">Prospettiva Nevskij</a> - di NIkolaj Gogol letto da Maria Paiato
-
 											</p>
-
+																						
 											<h3 id="list-r">R</h3>
-
 											<p>
-
 												<a href="racconti-romani.xml">Racconti romani</a> - di Alberto Moravia letti da Valerio Aprea
-
 											</p>
-
 											<p>
-
 												<a href="ragazzi-di-vita.xml">Ragazzi di vita</a> - di Pier Paolo Pasolini letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="resurrezione.xml">Resurrezione</a> - di Lev Tolstoj letto da Manuela Mandracchia
-
 											</p>
-
 											<p>
-
 												<a href="revolutionary-road.xml">Revolutionary road</a> - di Richard Yates letto da Paola Pitagora
-
 											</p>
-
 											<p>
-
-												<a href="riflessi-in-un-occhio-d-oro.xml">Riflessi in un occhio d&#x27;oro</a> - di Carson McCullers letto da Elisabetta Piccolomini
-
+												<a href="riflessi-in-un-occhio-d-oro.xml">Riflessi in un occhio d'oro</a> - di Carson McCullers letto da Elisabetta Piccolomini
 											</p>
-
 											<p>
-
 												<a href="rinascimento-privato.xml">Rinascimento privato</a> - di Maria Bellonci letto da Elisabetta Piccolomini
-
 											</p>
-
+																						
 											<h3 id="list-s">S</h3>
-
 											<p>
-
 												<a href="se-questo-e-un-uomo.xml">Se questo è un uomo</a> - di Primo Levi letto da Valentina Carnelutti
-
 											</p>
-
 											<p>
-
 												<a href="senilita.xml">Senilità</a> - di Italo Svevo letto da Omero Antonutti
-
 											</p>
-
 											<p>
-
 												<a href="solaris.xml">Solaris</a> - di Stanisław Lem letto da Vinicio Marchioni
-
 											</p>
-
 											<p>
-
 												<a href="sorelle-materassi.xml">Sorelle Materassi</a> - di Aldo Palazzeschi letto da Paolo Poli
-
 											</p>
-
 											<p>
-
 												<a href="sostiene-pereira.xml">Sostiene Pereira</a> - di Antonio Tabucchi letto da Viola Graziosi
-
 											</p>
-
 											<p>
-
 												<a href="sotto-il-vulcano.xml">Sotto il vulcano</a> - di Malcolm Lowry letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="spia-per-scommessa.xml">Spia per scommessa</a> - di Alberto Moravia letto da Valerio Binasco
-
 											</p>
-
+																						
 											<h3 id="list-t">T</h3>
-
 											<p>
-
 												<a href="tempo-di-uccidere.xml">Tempo di uccidere</a> - di Ennio Flaiano letto da Paolo Preziosi
-
 											</p>
-
 											<p>
-
 												<a href="tre-camere-a-manhattan.xml">Tre camere a Manhattan</a> - di Georges Simenon letto da Anna Bonaiuto
-
 											</p>
-
 											<p>
-
 												<a href="tre-uomini-in-barca.xml">Tre uomini in barca</a> - di Jerome K. Jerome letto da Piero Baldini
-
 											</p>
-
+																						
 											<h3 id="list-u">U</h3>
-
 											<p>
-
 												<a href="ultimo-viene-il-corvo.xml">Ultimo viene il corvo</a> - di Italo Calvino letto da Anna Bonaiuto
-
 											</p>
-
 											<p>
-
 												<a href="un-amore-di-swann.xml">Un amore di Swann</a> - di Marcel Proust letto da Sandro Lombardi
-
 											</p>
-
 											<p>
-
-												<a href="un-anno-sull-altipiano.xml">Un anno sull&#x27;altipiano</a> - di Emilio Lussu legge Marco Paolini
-
+												<a href="un-anno-sull-altipiano.xml">Un anno sull'altipiano</a> - di Emilio Lussu legge Marco Paolini
 											</p>
-
 											<p>
-
 												<a href="una-cosa-divertente-che-non-faro-mai-piu.xml">Una cosa divertente che non farò mai più</a> - di David Foster Wallace legge Paolo Pierobon
-
 											</p>
-
 											<p>
-
-												<a href="una-notte-del-43.xml">Una notte del &#x27;43</a> - Valerio Binasco legge Giorgio Bassani
-
+												<a href="una-notte-del-43.xml">Una notte del '43</a> - di Giorgio Bassani letto da Valerio Binasco
 											</p>
-
 											<p>
-
 												<a href="una-vita-violenta.xml">Una vita violenta</a> - di Pier Paolo Pasolini letto da Massimo Popolizio
-
 											</p>
-
 											<p>
-
 												<a href="uno-studio-in-rosso.xml">Uno studio in rosso</a> - di Arthur Conan Doyle letto da Marco Cavalcoli
-
 											</p>
-
 											<p>
-
 												<a href="uno-nessuno-e-centomila.xml">Uno, nessuno e centomila</a> - di Luigi Pirandello legge Mauro Avogadro
-
 											</p>
-
 											<p>
-
 												<a href="utz.xml">Utz</a> - Lino Guanciale legge Utz di Bruce Chatwin
-
 											</p>
-
+																						
 											<h3 id="list-v">V</h3>
-
 											<p>
-
 												<a href="valentino.xml">Valentino</a> - di Natalia Ginzburg legge Michela Martini
-
 											</p>
-
 											<p>
-
-												<a href="vent-anni-dopo.xml">Vent&#x27;anni dopo</a> - Paolo Bonacelli legge il romanzo di Alexandre Dumas
-
+												<a href="vent-anni-dopo.xml">Vent'anni dopo</a> - Paolo Bonacelli legge il romanzo di Alexandre Dumas
 											</p>
-
 											<p>
-
 												<a href="ventimila-leghe-sotto-i-mari.xml">Ventimila leghe sotto i mari</a> - di Jules Verne letto da Piero Baldini
-
 											</p>
-
 											<p>
-
 												<a href="vita-di-galileo.xml">Vita di Galileo</a> - Giorgio Strehler legge Bertolt Brecht
-
 											</p>
-
 										</article>
-
 									</div>
-
 								</section>
-
-
 
 						</div>
-
 					</div>
-
-
 
 				<!-- Sidebar -->
-
 					<div id="sidebar">
-
 						<div class="inner">
 
-
-
 							<!-- Menu -->
-
 								<nav id="menu">
-
 									<ul>
-
 										<li><a href="index.html">Homepage</a></li>
-
 										<li><a href="#info">Istruzioni</a></li>
-
 										<li><a href="#list">Lista dei podcast</a></li>
-
 										<li>
-
 											<span class="opener">Titolo</span>
-
 											<ul>
-
 												<li><a href="#list-1">1</a></li>
-
 												<li><a href="#list-a">A</a></li>
-
 												<li><a href="#list-b">B</a></li>
-
 												<li><a href="#list-c">C</a></li>
-
 												<li><a href="#list-d">D</a></li>
-
 												<li><a href="#list-e">E</a></li>
-
 												<li><a href="#list-f">F</a></li>
-
 												<li><a href="#list-g">G</a></li>
-
 												<li><a href="#list-h">H</a></li>
-
 												<li><a href="#list-i">I</a></li>
-
 												<li><a href="#list-j">J</a></li>
-
 												<li><a href="#list-l">L</a></li>
-
 												<li><a href="#list-m">M</a></li>
-
 												<li><a href="#list-n">N</a></li>
-
 												<li><a href="#list-o">O</a></li>
-
 												<li><a href="#list-p">P</a></li>
-
 												<li><a href="#list-r">R</a></li>
-
 												<li><a href="#list-s">S</a></li>
-
 												<li><a href="#list-t">T</a></li>
-
 												<li><a href="#list-u">U</a></li>
-
 												<li><a href="#list-v">V</a></li>
-
 											</ul>
-
 										</li>
-
 									</ul>
-
 								</nav>
 
-
-
 							<!-- Footer -->
-
 								<footer id="footer">
-
 									<p>Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-
 								</footer>
 
-
-
 						</div>
-
 					</div>
-
-
 
 			</div>
 
-
-
 		<!-- Scripts -->
-
 			<script src="assets/js/jquery.min.js"></script>
-
 			<script src="assets/js/browser.min.js"></script>
-
 			<script src="assets/js/breakpoints.min.js"></script>
-
 			<script src="assets/js/util.js"></script>
-
 			<script src="assets/js/main.js"></script>
 
-
-
 	</body>
-
 </html>

@@ -1,62 +1,71 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Peter Pan</title>
-        <link>https://www.raiplayradio.it/playlist/2019/01/radio-3-ad-alta-voce-peter-pan-cc73ad84-6834-4b2c-b7d4-504a51596847.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/01/07/1546870727171_1546613629279_PeterPan_05a.jpg</url>
-            <title>Peter Pan</title>
-            <link>https://www.raiplayradio.it/playlist/2019/01/radio-3-ad-alta-voce-peter-pan-cc73ad84-6834-4b2c-b7d4-504a51596847.html</link>
-        </image>
-        <description>Nila Prisco legge Peter Pan nei giardini di Kensington di James Matthew Barrie. Ascolta l&#x27;audiolibro.</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:34 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Nila Prisco legge Peter Pan nei giardini di Kensington di James Matthew Barrie. Ascolta l&#x27;audiolibro.</itunes:summary>
-        <itunes:subtitle>Nila Prisco legge Peter Pan nei giardini di Kensington di James Matthew Barrie. Ascolta l&#x27;audiolibro.</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/01/07/1546870727171_1546613629279_PeterPan_05a.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:34 -0000</pubDate>
-            <item>
-                <title>#6 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-4b77c942-2992-4be2-8c51-ae157beccc1f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wssSlash7QJo8hLgAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wssSlash7QJo8hLgAeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#5 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-5-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-bf00c409-bf23-4b71-affe-1348a2055fdd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mTssSlashuma8otKseeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mTssSlashuma8otKseeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#4 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-4-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-02eee1b6-c343-45bd-a830-1218cd36342e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LH5qQrssSlashJ7pkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LH5qQrssSlashJ7pkeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#3 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-3-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-e4c295f8-77e2-4099-88a9-957c537a0afb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0xJMssSlash3ZDmxUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0xJMssSlash3ZDmxUeeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#2 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-2-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-a517a35f-6bd7-4589-9667-d0aa92321fb9.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=onbLdwssSlashB8l8eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=onbLdwssSlashB8l8eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-            <item>
-                <title>#1 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
-                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-1-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-9856b1eb-c913-4753-8944-d951238534fc.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o9ZiXGiyeL4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o9ZiXGiyeL4eeqqEEqual</guid>
-                <itunes:duration>00:30:00</itunes:duration>
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Peter Pan</title>
+        <link>https://www.raiplayradio.it/playlist/2019/01/radio-3-ad-alta-voce-peter-pan-cc73ad84-6834-4b2c-b7d4-504a51596847.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/01/07/1546870727171_1546613629279_PeterPan_05a.jpg</url>
+            <title>Peter Pan</title>
+            <link>https://www.raiplayradio.it/playlist/2019/01/radio-3-ad-alta-voce-peter-pan-cc73ad84-6834-4b2c-b7d4-504a51596847.html</link>
+        </image>
+        <description>Nila Prisco legge Peter Pan nei giardini di Kensington di James Matthew Barrie. Ascolta l'audiolibro.</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:48:15 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Nila Prisco legge Peter Pan nei giardini di Kensington di James Matthew Barrie. Ascolta l'audiolibro.</itunes:summary>
+        <itunes:subtitle>Nila Prisco legge Peter Pan nei giardini di Kensington di James Matthew Barrie. Ascolta l'audiolibro.</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/01/07/1546870727171_1546613629279_PeterPan_05a.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:48:15 -0000</pubDate>
+            <item>
+                <title>#6 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-4b77c942-2992-4be2-8c51-ae157beccc1f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wssSlash7QJo8hLgAeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wssSlash7QJo8hLgAeeqqEEqual</guid>
+                <description>#6 Peter Pan nei Giardini di Kensington di James M. Barrie</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#5 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-5-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-bf00c409-bf23-4b71-affe-1348a2055fdd.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mTssSlashuma8otKseeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mTssSlashuma8otKseeqqEEqual</guid>
+                <description>#5 Peter Pan nei Giardini di Kensington di James M. Barrie</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#4 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-4-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-02eee1b6-c343-45bd-a830-1218cd36342e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LH5qQrssSlashJ7pkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LH5qQrssSlashJ7pkeeqqEEqual</guid>
+                <description>#4 Peter Pan nei Giardini di Kensington di James M. Barrie</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#3 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-3-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-e4c295f8-77e2-4099-88a9-957c537a0afb.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0xJMssSlash3ZDmxUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0xJMssSlash3ZDmxUeeqqEEqual</guid>
+                <description>#3 Peter Pan nei Giardini di Kensington di James M. Barrie</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#2 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-2-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-a517a35f-6bd7-4589-9667-d0aa92321fb9.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=onbLdwssSlashB8l8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=onbLdwssSlashB8l8eeqqEEqual</guid>
+                <description>#2 Peter Pan nei Giardini di Kensington di James M. Barrie</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+            <item>
+                <title>#1 Peter Pan nei Giardini di Kensington di James M. Barrie</title>
+                <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE-1-Peter-Pan-nei-Giardini-di-Kensington-di-James-M-Barrie-9856b1eb-c913-4753-8944-d951238534fc.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o9ZiXGiyeL4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o9ZiXGiyeL4eeqqEEqual</guid>
+                <description>#1 Peter Pan nei Giardini di Kensington di James M. Barrie</description>
+                <itunes:duration>00:30:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

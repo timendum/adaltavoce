@@ -1,41 +1,44 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Il naso</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/Il-naso-bd69bb59-0bb5-459e-ba46-02e24873e1cf.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612333151_il-naso.jpg</url>
-            <title>Il naso</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/Il-naso-bd69bb59-0bb5-459e-ba46-02e24873e1cf.html</link>
-        </image>
-        <description>Versione integrale</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:20 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>Versione integrale</itunes:summary>
-        <itunes:subtitle>Versione integrale</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612333151_il-naso.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:20 -0000</pubDate>
-            <item>
-                <title>Il naso | Ad Alta Voce del 13/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-bca8b683-d396-48c1-9188-04fdae307242.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp3p40yED0IeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp3p40yED0IeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il naso | Ad Alta Voce del 12/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-d9a5a21b-da85-4e7f-8a84-9b53a81c36b7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VztL9pAGx8oeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VztL9pAGx8oeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>Il naso | Ad Alta Voce del 11/10/2017</title>
-                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-ee7aa45e-5b7e-44da-bd89-331f2b97c7f9.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jLcBT8nMviceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jLcBT8nMviceeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Il naso</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/Il-naso-bd69bb59-0bb5-459e-ba46-02e24873e1cf.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612333151_il-naso.jpg</url>
+            <title>Il naso</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/Il-naso-bd69bb59-0bb5-459e-ba46-02e24873e1cf.html</link>
+        </image>
+        <description>Versione integrale</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:32 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Versione integrale</itunes:summary>
+        <itunes:subtitle>Versione integrale</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612333151_il-naso.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:32 -0000</pubDate>
+            <item>
+                <title>Il naso | Ad Alta Voce del 13/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-bca8b683-d396-48c1-9188-04fdae307242.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp3p40yED0IeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp3p40yED0IeeqqEEqual</guid>
+                <description>Il naso | Ad Alta Voce del 13/10/2017</description>
+            </item>
+            <item>
+                <title>Il naso | Ad Alta Voce del 12/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-d9a5a21b-da85-4e7f-8a84-9b53a81c36b7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VztL9pAGx8oeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VztL9pAGx8oeeqqEEqual</guid>
+                <description>Il naso | Ad Alta Voce del 12/10/2017</description>
+            </item>
+            <item>
+                <title>Il naso | Ad Alta Voce del 11/10/2017</title>
+                <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-ee7aa45e-5b7e-44da-bd89-331f2b97c7f9.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jLcBT8nMviceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jLcBT8nMviceeqqEEqual</guid>
+                <description>Il naso | Ad Alta Voce del 11/10/2017</description>
+            </item>
+    </channel>
 </rss>

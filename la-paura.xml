@@ -1,41 +1,44 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>La Paura</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/La-Paura-c9365773-5e5c-4a3b-8ac0-6e6a30d79a64.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613080299_La-Paura.jpg</url>
-            <title>La Paura</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/La-Paura-c9365773-5e5c-4a3b-8ac0-6e6a30d79a64.html</link>
-        </image>
-        <description>di Federico De Roberto letto da Pierfrancesco Favino</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:24 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Federico De Roberto letto da Pierfrancesco Favino</itunes:summary>
-        <itunes:subtitle>di Federico De Roberto letto da Pierfrancesco Favino</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613080299_La-Paura.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:24 -0000</pubDate>
-            <item>
-                <title>La Paura - Ad Alta Voce del 03/09/2014</title>
-                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-03092014-e47a719f-c83e-462f-9b46-b4cf93088fd7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La Paura - Ad Alta Voce del 02/09/2014</title>
-                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-02092014-1a1e9222-1056-4890-8033-cbe56d1a99e7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XoKVmDApwBgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XoKVmDApwBgeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>La Paura - Ad Alta Voce del 01/09/2014</title>
-                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-01092014-d603f6c9-e91b-4ab8-b1e3-5b490412063b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>La Paura</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/La-Paura-c9365773-5e5c-4a3b-8ac0-6e6a30d79a64.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613080299_La-Paura.jpg</url>
+            <title>La Paura</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/La-Paura-c9365773-5e5c-4a3b-8ac0-6e6a30d79a64.html</link>
+        </image>
+        <description>di Federico De Roberto letto da Pierfrancesco Favino</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:47 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Federico De Roberto letto da Pierfrancesco Favino</itunes:summary>
+        <itunes:subtitle>di Federico De Roberto letto da Pierfrancesco Favino</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613080299_La-Paura.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:47 -0000</pubDate>
+            <item>
+                <title>La Paura - Ad Alta Voce del 03/09/2014</title>
+                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-03092014-e47a719f-c83e-462f-9b46-b4cf93088fd7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zqd2BxSRPvgeeqqEEqual</guid>
+                <description>La Paura - Ad Alta Voce del 03/09/2014</description>
+            </item>
+            <item>
+                <title>La Paura - Ad Alta Voce del 02/09/2014</title>
+                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-02092014-1a1e9222-1056-4890-8033-cbe56d1a99e7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XoKVmDApwBgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XoKVmDApwBgeeqqEEqual</guid>
+                <description>La Paura - Ad Alta Voce del 02/09/2014</description>
+            </item>
+            <item>
+                <title>La Paura - Ad Alta Voce del 01/09/2014</title>
+                <link>https://www.raiplayradio.it/audio/2014/08/La-Paura---Ad-Alta-Voce-del-01092014-d603f6c9-e91b-4ab8-b1e3-5b490412063b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4qyBTFTKxjkeeqqEEqual</guid>
+                <description>La Paura - Ad Alta Voce del 01/09/2014</description>
+            </item>
+    </channel>
 </rss>

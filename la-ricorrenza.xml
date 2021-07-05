@@ -1,27 +1,30 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>La ricorrenza</title>
-        <link>https://www.raiplayradio.it/playlist/2018/07/La-ricorrenza-465d3f6e-0451-4be7-b567-f6bc61c1801b.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531323677883_Focus%20origami%202048x1152%201280x720%20ricorrenza.png</url>
-            <title>La ricorrenza</title>
-            <link>https://www.raiplayradio.it/playlist/2018/07/La-ricorrenza-465d3f6e-0451-4be7-b567-f6bc61c1801b.html</link>
-        </image>
-        <description>di Howard Phillips Lovecraft letto da Piero Baldini</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:25 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Howard Phillips Lovecraft letto da Piero Baldini</itunes:summary>
-        <itunes:subtitle>di Howard Phillips Lovecraft letto da Piero Baldini</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531323677883_Focus%20origami%202048x1152%201280x720%20ricorrenza.png"/>
-        <pubDate>Tue, 26 May 2020 10:57:25 -0000</pubDate>
-            <item>
-                <title>La ricorrenza di Howard Phillips Lovecraft</title>
-                <link>https://www.raiplayradio.it/audio/2014/09/LA-RICORRENZA-c1b0ce4d-8a1c-4696-8326-b2d9a3b711a7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yssSlashX2aqvoZKgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yssSlashX2aqvoZKgeeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>La ricorrenza</title>
+        <link>https://www.raiplayradio.it/playlist/2018/07/La-ricorrenza-465d3f6e-0451-4be7-b567-f6bc61c1801b.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531323677883_Focus%20origami%202048x1152%201280x720%20ricorrenza.png</url>
+            <title>La ricorrenza</title>
+            <link>https://www.raiplayradio.it/playlist/2018/07/La-ricorrenza-465d3f6e-0451-4be7-b567-f6bc61c1801b.html</link>
+        </image>
+        <description>di Howard Phillips Lovecraft letto da Piero Baldini</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:50 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Howard Phillips Lovecraft letto da Piero Baldini</itunes:summary>
+        <itunes:subtitle>di Howard Phillips Lovecraft letto da Piero Baldini</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531323677883_Focus%20origami%202048x1152%201280x720%20ricorrenza.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:50 -0000</pubDate>
+            <item>
+                <title>La ricorrenza di Howard Phillips Lovecraft</title>
+                <link>https://www.raiplayradio.it/audio/2014/09/LA-RICORRENZA-c1b0ce4d-8a1c-4696-8326-b2d9a3b711a7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yssSlashX2aqvoZKgeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yssSlashX2aqvoZKgeeqqEEqual</guid>
+                <description>La ricorrenza di Howard Phillips Lovecraft</description>
+            </item>
+    </channel>
 </rss>

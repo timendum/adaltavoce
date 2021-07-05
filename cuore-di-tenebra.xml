@@ -1,93 +1,106 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Cuore di tenebra</title>
-        <link>https://www.raiplayradio.it/playlist/2018/05/Cuore-di-tenebra-78617071-d074-4905-bb39-768c93fe15a3.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585144405300_Cuore-di-tenebra.png</url>
-            <title>Cuore di tenebra</title>
-            <link>https://www.raiplayradio.it/playlist/2018/05/Cuore-di-tenebra-78617071-d074-4905-bb39-768c93fe15a3.html</link>
-        </image>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cuore di tenebra</title>
+        <link>https://www.raiplayradio.it/playlist/2018/05/Cuore-di-tenebra-78617071-d074-4905-bb39-768c93fe15a3.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585144405300_Cuore-di-tenebra.png</url>
+            <title>Cuore di tenebra</title>
+            <link>https://www.raiplayradio.it/playlist/2018/05/Cuore-di-tenebra-78617071-d074-4905-bb39-768c93fe15a3.html</link>
+        </image>
         <description>Di Joseph Conrad letto da Lino Guanciale.
-Traduzione di Ettore Capriolo - Lettura integrale in 10 puntate.</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:01 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+Traduzione di Ettore Capriolo - Lettura integrale in 10 puntate.</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:46:47 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Di Joseph Conrad letto da Lino Guanciale.
-Traduzione di Ettore Capriolo - Lettura integrale in 10 puntate.</itunes:summary>
+Traduzione di Ettore Capriolo - Lettura integrale in 10 puntate.</itunes:summary>
         <itunes:subtitle>Di Joseph Conrad letto da Lino Guanciale.
-Traduzione di Ettore Capriolo - Lettura integrale in 10 puntate.</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585144405300_Cuore-di-tenebra.png"/>
-        <pubDate>Tue, 26 May 2020 10:57:01 -0000</pubDate>
-            <item>
-                <title>#10 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-10-Cuore-di-tenebra-di-Joseph-Conrad-c9924978-770c-4fdd-a00e-b6a5d1c835eb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WssSlashArSZpFc0seeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WssSlashArSZpFc0seeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#9 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-9-Cuore-di-tenebra-di-Joseph-Conrad-ad5e5ce1-f319-48e5-bd5a-3fdcfdad2827.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tssSlash1wxPKmpPpPlussxkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tssSlash1wxPKmpPpPlussxkeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#8 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-2e8bc634-2301-4f06-95ab-9ee300303b0c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9zmnRIylzYQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9zmnRIylzYQeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#7 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-36cabec4-4dcb-4d05-a09d-d74db9a26248.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2o1rsfNAbREeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2o1rsfNAbREeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#6 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-6b056e6d-38a9-4cd5-a320-ce477f76ab7f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PAlFmYm1U3YeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PAlFmYm1U3YeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#5 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-5-Cuore-di-tenebra-di-Joseph-Conrad-e47f2e2a-ef5a-4452-a01c-3f5755c17303.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ICLauWssSlashwsBQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ICLauWssSlashwsBQeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#4 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-4f8b8332-add1-477e-a2e9-3b831edbf166.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dMEIXETUF7weeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dMEIXETUF7weeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#3 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-3-Cuore-di-tenebra-di-Joseph-Conrad--e91aeee3-4696-4df6-a075-ec0d22a4000f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YgVM6TVzmr0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YgVM6TVzmr0eeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#2 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-2-Cuore-di-tenebra-di-Joseph-Conrad--74b25c06-6f6f-4722-9ae4-d15a6d1cf29e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CS3qzG9omv4eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CS3qzG9omv4eeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#1 Cuore di tenebra di Joseph Conrad</title>
-                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-1-Cuore-di-tenebra-di-Joseph-Conrad--333b5c9b-10ea-4975-8c53-703538f53758.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=msziT7jaPfceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=msziT7jaPfceeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-    </channel>
+Traduzione di Ettore Capriolo - Lettura integrale in 10 puntate.</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585144405300_Cuore-di-tenebra.png"/>
+        <pubDate>Mon, 05 Jul 2021 09:46:47 -0000</pubDate>
+            <item>
+                <title>#10 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-10-Cuore-di-tenebra-di-Joseph-Conrad-c9924978-770c-4fdd-a00e-b6a5d1c835eb.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WssSlashArSZpFc0seeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WssSlashArSZpFc0seeqqEEqual</guid>
+                <description>#10 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#9 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-9-Cuore-di-tenebra-di-Joseph-Conrad-ad5e5ce1-f319-48e5-bd5a-3fdcfdad2827.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tssSlash1wxPKmpPpPlussxkeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tssSlash1wxPKmpPpPlussxkeeqqEEqual</guid>
+                <description>#9 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#8 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-2e8bc634-2301-4f06-95ab-9ee300303b0c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9zmnRIylzYQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9zmnRIylzYQeeqqEEqual</guid>
+                <description>#8 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#7 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-36cabec4-4dcb-4d05-a09d-d74db9a26248.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2o1rsfNAbREeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2o1rsfNAbREeeqqEEqual</guid>
+                <description>#7 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#6 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-6b056e6d-38a9-4cd5-a320-ce477f76ab7f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PAlFmYm1U3YeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PAlFmYm1U3YeeqqEEqual</guid>
+                <description>#6 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#5 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-5-Cuore-di-tenebra-di-Joseph-Conrad-e47f2e2a-ef5a-4452-a01c-3f5755c17303.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ICLauWssSlashwsBQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ICLauWssSlashwsBQeeqqEEqual</guid>
+                <description>#5 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#4 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-4f8b8332-add1-477e-a2e9-3b831edbf166.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dMEIXETUF7weeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dMEIXETUF7weeqqEEqual</guid>
+                <description>#4 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#3 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-3-Cuore-di-tenebra-di-Joseph-Conrad--e91aeee3-4696-4df6-a075-ec0d22a4000f.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YgVM6TVzmr0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YgVM6TVzmr0eeqqEEqual</guid>
+                <description>#3 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#2 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-2-Cuore-di-tenebra-di-Joseph-Conrad--74b25c06-6f6f-4722-9ae4-d15a6d1cf29e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CS3qzG9omv4eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CS3qzG9omv4eeqqEEqual</guid>
+                <description>#2 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+            <item>
+                <title>#1 Cuore di tenebra di Joseph Conrad</title>
+                <link>https://www.raiplayradio.it/audio/2018/04/AD-ALTA-VOCE-1-Cuore-di-tenebra-di-Joseph-Conrad--333b5c9b-10ea-4975-8c53-703538f53758.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=msziT7jaPfceeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=msziT7jaPfceeqqEEqual</guid>
+                <description>#1 Cuore di tenebra di Joseph Conrad</description>
+                <itunes:duration>00:25:00</itunes:duration>
+            </item>
+    </channel>
 </rss>

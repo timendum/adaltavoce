@@ -1,90 +1,93 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>I miei premi</title>
-        <link>https://www.raiplayradio.it/playlist/2017/12/I-miei-premi-f8ddd0a7-0708-4304-9906-6554af736e02.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446135677_imieipremi.jpg</url>
-            <title>I miei premi</title>
-            <link>https://www.raiplayradio.it/playlist/2017/12/I-miei-premi-f8ddd0a7-0708-4304-9906-6554af736e02.html</link>
-        </image>
-        <description>di Thomas Bernhard legge Elia Schilton</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:09 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Thomas Bernhard legge Elia Schilton</itunes:summary>
-        <itunes:subtitle>di Thomas Bernhard legge Elia Schilton</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446135677_imieipremi.jpg"/>
-        <pubDate>Tue, 26 May 2020 10:57:09 -0000</pubDate>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 01/07/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-3dcf532b-8b6f-475e-9b49-733cbacef1f8.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VKssSlashTAmssSlashttpceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VKssSlashTAmssSlashttpceeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 30/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-7a36bb5f-ba23-414d-be83-2d3a55b337ea.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CQlhfAnpPpPlussjigeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CQlhfAnpPpPlussjigeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 29/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-ddfd170a-93d4-458f-a786-a98524c444cd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fXT7aRussSlash8LUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fXT7aRussSlash8LUeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 28/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-3c0d60e8-81a2-4e6c-acdf-a6f9e06e59bb.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RairjcOyiOweeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RairjcOyiOweeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 27/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-1c35129c-31e2-4fcd-8378-46ab58b671d7.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=81kHYFn3XnIeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=81kHYFn3XnIeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 24/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c0c69682-45d0-46c7-90b3-3bfc89303c79.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rLssSlashZpzFQ3VUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rLssSlashZpzFQ3VUeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 23/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-22d0ebf8-3e5a-4fb2-95f5-9896827a7427.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=h8eOyUp0GQ0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=h8eOyUp0GQ0eeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 22/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c6aca0af-c2dc-4f94-96ae-1cb4b2ccbf6d.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nsG3FQgEuiEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nsG3FQgEuiEeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 21/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c0b82ee9-3e34-4fe4-ba98-f924fbcf7f8b.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uUK7WdPXdOQeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uUK7WdPXdOQeeqqEEqual</guid>
-                
-            </item>
-            <item>
-                <title>I miei premi | Ad Alta Voce del 20/06/2016</title>
-                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-2600383f-2855-4383-828e-1e5850162e91.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XjgLkqpVHS0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XjgLkqpVHS0eeqqEEqual</guid>
-                
-            </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>I miei premi</title>
+        <link>https://www.raiplayradio.it/playlist/2017/12/I-miei-premi-f8ddd0a7-0708-4304-9906-6554af736e02.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446135677_imieipremi.jpg</url>
+            <title>I miei premi</title>
+            <link>https://www.raiplayradio.it/playlist/2017/12/I-miei-premi-f8ddd0a7-0708-4304-9906-6554af736e02.html</link>
+        </image>
+        <description>di Thomas Bernhard legge Elia Schilton</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 09:47:06 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>di Thomas Bernhard legge Elia Schilton</itunes:summary>
+        <itunes:subtitle>di Thomas Bernhard legge Elia Schilton</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446135677_imieipremi.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 09:47:06 -0000</pubDate>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 01/07/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-3dcf532b-8b6f-475e-9b49-733cbacef1f8.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IBWoaRYpGVIbgk84ih1VAAeeqqEEqualeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IBWoaRYpGVIbgk84ih1VAAeeqqEEqualeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 01/07/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 30/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-7a36bb5f-ba23-414d-be83-2d3a55b337ea.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CQlhfAnpPpPlussjigeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CQlhfAnpPpPlussjigeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 30/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 29/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-ddfd170a-93d4-458f-a786-a98524c444cd.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fXT7aRussSlash8LUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fXT7aRussSlash8LUeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 29/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 28/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-3c0d60e8-81a2-4e6c-acdf-a6f9e06e59bb.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RairjcOyiOweeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RairjcOyiOweeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 28/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 27/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-1c35129c-31e2-4fcd-8378-46ab58b671d7.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=81kHYFn3XnIeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=81kHYFn3XnIeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 27/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 24/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c0c69682-45d0-46c7-90b3-3bfc89303c79.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rLssSlashZpzFQ3VUeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rLssSlashZpzFQ3VUeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 24/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 23/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-22d0ebf8-3e5a-4fb2-95f5-9896827a7427.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=h8eOyUp0GQ0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=h8eOyUp0GQ0eeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 23/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 22/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c6aca0af-c2dc-4f94-96ae-1cb4b2ccbf6d.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nsG3FQgEuiEeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nsG3FQgEuiEeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 22/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 21/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-c0b82ee9-3e34-4fe4-ba98-f924fbcf7f8b.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uUK7WdPXdOQeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uUK7WdPXdOQeeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 21/06/2016</description>
+            </item>
+            <item>
+                <title>I miei premi | Ad Alta Voce del 20/06/2016</title>
+                <link>https://www.raiplayradio.it/audio/2016/06/I-miei-premi-2600383f-2855-4383-828e-1e5850162e91.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XjgLkqpVHS0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XjgLkqpVHS0eeqqEEqual</guid>
+                <description>I miei premi | Ad Alta Voce del 20/06/2016</description>
+            </item>
+    </channel>
 </rss>
