@@ -9,7 +9,7 @@
         </image>
         <description>I racconti di Grace Paley</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:09 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:30 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>I racconti di Grace Paley</itunes:summary>
         <itunes:subtitle>I racconti di Grace Paley</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516180039419_I%20racconti%20di%20Grace%20Paley.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:09 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             <item>
                 <title>Da qualche altra parte</title>
                 <link>https://www.raiplayradio.it/audio/2015/02/I-racconti-di-Grace-Paley---Da-qualche-altra-parte-a54af15b-af69-4823-8bde-3e58a0da2046.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MR0KHLtdJEEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MR0KHLtdJEEeeqqEEqual</guid>
                 <description>Da qualche altra parte</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
             <item>
                 <title>Il concorso</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IMe0q2t94uYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IMe0q2t94uYeeqqEEqual</guid>
                 <description>Il concorso</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
             <item>
                 <title>Arrivederci e tanti auguri</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzssSlashismxkBmoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzssSlashismxkBmoeeqqEEqual</guid>
                 <description>Arrivederci e tanti auguri</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
     </channel>
 </rss>

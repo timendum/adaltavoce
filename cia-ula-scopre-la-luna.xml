@@ -9,7 +9,7 @@
         </image>
         <description>Luigi Pirandello letto da Vinicio Marchioni</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:42 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:00 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Luigi Pirandello letto da Vinicio Marchioni</itunes:summary>
         <itunes:subtitle>Luigi Pirandello letto da Vinicio Marchioni</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140821549_Ciaul-scopre-la-Luna.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:42 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:00 -0000</pubDate>
             <item>
                 <title>Ciàula scopre la luna</title>
                 <link>https://www.raiplayradio.it/audio/2014/10/Ciaula-scopre-la-luna-3daa712c-3ca8-489b-8cd3-1708b4b01f88.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual</guid>
                 <description>Ciàula scopre la luna</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:00 -0000</pubDate>
             </item>
     </channel>
 </rss>

@@ -1,6 +1,63 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">    <channel>        <title>Vita di Galileo</title>        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Vita-di-Galileo-dc36b08a-7a41-4ca3-ad75-ac00510b1260.html</link>        <image>            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/22/1516615357645_Vita%20di%20Galileo.jpg</url>            <title>Vita di Galileo</title>            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Vita-di-Galileo-dc36b08a-7a41-4ca3-ad75-ac00510b1260.html</link>        </image>        <description>Giorgio Strehler legge Bertolt Brecht	</description>        <language>it-it</language>        <lastBuildDate>Wed, 07 Aug 2019 14:32:44 -0000</lastBuildDate>        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>        <itunes:summary>Giorgio Strehler legge Bertolt Brecht	</itunes:summary>        <itunes:subtitle>Giorgio Strehler legge Bertolt Brecht	</itunes:subtitle>        <itunes:explicit>No</itunes:explicit>        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/22/1516615357645_Vita%20di%20Galileo.jpg"/>        <pubDate>Wed, 07 Aug 2019 14:32:44 -0000</pubDate>            <item>                <title>Vita di Galileo - Lettura I</title>
-                <description>Vita di Galileo - Lettura I</description>                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-I-741e1a7f-e1ae-4ff4-bf40-6f4545438bec.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CXXIX83cpygeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CXXIX83cpygeeqqEEqual</guid>                            </item>            <item>                <title>Vita di Galileo - Lettura II</title>
-                <description>Vita di Galileo - Lettura II</description>                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-II-131fb290-1c26-4e66-86bc-32b8fcf4604e.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1pPpPlussNtvAIGi50eeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1pPpPlussNtvAIGi50eeqqEEqual</guid>                            </item>            <item>                <title>Vita di Galileo - Lettura III</title>
-                <description>Vita di Galileo - Lettura III</description>                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-III-229eb8bc-7a9e-4077-a2f1-8f6a280e0a6c.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=E63vu5qx0I8eeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=E63vu5qx0I8eeqqEEqual</guid>                            </item>            <item>                <title>Vita di Galileo - Lettura IV</title>
-                <description>Vita di Galileo - Lettura IV</description>                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-IV-f9034dd8-d287-461a-86fb-8b2617482b3c.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ke1rBuM0LA0eeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ke1rBuM0LA0eeqqEEqual</guid>                            </item>            <item>                <title>Vita di Galileo - Lettura V</title>
-                <description>Vita di Galileo - Lettura V</description>                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-V-07cd9e20-6f2f-4cd0-9b40-abce21851837.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SnNItFpPpPlussjGr0eeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SnNItFpPpPlussjGr0eeqqEEqual</guid>                            </item>    </channel></rss>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vita di Galileo</title>
+        <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Vita-di-Galileo-dc36b08a-7a41-4ca3-ad75-ac00510b1260.html</link>
+        <image>
+            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/22/1516615357645_Vita%20di%20Galileo.jpg</url>
+            <title>Vita di Galileo</title>
+            <link>https://www.raiplayradio.it/playlist/2018/01/radio3-ad-alta-voce-Vita-di-Galileo-dc36b08a-7a41-4ca3-ad75-ac00510b1260.html</link>
+        </image>
+        <description>Giorgio Strehler legge Bertolt Brecht	</description>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 05 Jul 2021 13:45:06 -0000</lastBuildDate>
+        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
+        <itunes:summary>Giorgio Strehler legge Bertolt Brecht	</itunes:summary>
+        <itunes:subtitle>Giorgio Strehler legge Bertolt Brecht	</itunes:subtitle>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
+        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/22/1516615357645_Vita%20di%20Galileo.jpg"/>
+        <pubDate>Mon, 05 Jul 2021 13:45:06 -0000</pubDate>
+            <item>
+                <title>Vita di Galileo - Lettura I</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-I-741e1a7f-e1ae-4ff4-bf40-6f4545438bec.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CXXIX83cpygeeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CXXIX83cpygeeqqEEqual</guid>
+                <description>Vita di Galileo - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:06 -0000</pubDate>
+            </item>
+            <item>
+                <title>Vita di Galileo - Lettura II</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-II-131fb290-1c26-4e66-86bc-32b8fcf4604e.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1pPpPlussNtvAIGi50eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1pPpPlussNtvAIGi50eeqqEEqual</guid>
+                <description>Vita di Galileo - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:06 -0000</pubDate>
+            </item>
+            <item>
+                <title>Vita di Galileo - Lettura III</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-III-229eb8bc-7a9e-4077-a2f1-8f6a280e0a6c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=E63vu5qx0I8eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=E63vu5qx0I8eeqqEEqual</guid>
+                <description>Vita di Galileo - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:06 -0000</pubDate>
+            </item>
+            <item>
+                <title>Vita di Galileo - Lettura IV</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-IV-f9034dd8-d287-461a-86fb-8b2617482b3c.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ke1rBuM0LA0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ke1rBuM0LA0eeqqEEqual</guid>
+                <description>Vita di Galileo - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:06 -0000</pubDate>
+            </item>
+            <item>
+                <title>Vita di Galileo - Lettura V</title>
+                <link>https://www.raiplayradio.it/audio/2014/06/Vita-di-Galileo---Lettura-V-07cd9e20-6f2f-4cd0-9b40-abce21851837.html</link>
+                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SnNItFpPpPlussjGr0eeqqEEqual" type="audio/mpeg"/>
+                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SnNItFpPpPlussjGr0eeqqEEqual</guid>
+                <description>Vita di Galileo - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:06 -0000</pubDate>
+            </item>
+    </channel>
+</rss>

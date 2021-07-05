@@ -9,7 +9,7 @@
         </image>
         <description>di Mario Rigoni Stern letto da Valerio Binasco</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:42 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:42:59 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Mario Rigoni Stern letto da Valerio Binasco</itunes:summary>
         <itunes:subtitle>di Mario Rigoni Stern letto da Valerio Binasco</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140679128_Chissa-dov-ero-quel.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:42 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:42:59 -0000</pubDate>
             <item>
                 <title>Chissà dov'ero quel 25 aprile - Ad Alta Voce del 24/04/2015</title>
                 <link>https://www.raiplayradio.it/audio/2015/04/Chissa-dovero-quel-25-aprile---Ad-Alta-Voce-del-24042015-625e5bc3-0a9a-4e0b-9fc6-120a25d70ca7.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=41ssSlashOrUqwjb0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=41ssSlashOrUqwjb0eeqqEEqual</guid>
                 <description>Chissà dov'ero quel 25 aprile - Ad Alta Voce del 24/04/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:59 -0000</pubDate>
             </item>
     </channel>
 </rss>

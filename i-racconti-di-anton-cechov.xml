@@ -9,7 +9,7 @@
         </image>
         <description>Versione integrale</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:08 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:28 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale</itunes:summary>
         <itunes:subtitle>Versione integrale</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612550384_I-racconti-di-Anton-Cechov.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:08 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             <item>
                 <title>Grisha e il racconto del giardiniere capo</title>
                 <link>https://www.raiplayradio.it/audio/2015/03/Grisha-e-il-racconto-del-giardiniere-capo-c1973562-b646-4308-9f66-d0f8eaa24986.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fuhEKzFWStgeeqqEEqual</guid>
                 <description>Grisha e il racconto del giardiniere capo</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Dušečka</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lJ9csECOlBseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lJ9csECOlBseeqqEEqual</guid>
                 <description>Dušečka</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>La scommessa</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=psg1uy1YdlMeeqqEEqual</guid>
                 <description>La scommessa</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Il viaggiatore di prima classe</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TssSlashvq5hssSlashWutAeeqqEEqual</guid>
                 <description>Il viaggiatore di prima classe</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Il violino di Rothshild</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GiTACZsjAsUeeqqEEqual</guid>
                 <description>Il violino di Rothshild</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
     </channel>
 </rss>

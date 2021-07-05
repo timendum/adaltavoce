@@ -9,7 +9,7 @@
         </image>
         <description>di Giacomo Debenedetti letto da Moni Ovadia</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:13 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:45 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Giacomo Debenedetti letto da Moni Ovadia</itunes:summary>
         <itunes:subtitle>di Giacomo Debenedetti letto da Moni Ovadia</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/11/1531324379218_Focus%20origami%202048x1152%201280x720%20stella%20di%20david.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:13 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:45 -0000</pubDate>
             <item>
                 <title>Otto Ebrei - Lettura II</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/Otto-Ebrei---Lettura-II-729537ea-edc5-4841-8c7a-6b96f7650d0f.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6UlkDWDWCbEeeqqEEqual</guid>
                 <description>Otto Ebrei - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:45 -0000</pubDate>
             </item>
             <item>
                 <title>Otto Ebrei - Lettura I</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=16dQIQCLpj4eeqqEEqual</guid>
                 <description>Otto Ebrei - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:45 -0000</pubDate>
             </item>
     </channel>
 </rss>

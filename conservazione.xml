@@ -9,7 +9,7 @@
         </image>
         <description>Raymond Carver letto da Betti Pedrazzi</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:45 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:02 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Raymond Carver letto da Betti Pedrazzi</itunes:summary>
         <itunes:subtitle>Raymond Carver letto da Betti Pedrazzi</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585142135833_Conservazione.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:45 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:02 -0000</pubDate>
             <item>
                 <title>Conservazione | Ad Alta Voce del 23/09/2016</title>
                 <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-167eb74d-b159-44fb-978c-27bf85700d5f.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OtfYz6bHU50eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OtfYz6bHU50eeqqEEqual</guid>
                 <description>Conservazione | Ad Alta Voce del 23/09/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:02 -0000</pubDate>
             </item>
     </channel>
 </rss>

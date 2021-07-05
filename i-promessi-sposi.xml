@@ -9,7 +9,7 @@
         </image>
         <description>di Alessandro Manzoni letto da Piero Baldini, Alessandro Benvenuti, Anna Bonaiuto, Maddalena Crippa, Fabrizio Gifuni, Maria Paiato, Paola Pitagora, Lucia Poli, Paolo Poli, Massimo Popolizio.</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:07 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:27 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Alessandro Manzoni letto da Piero Baldini, Alessandro Benvenuti, Anna Bonaiuto, Maddalena Crippa, Fabrizio Gifuni, Maria Paiato, Paola Pitagora, Lucia Poli, Paolo Poli, Massimo Popolizio.</itunes:summary>
         <itunes:subtitle>di Alessandro Manzoni letto da Piero Baldini, Alessandro Benvenuti, Anna Bonaiuto, Maddalena Crippa, Fabrizio Gifuni, Maria Paiato, Paola Pitagora, Lucia Poli, Paolo Poli, Massimo Popolizio.</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612521541_ipromessisposi.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:07 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             <item>
                 <title>I promessi sposi - puntata 49</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/I-promessi-sposi---puntata-48-8b7cc4f6-6e04-4ae4-8331-a3fdc078bec1.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zpHH6JHKBi4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zpHH6JHKBi4eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 49</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 48</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uoMfIG54GyweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uoMfIG54GyweeqqEEqual</guid>
                 <description>I promessi sposi - puntata 48</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 47</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IsiELlyFQ2geeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IsiELlyFQ2geeqqEEqual</guid>
                 <description>I promessi sposi - puntata 47</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 46</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8GtGijdFFhQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8GtGijdFFhQeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 46</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 45</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=V2sjoHs08BEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=V2sjoHs08BEeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 45</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 44</title>
@@ -60,6 +65,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ad2xVpPpPlussJp2K8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ad2xVpPpPlussJp2K8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 44</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 43</title>
@@ -67,6 +73,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aSaHwUzuLbgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aSaHwUzuLbgeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 43</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 42</title>
@@ -74,6 +81,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VFSNaIWzpBAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VFSNaIWzpBAeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 42</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 41</title>
@@ -81,6 +89,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qjiAssSlasheYTChMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qjiAssSlasheYTChMeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 41</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 40</title>
@@ -88,6 +97,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0JlssSlashipTOQ04eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0JlssSlashipTOQ04eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 40</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 39</title>
@@ -95,6 +105,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RwuYSTcmYYYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RwuYSTcmYYYeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 39</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 38</title>
@@ -102,6 +113,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QkcyxQQvTF0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QkcyxQQvTF0eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 38</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 37</title>
@@ -109,6 +121,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oGc2olx3sz8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oGc2olx3sz8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 37</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 36</title>
@@ -116,6 +129,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UvTi5uuEwrEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UvTi5uuEwrEeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 36</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 35</title>
@@ -123,6 +137,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=K2tKfjcfEx8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=K2tKfjcfEx8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 35</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 34</title>
@@ -130,6 +145,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZtpJaCnLkpUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZtpJaCnLkpUeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 34</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 33</title>
@@ -137,6 +153,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wyrZTjnMupkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=wyrZTjnMupkeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 33</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 32</title>
@@ -144,6 +161,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cvTGMhM35b0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cvTGMhM35b0eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 32</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 31</title>
@@ -151,6 +169,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VQ6NpPpPlussXNPtpUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VQ6NpPpPlussXNPtpUeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 31</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 30</title>
@@ -158,6 +177,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QLNUtn6Y0s8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QLNUtn6Y0s8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 30</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 29</title>
@@ -165,6 +185,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=J6qbEHs1gFseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=J6qbEHs1gFseeqqEEqual</guid>
                 <description>I promessi sposi - puntata 29</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 28</title>
@@ -172,6 +193,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9T7PANJKaL8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9T7PANJKaL8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 28</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 27</title>
@@ -179,6 +201,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1PpWSTkqLyseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1PpWSTkqLyseeqqEEqual</guid>
                 <description>I promessi sposi - puntata 27</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 26</title>
@@ -186,6 +209,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzLlx4AF0hEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rzLlx4AF0hEeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 26</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 25</title>
@@ -193,6 +217,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ypIfgVTUiSUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ypIfgVTUiSUeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 25</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 24</title>
@@ -200,6 +225,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JuGP6zpHGN4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JuGP6zpHGN4eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 24</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 23</title>
@@ -207,6 +233,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9RWXEKqGZ28eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9RWXEKqGZ28eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 23</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 22</title>
@@ -214,6 +241,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YnOlFJ3gn0weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YnOlFJ3gn0weeqqEEqual</guid>
                 <description>I promessi sposi - puntata 22</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 21</title>
@@ -221,6 +249,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HK5uMDN8W80eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HK5uMDN8W80eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 21</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 20</title>
@@ -228,6 +257,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d3wLmdrp4G8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d3wLmdrp4G8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 20</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 19</title>
@@ -235,6 +265,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZdqnBaFRgwMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZdqnBaFRgwMeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 19</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 18</title>
@@ -242,6 +273,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XiSgo5pssSlashagceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XiSgo5pssSlashagceeqqEEqual</guid>
                 <description>I promessi sposi - puntata 18</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 17</title>
@@ -249,6 +281,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RoPoOT7txE0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RoPoOT7txE0eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 17</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 16</title>
@@ -256,6 +289,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qJpPpPlussb206O3ckeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qJpPpPlussb206O3ckeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 16</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 15</title>
@@ -263,6 +297,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7o4pPpPlussaUPslxweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7o4pPpPlussaUPslxweeqqEEqual</guid>
                 <description>I promessi sposi - puntata 15</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 14</title>
@@ -270,6 +305,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussipPpPluss77pRqVVAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussipPpPluss77pRqVVAeeqqEEqual</guid>
                 <description>I promessi sposi - puntata 14</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 13</title>
@@ -277,6 +313,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IRtkoa9S3sceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IRtkoa9S3sceeqqEEqual</guid>
                 <description>I promessi sposi - puntata 13</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 12</title>
@@ -284,6 +321,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P7viuXF9kx8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P7viuXF9kx8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 12</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi - puntata 11</title>
@@ -291,6 +329,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gBKlacHZpa8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gBKlacHZpa8eeqqEEqual</guid>
                 <description>I promessi sposi - puntata 11</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 10</title>
@@ -298,6 +337,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2dx5k4WSdLgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2dx5k4WSdLgeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 10</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 9</title>
@@ -305,6 +345,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Xp1auQVCgwAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Xp1auQVCgwAeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 9</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 8</title>
@@ -312,6 +353,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aHfTPwIU4aoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=aHfTPwIU4aoeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 8</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 7</title>
@@ -319,6 +361,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=afFTaGENh6UeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=afFTaGENh6UeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 7</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 6</title>
@@ -326,6 +369,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1hTorDrIYsEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1hTorDrIYsEeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 6</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 5</title>
@@ -333,6 +377,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lSy2VIXxTTUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lSy2VIXxTTUeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 5</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 4</title>
@@ -340,6 +385,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=588NfKTm2eweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=588NfKTm2eweeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 4</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 3</title>
@@ -347,6 +393,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LTgZTj5kUmoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LTgZTj5kUmoeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 3</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 2</title>
@@ -354,6 +401,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FSNWqM2ivB0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FSNWqM2ivB0eeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 2</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
             <item>
                 <title>I promessi sposi -  puntata 1</title>
@@ -361,6 +409,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z9M9Chv2k5UeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Z9M9Chv2k5UeeqqEEqual</guid>
                 <description>I promessi sposi -  puntata 1</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:27 -0000</pubDate>
             </item>
     </channel>
 </rss>

@@ -9,7 +9,7 @@
         </image>
         <description>Versione integrale </description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:30 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:55 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale </itunes:summary>
         <itunes:subtitle>Versione integrale </itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612259905_il-mantello.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:30 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:55 -0000</pubDate>
             <item>
                 <title>Il mantello | Ad Alta Voce del 18/10/2017</title>
                 <link>https://www.raiplayradio.it/audio/2017/09/Il-mantello--Ad-Alta-Voce-del-18102017-f37a57ca-bf4b-4555-8e1b-6d63db7d8ce5.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WSvsJpPpPlussRKcToeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WSvsJpPpPlussRKcToeeqqEEqual</guid>
                 <description>Il mantello | Ad Alta Voce del 18/10/2017</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:55 -0000</pubDate>
             </item>
             <item>
                 <title>Il mantello | Ad Alta Voce del 17/10/2017</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TWNxXOJBTegeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TWNxXOJBTegeeqqEEqual</guid>
                 <description>Il mantello | Ad Alta Voce del 17/10/2017</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:55 -0000</pubDate>
             </item>
             <item>
                 <title>Il mantello | Ad Alta Voce del 16/10/2017</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WT3SAl79wooeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WT3SAl79wooeeqqEEqual</guid>
                 <description>Il mantello | Ad Alta Voce del 16/10/2017</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:55 -0000</pubDate>
             </item>
     </channel>
 </rss>

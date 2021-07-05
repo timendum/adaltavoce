@@ -9,7 +9,7 @@
         </image>
         <description>di Ryunosuke Akutagawa letto da Elisabetta Piccolomini</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:13 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:34 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Ryunosuke Akutagawa letto da Elisabetta Piccolomini</itunes:summary>
         <itunes:subtitle>di Ryunosuke Akutagawa letto da Elisabetta Piccolomini</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612694057_I-racconti-di-Ryunosuke-Akutagawa.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:13 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:34 -0000</pubDate>
             <item>
                 <title>Il fazzoletto - Ad Alta Voce del 28/08/2015</title>
                 <link>https://www.raiplayradio.it/audio/2015/08/Il-fazzoletto---Ad-Alta-Voce-del-28082015-66a74d4c-1842-42f3-9b85-35599a1a0c38.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AGKz7Nem8kQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AGKz7Nem8kQeeqqEEqual</guid>
                 <description>Il fazzoletto - Ad Alta Voce del 28/08/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:34 -0000</pubDate>
             </item>
             <item>
                 <title>La principessa di Rokunomiya  - Ad Alta Voce del 27/08/2015</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t4hQZHlnFjMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t4hQZHlnFjMeeqqEEqual</guid>
                 <description>La principessa di Rokunomiya  - Ad Alta Voce del 27/08/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:34 -0000</pubDate>
             </item>
             <item>
                 <title>Rashomon  - Ad Alta Voce del 26/08/2015</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fvhgRItq7SYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fvhgRItq7SYeeqqEEqual</guid>
                 <description>Rashomon  - Ad Alta Voce del 26/08/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:34 -0000</pubDate>
             </item>
             <item>
                 <title>Nel bosco - Ad Alta Voce del 25/08/2015</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sRYMkSzoHtoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sRYMkSzoHtoeeqqEEqual</guid>
                 <description>Nel bosco - Ad Alta Voce del 25/08/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:34 -0000</pubDate>
             </item>
             <item>
                 <title>Il filo del ragno | Gesu’ di Nanchino - Ad Alta Voce del 24/08/2015</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=vpPpPlusspPpPlusslbNL9BYweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=vpPpPlusspPpPlusslbNL9BYweeqqEEqual</guid>
                 <description>Il filo del ragno | Gesu’ di Nanchino - Ad Alta Voce del 24/08/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:34 -0000</pubDate>
             </item>
     </channel>
 </rss>

@@ -9,7 +9,7 @@
         </image>
         <description>di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:59 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:28 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti</itunes:summary>
         <itunes:subtitle>di Fedor Michajlov Dostoevskij letto da Alessandro Benvenuti</itunes:subtitle>
@@ -18,7 +18,7 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/01/07/1546872433587_1546532717222_NottiBianche_05.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:59 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:28 -0000</pubDate>
             <item>
                 <title>#4 Le notti bianche</title>
                 <link>https://www.raiplayradio.it/audio/2018/12/AD-ALTA-VOCE---Le-notti-bianche-09572a76-874d-40a1-aad1-a20cc7b11972.html</link>
@@ -26,6 +26,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FFMpPpPlusscrXGsVweeqqEEqual</guid>
                 <description>#4 Le notti bianche</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:44:28 -0000</pubDate>
             </item>
             <item>
                 <title>#3 Le notti bianche</title>
@@ -34,6 +35,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zKpPpPlussLJaplOS0eeqqEEqual</guid>
                 <description>#3 Le notti bianche</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:44:28 -0000</pubDate>
             </item>
             <item>
                 <title>#2 Le notti bianche</title>
@@ -42,6 +44,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QDApuRpPpPlussYAbQeeqqEEqual</guid>
                 <description>#2 Le notti bianche</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:44:28 -0000</pubDate>
             </item>
             <item>
                 <title>#1 Le notti bianche</title>
@@ -50,6 +53,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LhNDAlkaVLIeeqqEEqual</guid>
                 <description>#1 Le notti bianche</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:44:28 -0000</pubDate>
             </item>
     </channel>
 </rss>

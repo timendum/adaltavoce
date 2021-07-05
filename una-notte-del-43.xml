@@ -9,7 +9,7 @@
         </image>
         <description>di Giorgio Bassani letto da Valerio Binasco</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:33 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:45:00 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Giorgio Bassani letto da Valerio Binasco</itunes:summary>
         <itunes:subtitle>di Giorgio Bassani letto da Valerio Binasco</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2021/04/23/1619167088511_Una-notte-del-43.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:33 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:45:00 -0000</pubDate>
             <item>
                 <title>Una notte del '43 - Ad Alta voce del 01/04/2016</title>
                 <link>https://www.raiplayradio.it/audio/2016/02/Una-notte-del-43---Ad-Alta-voce-del-01042016-6c26d634-fec4-4c55-98f7-581e74778a5c.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OzZhFC3UssSlashNYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OzZhFC3UssSlashNYeeqqEEqual</guid>
                 <description>Una notte del '43 - Ad Alta voce del 01/04/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:00 -0000</pubDate>
             </item>
             <item>
                 <title>Una notte del '43 - Ad Alta voce del 31/03/2016</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5vNnt51BmsQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5vNnt51BmsQeeqqEEqual</guid>
                 <description>Una notte del '43 - Ad Alta voce del 31/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:00 -0000</pubDate>
             </item>
             <item>
                 <title>Una notte del '43 - Ad Alta voce del 30/03/2016</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Wo8h1n4rGkYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Wo8h1n4rGkYeeqqEEqual</guid>
                 <description>Una notte del '43 - Ad Alta voce del 30/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:00 -0000</pubDate>
             </item>
             <item>
                 <title>Una notte del '43 - Ad Alta voce del 29/03/2016</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PjyHud0KCfAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PjyHud0KCfAeeqqEEqual</guid>
                 <description>Una notte del '43 - Ad Alta voce del 29/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:00 -0000</pubDate>
             </item>
             <item>
                 <title>Una notte del '43 - Ad Alta voce del 28/03/2016</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cHr7ucgjIgEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cHr7ucgjIgEeeqqEEqual</guid>
                 <description>Una notte del '43 - Ad Alta voce del 28/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:45:00 -0000</pubDate>
             </item>
     </channel>
 </rss>

@@ -9,7 +9,7 @@
         </image>
         <description>I racconti di Luigi Pirandello</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:12 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:33 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>I racconti di Luigi Pirandello</itunes:summary>
         <itunes:subtitle>I racconti di Luigi Pirandello</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/17/1516183321801_I%20racconti%20di%20Pirandello.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:12 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:33 -0000</pubDate>
             <item>
                 <title>Tu ridi</title>
                 <link>https://www.raiplayradio.it/audio/2014/10/Tu-ridi-5436d75d-8d5e-417c-b4b5-7eb2e8866cc1.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FqvCkGaatD8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FqvCkGaatD8eeqqEEqual</guid>
                 <description>Tu ridi</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:33 -0000</pubDate>
             </item>
             <item>
                 <title>La signora Frola</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DLMNVvcHDYceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DLMNVvcHDYceeqqEEqual</guid>
                 <description>La signora Frola</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:33 -0000</pubDate>
             </item>
             <item>
                 <title>La giara</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hHTq5J1O594eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hHTq5J1O594eeqqEEqual</guid>
                 <description>La giara</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:33 -0000</pubDate>
             </item>
             <item>
                 <title>Ciàula scopre la luna</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussQnrzIE6hbweeqqEEqual</guid>
                 <description>Ciàula scopre la luna</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:33 -0000</pubDate>
             </item>
             <item>
                 <title>La carriola</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mm09uuJUMzseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mm09uuJUMzseeqqEEqual</guid>
                 <description>La carriola</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:33 -0000</pubDate>
             </item>
     </channel>
 </rss>

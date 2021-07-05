@@ -9,7 +9,7 @@
         </image>
         <description>Per motivi legati ai diritti d'autore questo audiolibro non è più disponibile</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:55 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:13 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Per motivi legati ai diritti d'autore questo audiolibro non è più disponibile</itunes:summary>
         <itunes:subtitle>Per motivi legati ai diritti d'autore questo audiolibro non è più disponibile</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513445657586_feritoamorte.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:55 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             <item>
                 <title>Ferito a morte - Lettura XXV</title>
                 <link>https://www.raiplayradio.it/audio/2014/09/Ferito-a-morte---Lettura-XXV-31055896-8f43-4e53-9eb0-560bcbecd6ea.html</link>
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XXV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XXIV</title>
@@ -32,6 +33,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XXIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XXIII</title>
@@ -39,6 +41,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XXIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XXII</title>
@@ -46,6 +49,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XXII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XXI</title>
@@ -53,6 +57,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XXI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XX</title>
@@ -60,6 +65,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XIX</title>
@@ -67,6 +73,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XVIII</title>
@@ -74,6 +81,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XVII</title>
@@ -81,6 +89,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XVI</title>
@@ -88,6 +97,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XV</title>
@@ -95,6 +105,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XIV</title>
@@ -102,6 +113,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XIII</title>
@@ -109,6 +121,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XII</title>
@@ -116,6 +129,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura XI</title>
@@ -123,6 +137,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura XI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura X</title>
@@ -130,6 +145,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura IX</title>
@@ -137,6 +153,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura VIII</title>
@@ -144,6 +161,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura VII</title>
@@ -151,6 +169,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura VI</title>
@@ -158,6 +177,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura V</title>
@@ -165,6 +185,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura IV</title>
@@ -172,6 +193,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura III</title>
@@ -179,6 +201,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura II</title>
@@ -186,6 +209,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
             <item>
                 <title>Ferito a morte - Lettura I</title>
@@ -193,6 +217,7 @@
                 <enclosure url="https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html" type="audio/mpeg"/>
                 <guid>https://www.raiplayradio.it/playlist/2017/12/Ferito-a-morte-4ea11559-3c4e-46d5-be2f-6483702ee83d.html</guid>
                 <description>Ferito a morte - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:13 -0000</pubDate>
             </item>
     </channel>
 </rss>

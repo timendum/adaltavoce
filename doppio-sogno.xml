@@ -9,7 +9,7 @@
         </image>
         <description>di Arthur Schnitzler letto da Marco Foschi</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:51 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:09 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Arthur Schnitzler letto da Marco Foschi</itunes:summary>
         <itunes:subtitle>di Arthur Schnitzler letto da Marco Foschi</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/13/1513176428031_1321882400767MarcoFoschiArthurSchnitzler.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:51 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             <item>
                 <title>Doppio sogno - Lettura X</title>
                 <link>https://www.raiplayradio.it/audio/2014/10/Doppio-sogno---Lettura-X-f8ee92e6-62bc-479a-a904-e9d4bdcaf9c5.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rNfjQRqm3RceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rNfjQRqm3RceeqqEEqual</guid>
                 <description>Doppio sogno - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura IX</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=B2ElkhSrziUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=B2ElkhSrziUeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura VIII</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MsbfakN0ErkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MsbfakN0ErkeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura VII</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ly3BR2vhxTkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ly3BR2vhxTkeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura VI</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=idETjR0yHmkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=idETjR0yHmkeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura V</title>
@@ -60,6 +65,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cMzzaSkCDbQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cMzzaSkCDbQeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura IV</title>
@@ -67,6 +73,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fAVdKK23QFAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fAVdKK23QFAeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura III</title>
@@ -74,6 +81,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=un3ssSlashdiq1kPUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=un3ssSlashdiq1kPUeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura II</title>
@@ -81,6 +89,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HcyXMVgXubseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HcyXMVgXubseeqqEEqual</guid>
                 <description>Doppio sogno - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
             <item>
                 <title>Doppio sogno - Lettura I</title>
@@ -88,6 +97,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=E8VUY17NLpQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=E8VUY17NLpQeeqqEEqual</guid>
                 <description>Doppio sogno - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:09 -0000</pubDate>
             </item>
     </channel>
 </rss>

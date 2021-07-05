@@ -9,7 +9,7 @@
         </image>
         <description>I racconti di Alberto Moravia</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:08 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:28 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>I racconti di Alberto Moravia</itunes:summary>
         <itunes:subtitle>I racconti di Alberto Moravia</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/10/04/1570194983066_pensatore.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:08 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             <item>
                 <title>Il pensatore - 06/08/2010</title>
                 <link>https://www.raiplayradio.it/audio/2015/05/Il-pensatore---06082010-edd94478-d410-413e-a120-d90c2a56b5ab.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v5jdNpHNexAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=v5jdNpHNexAeeqqEEqual</guid>
                 <description>Il pensatore - 06/08/2010</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Impataccato - 05/08/2010</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OxBcwfKv8eIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OxBcwfKv8eIeeqqEEqual</guid>
                 <description>Impataccato - 05/08/2010</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Ladri in chiesa - 04/08/2010</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VcpBibwOTbweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VcpBibwOTbweeqqEEqual</guid>
                 <description>Ladri in chiesa - 04/08/2010</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Romolo e Remo - 03/08/2010</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dE5JSrpPpPlussTLzkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dE5JSrpPpPlussTLzkeeqqEEqual</guid>
                 <description>Romolo e Remo - 03/08/2010</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
             <item>
                 <title>Sciupone - 02/08/2010</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=K64wWMM70GceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=K64wWMM70GceeqqEEqual</guid>
                 <description>Sciupone - 02/08/2010</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:28 -0000</pubDate>
             </item>
     </channel>
 </rss>

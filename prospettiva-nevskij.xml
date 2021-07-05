@@ -9,7 +9,7 @@
         </image>
         <description>Versione integrale</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:16 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:48 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale</itunes:summary>
         <itunes:subtitle>Versione integrale</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446751192_prospettivanevskij.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:16 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             <item>
                 <title>Prospettiva Nevskij - 5</title>
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-963ba1ef-b510-40e3-aa2b-7bb3695e0526.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nOM2yTTdbXMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nOM2yTTdbXMeeqqEEqual</guid>
                 <description>Prospettiva Nevskij - 5</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
             <item>
                 <title>Prospettiva Nevskij - 4</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XGrLxNyBBt0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XGrLxNyBBt0eeqqEEqual</guid>
                 <description>Prospettiva Nevskij - 4</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
             <item>
                 <title>Prospettiva Nevskij - 3</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uujYUkKG68AeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uujYUkKG68AeeqqEEqual</guid>
                 <description>Prospettiva Nevskij - 3</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
             <item>
                 <title>Prospettiva Nevskij - 2</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zeUpPpPlussjpPpPlussSssSlashh9oeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zeUpPpPlussjpPpPlussSssSlashh9oeeqqEEqual</guid>
                 <description>Prospettiva Nevskij - 2</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
             <item>
                 <title>Prospettiva Nevskij - 1</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=97uOLpPpPlussTEDSQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=97uOLpPpPlussTEDSQeeqqEEqual</guid>
                 <description>Prospettiva Nevskij - 1</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
     </channel>
 </rss>

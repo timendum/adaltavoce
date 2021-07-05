@@ -9,7 +9,7 @@
         </image>
         <description>di Gianni Rodari letto da Manuela Mandracchia </description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:54 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:12 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Gianni Rodari letto da Manuela Mandracchia </itunes:summary>
         <itunes:subtitle>di Gianni Rodari letto da Manuela Mandracchia </itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/03/06/1520355179005_favole_al_telefono.jpeg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:54 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:12 -0000</pubDate>
             <item>
                 <title>Favole al telefono - Lettura V</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/Favole-al-telefono---Lettura-V-b188550a-61a9-433b-b5ce-123236b38247.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=3E8piT8FssSlashp8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=3E8piT8FssSlashp8eeqqEEqual</guid>
                 <description>Favole al telefono - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:12 -0000</pubDate>
             </item>
             <item>
                 <title>Favole al telefono - Lettura IV</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TLvPdQ7x654eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TLvPdQ7x654eeqqEEqual</guid>
                 <description>Favole al telefono - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:12 -0000</pubDate>
             </item>
             <item>
                 <title>Favole al telefono - Lettura III</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bBfe8h05VsUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bBfe8h05VsUeeqqEEqual</guid>
                 <description>Favole al telefono - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:12 -0000</pubDate>
             </item>
             <item>
                 <title>Favole al telefono - Lettura II</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t1lq8HWBAo8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=t1lq8HWBAo8eeqqEEqual</guid>
                 <description>Favole al telefono - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:12 -0000</pubDate>
             </item>
             <item>
                 <title>Favole al telefono - Lettura I</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EeiAH3cBytYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EeiAH3cBytYeeqqEEqual</guid>
                 <description>Favole al telefono - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:12 -0000</pubDate>
             </item>
     </channel>
 </rss>

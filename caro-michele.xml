@@ -9,7 +9,7 @@
         </image>
         <description>di Natalia Ginzburg letto da Anna Bonaiuto</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:40 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:42:57 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Natalia Ginzburg letto da Anna Bonaiuto</itunes:summary>
         <itunes:subtitle>di Natalia Ginzburg letto da Anna Bonaiuto</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585140141566_Caro-Michele.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:40 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             <item>
                 <title>Caro Michele - Lettura XV</title>
                 <link>https://www.raiplayradio.it/audio/2014/07/Caro-Michele---Lettura-XV-f5d477f4-4abe-4004-8be3-e3f8bfbec2e8.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=H1BDSeegJhceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=H1BDSeegJhceeqqEEqual</guid>
                 <description>Caro Michele - Lettura XV</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura XIV</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dUqoKS0CHF0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dUqoKS0CHF0eeqqEEqual</guid>
                 <description>Caro Michele - Lettura XIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura XIII</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8pPpPluss6tU2wTEc8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8pPpPluss6tU2wTEc8eeqqEEqual</guid>
                 <description>Caro Michele - Lettura XIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura XII</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9xcUhEssSlash8Hs4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9xcUhEssSlash8Hs4eeqqEEqual</guid>
                 <description>Caro Michele - Lettura XII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura XI</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VcZMNBrCiCUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VcZMNBrCiCUeeqqEEqual</guid>
                 <description>Caro Michele - Lettura XI</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura X</title>
@@ -60,6 +65,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zwdpPpPlussUjqCRNceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zwdpPpPlussUjqCRNceeqqEEqual</guid>
                 <description>Caro Michele - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura IX</title>
@@ -67,6 +73,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HW93W9hzyLseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HW93W9hzyLseeqqEEqual</guid>
                 <description>Caro Michele - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura VIII</title>
@@ -74,6 +81,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FIZHo25C4oQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FIZHo25C4oQeeqqEEqual</guid>
                 <description>Caro Michele - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura VII</title>
@@ -81,6 +89,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yswJ9ZtZHlceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=yswJ9ZtZHlceeqqEEqual</guid>
                 <description>Caro Michele - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura VI</title>
@@ -88,6 +97,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k9JUXA3hQoMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k9JUXA3hQoMeeqqEEqual</guid>
                 <description>Caro Michele - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura V</title>
@@ -95,6 +105,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qyl9eiHstDAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qyl9eiHstDAeeqqEEqual</guid>
                 <description>Caro Michele - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura IV</title>
@@ -102,6 +113,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XeTO7f5kWF4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=XeTO7f5kWF4eeqqEEqual</guid>
                 <description>Caro Michele - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura III</title>
@@ -109,6 +121,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CJSd1PNCN6ceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CJSd1PNCN6ceeqqEEqual</guid>
                 <description>Caro Michele - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura II</title>
@@ -116,6 +129,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FCe3JG87PsceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FCe3JG87PsceeqqEEqual</guid>
                 <description>Caro Michele - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
             <item>
                 <title>Caro Michele - Lettura I</title>
@@ -123,6 +137,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1TBC161cqXMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1TBC161cqXMeeqqEEqual</guid>
                 <description>Caro Michele - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:57 -0000</pubDate>
             </item>
     </channel>
 </rss>

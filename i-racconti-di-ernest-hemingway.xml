@@ -9,7 +9,7 @@
         </image>
         <description>di Ernest Hemingway letto da Ennio Fantastichini </description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:08 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:29 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Ernest Hemingway letto da Ennio Fantastichini </itunes:summary>
         <itunes:subtitle>di Ernest Hemingway letto da Ennio Fantastichini </itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613994415_Tutti-i-racconti-di-Ernest-Hemingway.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:08 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:29 -0000</pubDate>
             <item>
                 <title>Grande fiume dai due cuori (II)</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-II-f76d5e74-9bc8-4cad-93bd-ab6f21e3bdb8.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual</guid>
                 <description>Grande fiume dai due cuori (II)</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:29 -0000</pubDate>
             </item>
             <item>
                 <title>Grande fiume dai due cuori (I)</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual</guid>
                 <description>Grande fiume dai due cuori (I)</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:29 -0000</pubDate>
             </item>
             <item>
                 <title>Dieci indiani e Campo indiano</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2SCssSlash4orfKLseeqqEEqual</guid>
                 <description>Dieci indiani e Campo indiano</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:29 -0000</pubDate>
             </item>
             <item>
                 <title>Paesaggio con figure</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FW1WOtl7EwoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=FW1WOtl7EwoeeqqEEqual</guid>
                 <description>Paesaggio con figure</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:29 -0000</pubDate>
             </item>
             <item>
                 <title>La farfalla e il carrarmato</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d0sO8anoI5keeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=d0sO8anoI5keeqqEEqual</guid>
                 <description>La farfalla e il carrarmato</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:29 -0000</pubDate>
             </item>
     </channel>
 </rss>

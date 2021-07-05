@@ -9,7 +9,7 @@
         </image>
         <description>di Giacomo Debenedetti letto da Moni Ovadia</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:31 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:42:48 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Giacomo Debenedetti letto da Moni Ovadia</itunes:summary>
         <itunes:subtitle>di Giacomo Debenedetti letto da Moni Ovadia</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/01/14/1579014622411_16-ottobre-1943.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:31 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:42:48 -0000</pubDate>
             <item>
                 <title>#3 - 16 ottobre 1943</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/16-Ottobre-1943---Lettura-III-561ee08e-8b88-4d2b-9793-8c76d79b3637.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash0EyWCw72y4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlash0EyWCw72y4eeqqEEqual</guid>
                 <description>#3 - 16 ottobre 1943</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:48 -0000</pubDate>
             </item>
             <item>
                 <title>#2 - 16 ottobre 1943</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4tX5lC8vHssSlash0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4tX5lC8vHssSlash0eeqqEEqual</guid>
                 <description>#2 - 16 ottobre 1943</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:48 -0000</pubDate>
             </item>
             <item>
                 <title>#1 - 16 ottobre 1943</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=r6wcvhb3YtAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=r6wcvhb3YtAeeqqEEqual</guid>
                 <description>#1 - 16 ottobre 1943</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:48 -0000</pubDate>
             </item>
     </channel>
 </rss>

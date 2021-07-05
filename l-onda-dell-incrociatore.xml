@@ -1,174 +1,45 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>L&#x27;onda dell&#x27;incrociatore</title>
-        <link>https://www.raiplayradio.it/playlist/2018/07/Londa-dellincrociatore-9a650fd9-e8c7-49ca-9195-21ea5e6c0d72.html</link>
-        <image>
-            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/03/1530627249871_Focus%20origami%202048x2048%20incrociatore%203.png</url>
-            <title>L&#x27;onda dell&#x27;incrociatore</title>
-            <link>https://www.raiplayradio.it/playlist/2018/07/Londa-dellincrociatore-9a650fd9-e8c7-49ca-9195-21ea5e6c0d72.html</link>
-        </image>
-        <description>di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni</description>
-        <language>it-it</language>
-        <lastBuildDate>Tue, 26 May 2020 10:57:24 -0000</lastBuildDate>
-        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
-        <itunes:summary>di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni</itunes:summary>
-        <itunes:subtitle>di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni</itunes:subtitle>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/03/1530627249871_Focus%20origami%202048x2048%20incrociatore%203.png"/>
-        <pubDate>Tue, 26 May 2020 10:57:24 -0000</pubDate>
-            <item>
-                <title>#22 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-22-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-52b4571c-3736-4ef1-82cd-f7bde1355636.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZI2JhuxnBgceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZI2JhuxnBgceeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#21 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-21-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-c41f3be9-c2fd-4e9f-8719-24efb10637c5.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4UndpkjEwvEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4UndpkjEwvEeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#20 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-20-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-8fe7fcf6-baf3-473f-8734-1b27ed31b8fa.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bhYQ6tUsSvYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bhYQ6tUsSvYeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#19 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-19-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-c9468be2-f96c-45cf-af8b-cb6516514a21.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QpPpPluss8M9cEh1B0eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QpPpPluss8M9cEh1B0eeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#18 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-18-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-60ca09af-966b-4868-bb7e-aa6945b48069.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAK5fvO6y0YeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAK5fvO6y0YeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#17 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-17-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-d90ead6a-640b-484b-b1d4-6b55ad4b1835.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hMoT5XUZQ48eeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hMoT5XUZQ48eeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#16 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-16-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-61f798f9-c93c-446a-b426-81ede30d45d5.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KHurssSlashq140hMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KHurssSlashq140hMeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#15 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-15-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-ae2d6853-2365-4108-9df4-d519cd25c700.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WavCG9DTVBkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WavCG9DTVBkeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#14 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-14-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-126d6e4d-aa1d-4e7e-b6f9-1cdedec41c34.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i7kk8HGiO2ceeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i7kk8HGiO2ceeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#13 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-13-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-0f852f23-9351-4d76-9687-b99ec9c91438.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=g1jssSlashdECX6SYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=g1jssSlashdECX6SYeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#12 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-12-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-4b8a5748-bdd7-4b9f-9493-a6bf657a7c1e.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GYS5YeNpPpPlussy4QeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GYS5YeNpPpPlussy4QeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-            <item>
-                <title>#11 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-11-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-cb623bab-4e2f-46cc-a509-bf6da4831092.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nrf6AmRTFMIeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nrf6AmRTFMIeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#10 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-10-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-6f8f4079-4d95-48b8-ba22-794d20365362.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KThqJQyeoZgeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KThqJQyeoZgeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#9 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-9-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-90fe9e89-f291-4123-a729-84d3ce7cb626.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iz5kviyGEeAeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iz5kviyGEeAeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#8 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-8-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-4d72699d-ebcc-4d03-a268-84f63f96c8d3.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hmjssSlash4AtCcuEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hmjssSlash4AtCcuEeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#7 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-7-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-24565f04-34d7-457c-880e-6d4c3a3622cd.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tPd6thaT1YUeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tPd6thaT1YUeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#6 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-6-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-7326a2eb-77da-45fa-b3bb-4d48b23ac755.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Q8yyrhjzGMkeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Q8yyrhjzGMkeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#5 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-5-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-9de6a71d-db5b-42b6-ab10-a406696f0209.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0JxjN6vSinYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0JxjN6vSinYeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#4 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-4-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-1303d132-8c9d-4603-aa70-502520aa5747.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RYG548v2iYMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RYG548v2iYMeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#3 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-3-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-c6f9bdaf-82a9-4b2c-8bd1-c767c3d93a7c.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=x0mL3kPnzHEeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=x0mL3kPnzHEeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#2 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-2-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-771419c3-fe4b-44fc-920f-5c6afdb4e48f.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jb4zsTgmRTMeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jb4zsTgmRTMeeqqEEqual</guid>
-                <itunes:duration>00:24:00</itunes:duration>
-            </item>
-            <item>
-                <title>#1 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
-                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-f8d69179-67d2-49d9-9888-293bb8151fd3.html</link>
-                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qTuSvgAIKtYeeqqEEqual" type="audio/mpeg"/>
-                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qTuSvgAIKtYeeqqEEqual</guid>
-                <itunes:duration>00:25:00</itunes:duration>
-            </item>
-    </channel>
-</rss>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">    <channel>        <title>L&#x27;onda dell&#x27;incrociatore</title>        <link>https://www.raiplayradio.it/playlist/2018/07/Londa-dellincrociatore-9a650fd9-e8c7-49ca-9195-21ea5e6c0d72.html</link>        <image>            <url>https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/03/1530627249871_Focus%20origami%202048x2048%20incrociatore%203.png</url>            <title>L&#x27;onda dell&#x27;incrociatore</title            <link>https://www.raiplayradio.it/playlist/2018/07/Londa-dellincrociatore-9a650fd9-e8c7-49ca-9195-21ea5e6c0d72.html</link>        </image>        <description>di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni</description>        <language>it-it</language>        <lastBuildDate>Tue, 26 May 2020 10:57:24 -0000</lastBuildDate>        <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>        <itunes:summary>di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni</itunes:summary>        <itunes:subtitle>di Pier Antonio Quarantotti Gambini letto da Ferdinando Bruni</itunes:subtitle>        <itunes:explicit>No</itunes:explicit>        <itunes:category text="Art">            <itunes:category text="Books" />        </itunes:category>        <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/07/03/1530627249871_Focus%20origami%202048x2048%20incrociatore%203.png"/>        <pubDate>Tue, 26 May 2020 10:57:24 -0000</pubDate>            <item>                <title>#22 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#22 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-22-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-52b4571c-3736-4ef1-82cd-f7bde1355636.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZI2JhuxnBgceeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZI2JhuxnBgceeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#21 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#21 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-21-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-c41f3be9-c2fd-4e9f-8719-24efb10637c5.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4UndpkjEwvEeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4UndpkjEwvEeeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#20 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#20 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-20-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-8fe7fcf6-baf3-473f-8734-1b27ed31b8fa.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bhYQ6tUsSvYeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=bhYQ6tUsSvYeeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#19 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#19 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-19-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-c9468be2-f96c-45cf-af8b-cb6516514a21.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QpPpPluss8M9cEh1B0eeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QpPpPluss8M9cEh1B0eeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#18 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#18 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-18-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-60ca09af-966b-4868-bb7e-aa6945b48069.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAK5fvO6y0YeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAK5fvO6y0YeeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#17 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#17 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-17-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-d90ead6a-640b-484b-b1d4-6b55ad4b1835.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hMoT5XUZQ48eeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hMoT5XUZQ48eeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#16 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#16 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-16-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-61f798f9-c93c-446a-b426-81ede30d45d5.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KHurssSlashq140hMeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KHurssSlashq140hMeeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#15 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#15 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-15-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-ae2d6853-2365-4108-9df4-d519cd25c700.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WavCG9DTVBkeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WavCG9DTVBkeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#14 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#14 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-14-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-126d6e4d-aa1d-4e7e-b6f9-1cdedec41c34.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i7kk8HGiO2ceeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i7kk8HGiO2ceeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#13 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#13 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-13-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-0f852f23-9351-4d76-9687-b99ec9c91438.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=g1jssSlashdECX6SYeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=g1jssSlashdECX6SYeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#12 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#12 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-12-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-4b8a5748-bdd7-4b9f-9493-a6bf657a7c1e.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GYS5YeNpPpPlussy4QeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=GYS5YeNpPpPlussy4QeeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#11 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#11 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-11-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-cb623bab-4e2f-46cc-a509-bf6da4831092.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nrf6AmRTFMIeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nrf6AmRTFMIeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#10 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#10 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-10-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-6f8f4079-4d95-48b8-ba22-794d20365362.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KThqJQyeoZgeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KThqJQyeoZgeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#9 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#9 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-9-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-90fe9e89-f291-4123-a729-84d3ce7cb626.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iz5kviyGEeAeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iz5kviyGEeAeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#8 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#8 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-8-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-4d72699d-ebcc-4d03-a268-84f63f96c8d3.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hmjssSlash4AtCcuEeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hmjssSlash4AtCcuEeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#7 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#7 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-7-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-24565f04-34d7-457c-880e-6d4c3a3622cd.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tPd6thaT1YUeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tPd6thaT1YUeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#6 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#6 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/06/AD-ALTA-VOCE-6-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-7326a2eb-77da-45fa-b3bb-4d48b23ac755.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Q8yyrhjzGMkeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Q8yyrhjzGMkeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#5 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#5 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-5-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-9de6a71d-db5b-42b6-ab10-a406696f0209.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0JxjN6vSinYeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0JxjN6vSinYeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#4 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#4 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-4-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-1303d132-8c9d-4603-aa70-502520aa5747.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RYG548v2iYMeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RYG548v2iYMeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#3 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#3 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-3-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-c6f9bdaf-82a9-4b2c-8bd1-c767c3d93a7c.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=x0mL3kPnzHEeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=x0mL3kPnzHEeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#2 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#2 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-2-Laposonda-dellaposincrociatore-di-Pier-Antonio-Quarantotti-Gambini-771419c3-fe4b-44fc-920f-5c6afdb4e48f.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jb4zsTgmRTMeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Jb4zsTgmRTMeeqqEEqual</guid>                <itunes:duration>00:24:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>            <item>                <title>#1 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</title>
+                <description>#1 L&#x27;onda dell&#x27;incrociatore di Pier Antonio Quarantotti Gambini</description>                <link>https://www.raiplayradio.it/audio/2018/05/AD-ALTA-VOCE-f8d69179-67d2-49d9-9888-293bb8151fd3.html</link>                <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qTuSvgAIKtYeeqqEEqual" type="audio/mpeg"/>                <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qTuSvgAIKtYeeqqEEqual</guid>                <itunes:duration>00:25:00</itunes:duration>                <pubDate>Wed, 07 Aug 2019 14:32:09 -0000</pubDate>
+            </item>    </channel></rss>

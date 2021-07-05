@@ -9,7 +9,7 @@
         </image>
         <description>di Alberto Moravia letto da Valerio Binasco</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:27 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:55 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Alberto Moravia letto da Valerio Binasco</itunes:summary>
         <itunes:subtitle>di Alberto Moravia letto da Valerio Binasco</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446835771_spiaperscommessa.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:27 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:55 -0000</pubDate>
             <item>
                 <title>Spia per scommessa - Ad Alta Voce del 24/04/2015</title>
                 <link>https://www.raiplayradio.it/audio/2015/04/Spia-per-scommessa---Ad-Alta-Voce-del-24042015-3bafdd44-d44e-4afe-b65b-801478b16641.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=toaFU1Z0pj8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=toaFU1Z0pj8eeqqEEqual</guid>
                 <description>Spia per scommessa - Ad Alta Voce del 24/04/2015</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:55 -0000</pubDate>
             </item>
     </channel>
 </rss>

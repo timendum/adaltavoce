@@ -9,7 +9,7 @@
         </image>
         <description>di Mary Shelley letto da Tommaso Ragno</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:58 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:17 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Mary Shelley letto da Tommaso Ragno</itunes:summary>
         <itunes:subtitle>di Mary Shelley letto da Tommaso Ragno</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541610617959_frankenstein.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:58 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             <item>
                 <title>Frankenstein - Lettura XXV</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/Frankenstein---Lettura-XXV-b08e3153-bc5d-4cf1-8bb4-2d8d364dd48d.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xFC3l1yLQ7seeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xFC3l1yLQ7seeqqEEqual</guid>
                 <description>Frankenstein - Lettura XXV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XXIV</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uo6qMPGhMG4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uo6qMPGhMG4eeqqEEqual</guid>
                 <description>Frankenstein - Lettura XXIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XXIII</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZDVQpB2h7HIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZDVQpB2h7HIeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XXIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XXII</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0UbV7VPLcjgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0UbV7VPLcjgeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XXII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XXI</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ciZszvpPpPlusscZssSlashweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ciZszvpPpPlusscZssSlashweeqqEEqual</guid>
                 <description>Frankenstein - Lettura XXI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XX</title>
@@ -60,6 +65,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OD5Wt26PLRgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OD5Wt26PLRgeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XIX</title>
@@ -67,6 +73,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=C5A59i6JJ1IeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=C5A59i6JJ1IeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XVIII</title>
@@ -74,6 +81,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlashDUyfMwpPpPluss7QIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlashDUyfMwpPpPluss7QIeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XVII</title>
@@ -81,6 +89,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pLwQH8EoSg4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pLwQH8EoSg4eeqqEEqual</guid>
                 <description>Frankenstein - Lettura XVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XVI</title>
@@ -88,6 +97,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlusstS4lJfp39ceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlusstS4lJfp39ceeqqEEqual</guid>
                 <description>Frankenstein - Lettura XVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XV</title>
@@ -95,6 +105,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=089BcHCUeVkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=089BcHCUeVkeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XIV</title>
@@ -102,6 +113,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AxNurHHeevceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AxNurHHeevceeqqEEqual</guid>
                 <description>Frankenstein - Lettura XIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XIII</title>
@@ -109,6 +121,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WWNM0zNGDDEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WWNM0zNGDDEeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XII</title>
@@ -116,6 +129,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=T7gZCoBpsroeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=T7gZCoBpsroeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura XI</title>
@@ -123,6 +137,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ym1zKGx6kOUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ym1zKGx6kOUeeqqEEqual</guid>
                 <description>Frankenstein - Lettura XI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura X</title>
@@ -130,6 +145,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sYIFuDmHS18eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sYIFuDmHS18eeqqEEqual</guid>
                 <description>Frankenstein - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura IX</title>
@@ -137,6 +153,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=e4uRMStgh8weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=e4uRMStgh8weeqqEEqual</guid>
                 <description>Frankenstein - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura VIII</title>
@@ -144,6 +161,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=icCJWeT4ZskeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=icCJWeT4ZskeeqqEEqual</guid>
                 <description>Frankenstein - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura VII</title>
@@ -151,6 +169,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YimSMc635YseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YimSMc635YseeqqEEqual</guid>
                 <description>Frankenstein - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura VI</title>
@@ -158,6 +177,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6cTPMyFJuIweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=6cTPMyFJuIweeqqEEqual</guid>
                 <description>Frankenstein - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura V</title>
@@ -165,6 +185,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=erPp80WQa3oeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=erPp80WQa3oeeqqEEqual</guid>
                 <description>Frankenstein - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura IV</title>
@@ -172,6 +193,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DZpPpPlussumwsGIKEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=DZpPpPlussumwsGIKEeeqqEEqual</guid>
                 <description>Frankenstein - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura III</title>
@@ -179,6 +201,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SWtBoMnXfWIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SWtBoMnXfWIeeqqEEqual</guid>
                 <description>Frankenstein - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura II</title>
@@ -186,6 +209,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SgsTb0lCwPseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SgsTb0lCwPseeqqEEqual</guid>
                 <description>Frankenstein - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
             <item>
                 <title>Frankenstein - Lettura I</title>
@@ -193,6 +217,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uWPdbpssSlashMaLIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uWPdbpssSlashMaLIeeqqEEqual</guid>
                 <description>Frankenstein - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:17 -0000</pubDate>
             </item>
     </channel>
 </rss>

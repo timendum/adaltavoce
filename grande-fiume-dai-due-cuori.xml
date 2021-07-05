@@ -9,7 +9,7 @@
         </image>
         <description>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:01 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:20 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:summary>
         <itunes:subtitle>Ennio Fantastichini legge il romanzo di Ernest Hemingway	</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/01/16/1516089742223_Grande%20fiume%20dai%20due%20cuori.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:01 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:20 -0000</pubDate>
             <item>
                 <title>Grande fiume dai due cuori (II)</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Grande-fiume-dai-due-cuori-II-f76d5e74-9bc8-4cad-93bd-ab6f21e3bdb8.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qrbNWnknnpPpPlussweeqqEEqual</guid>
                 <description>Grande fiume dai due cuori (II)</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:20 -0000</pubDate>
             </item>
             <item>
                 <title>Grande fiume dai due cuori (I)</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=IDVie1795UEeeqqEEqual</guid>
                 <description>Grande fiume dai due cuori (I)</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:20 -0000</pubDate>
             </item>
     </channel>
 </rss>

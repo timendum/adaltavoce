@@ -9,7 +9,7 @@
         </image>
         <description>di Gianni Rodari letto da Manuela Mandracchia</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:53 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:20 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Gianni Rodari letto da Manuela Mandracchia</itunes:summary>
         <itunes:subtitle>di Gianni Rodari letto da Manuela Mandracchia</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/07/12/1562936875204_Focus%20origami%202048x1152%201280x720%20torta%20in%20cielo.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:53 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:20 -0000</pubDate>
             <item>
                 <title>La torta in cielo - Lettura V</title>
                 <link>https://www.raiplayradio.it/audio/2014/06/La-torta-in-cielo---Lettura-V-fdba1cbb-a95d-4654-856b-6adef4f2dad1.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=608ssSlashZklRqQIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=608ssSlashZklRqQIeeqqEEqual</guid>
                 <description>La torta in cielo - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:20 -0000</pubDate>
             </item>
             <item>
                 <title>La torta in cielo - Lettura IV</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EssSlashK83vIH2aEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EssSlashK83vIH2aEeeqqEEqual</guid>
                 <description>La torta in cielo - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:20 -0000</pubDate>
             </item>
             <item>
                 <title>La torta in cielo - Lettura III</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=euBVdgkAKREeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=euBVdgkAKREeeqqEEqual</guid>
                 <description>La torta in cielo - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:20 -0000</pubDate>
             </item>
             <item>
                 <title>La torta in cielo - Lettura II</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4F3GE9Q883YeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4F3GE9Q883YeeqqEEqual</guid>
                 <description>La torta in cielo - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:20 -0000</pubDate>
             </item>
             <item>
                 <title>La torta in cielo - Lettura I</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WyLEpxnUpPpPlussFMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WyLEpxnUpPpPlussFMeeqqEEqual</guid>
                 <description>La torta in cielo - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:20 -0000</pubDate>
             </item>
     </channel>
 </rss>

@@ -9,7 +9,7 @@
         </image>
         <description>di Alberto Moravia letti da Valerio Aprea</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:17 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:48 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Alberto Moravia letti da Valerio Aprea</itunes:summary>
         <itunes:subtitle>di Alberto Moravia letti da Valerio Aprea</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2017/12/16/1513446771613_raccontiromani.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:17 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             <item>
                 <title>Ladri in chiesa - Ad Alta Voce del 05/12/2014</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Ladri-in-chiesa---Ad-Alta-Voce-del-05122014-e2bb038f-8e68-4b4e-ac10-5a927ca3528e.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rhMjMg4VYUYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rhMjMg4VYUYeeqqEEqual</guid>
                 <description>Ladri in chiesa - Ad Alta Voce del 05/12/2014</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
             <item>
                 <title>Impataccato - Ad Alta Voce del 04/12/2014</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RY6KCeN6zPAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RY6KCeN6zPAeeqqEEqual</guid>
                 <description>Impataccato - Ad Alta Voce del 04/12/2014</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:48 -0000</pubDate>
             </item>
     </channel>
 </rss>

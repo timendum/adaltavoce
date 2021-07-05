@@ -9,7 +9,7 @@
         </image>
         <description>Versione integrale</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:32 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:57 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Versione integrale</itunes:summary>
         <itunes:subtitle>Versione integrale</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612333151_il-naso.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:32 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:57 -0000</pubDate>
             <item>
                 <title>Il naso | Ad Alta Voce del 13/10/2017</title>
                 <link>https://www.raiplayradio.it/audio/2017/09/La-morte-di-Ivan-Ilich--Ad-Alta-Voce-del-02102017-bca8b683-d396-48c1-9188-04fdae307242.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp3p40yED0IeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp3p40yED0IeeqqEEqual</guid>
                 <description>Il naso | Ad Alta Voce del 13/10/2017</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:57 -0000</pubDate>
             </item>
             <item>
                 <title>Il naso | Ad Alta Voce del 12/10/2017</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VztL9pAGx8oeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VztL9pAGx8oeeqqEEqual</guid>
                 <description>Il naso | Ad Alta Voce del 12/10/2017</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:57 -0000</pubDate>
             </item>
             <item>
                 <title>Il naso | Ad Alta Voce del 11/10/2017</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jLcBT8nMviceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jLcBT8nMviceeqqEEqual</guid>
                 <description>Il naso | Ad Alta Voce del 11/10/2017</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:57 -0000</pubDate>
             </item>
     </channel>
 </rss>

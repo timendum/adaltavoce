@@ -9,7 +9,7 @@
         </image>
         <description>di Alexandre Dumas letto da Paolo Bonacelli</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:14 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:35 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Alexandre Dumas letto da Paolo Bonacelli</itunes:summary>
         <itunes:subtitle>di Alexandre Dumas letto da Paolo Bonacelli</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612744548_I-tre-moschettieri.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:14 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             <item>
                 <title>I tre moschettieri - Lettura LV</title>
                 <link>https://www.raiplayradio.it/audio/2015/06/I-tre-moschettieri---Lettura-LV-b02cc954-be6f-4110-9f60-06d252fbc7f2.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CPhP3NP6iUgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CPhP3NP6iUgeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura LV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura LIV</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=27a4Wap60XUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=27a4Wap60XUeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura LIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura LIII</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mZVlsfmf2lceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=mZVlsfmf2lceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura LIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura LII</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P4zssSlash8eU1sAAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=P4zssSlash8eU1sAAeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura LII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura LI</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lRohaxXfbCEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lRohaxXfbCEeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura LI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura L</title>
@@ -60,6 +65,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=F6mkoXf5kUseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=F6mkoXf5kUseeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura L</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLIX</title>
@@ -67,6 +73,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gs2rkgDkrX0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gs2rkgDkrX0eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLVIII</title>
@@ -74,6 +81,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sjh2tgx29XseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sjh2tgx29XseeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLVII</title>
@@ -81,6 +89,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LdIkXxAbJH0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LdIkXxAbJH0eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLVI</title>
@@ -88,6 +97,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp6T0xeSu3seeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lp6T0xeSu3seeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLV</title>
@@ -95,6 +105,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Gj1RLbanOs0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Gj1RLbanOs0eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLIV</title>
@@ -102,6 +113,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Fp5pPpPluss8BpLq4weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Fp5pPpPluss8BpLq4weeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLIII</title>
@@ -109,6 +121,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7xnQcyhJTssSlash8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7xnQcyhJTssSlash8eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLII</title>
@@ -116,6 +129,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rCSq9SAHrK8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rCSq9SAHrK8eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XLI</title>
@@ -123,6 +137,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Zfe7nL5NbPUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Zfe7nL5NbPUeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XLI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XL</title>
@@ -130,6 +145,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UKcOsOyi3MkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UKcOsOyi3MkeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XL</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXIX</title>
@@ -137,6 +153,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lDOm8cU2MNQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lDOm8cU2MNQeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXVIII</title>
@@ -144,6 +161,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TH0wknwDTggeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=TH0wknwDTggeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXVII</title>
@@ -151,6 +169,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=31BD3pnsrssSlashUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=31BD3pnsrssSlashUeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXVI</title>
@@ -158,6 +177,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zWNpEilPzdUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=zWNpEilPzdUeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXV</title>
@@ -165,6 +185,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dZJ53gxsw3EeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dZJ53gxsw3EeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXIV</title>
@@ -172,6 +193,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=epPpPlussXyG0dbAjEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=epPpPlussXyG0dbAjEeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXIII</title>
@@ -179,6 +201,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uwhdNLqwd90eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uwhdNLqwd90eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXII</title>
@@ -186,6 +209,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EipyVVUszj4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EipyVVUszj4eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXXI</title>
@@ -193,6 +217,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9VxDUBQSmfkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9VxDUBQSmfkeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXXI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXX</title>
@@ -200,6 +225,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=syVHPIZr6Q8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=syVHPIZr6Q8eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXIX</title>
@@ -207,6 +233,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OsTfkPWuRPEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OsTfkPWuRPEeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXVIII</title>
@@ -214,6 +241,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OssSlashFeqh0yT88eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=OssSlashFeqh0yT88eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXVII</title>
@@ -221,6 +249,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KpPpPlussXssSlashaA7TGJ4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KpPpPlussXssSlashaA7TGJ4eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXVI</title>
@@ -228,6 +257,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CMCWOLR3aXoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CMCWOLR3aXoeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXV</title>
@@ -235,6 +265,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kI3g9dFbUVceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kI3g9dFbUVceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXIV</title>
@@ -242,6 +273,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uiMxWV4gI4weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uiMxWV4gI4weeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXIII</title>
@@ -249,6 +281,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eMpQ8tKU7pQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eMpQ8tKU7pQeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXII</title>
@@ -256,6 +289,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k4Tr5Oyq69QeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=k4Tr5Oyq69QeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XXI</title>
@@ -263,6 +297,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=D7HX7BC5vQkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=D7HX7BC5vQkeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XXI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XX</title>
@@ -270,6 +305,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=y1HRyfTyovAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=y1HRyfTyovAeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XIX</title>
@@ -277,6 +313,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RXZCqX8aLtQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RXZCqX8aLtQeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XVIII</title>
@@ -284,6 +321,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eo8I8tYtGxIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=eo8I8tYtGxIeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XVII</title>
@@ -291,6 +329,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Oh4cl9aRhfceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Oh4cl9aRhfceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XVI</title>
@@ -298,6 +337,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=H8DpWMkXYZceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=H8DpWMkXYZceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XV</title>
@@ -305,6 +345,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lhtqd3WgnyAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lhtqd3WgnyAeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XIV</title>
@@ -312,6 +353,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=r1q6TO4z1ZQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=r1q6TO4z1ZQeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XIII</title>
@@ -319,6 +361,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UO1ArcvHzBweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=UO1ArcvHzBweeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XII</title>
@@ -326,6 +369,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pGnhOdR5TogeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pGnhOdR5TogeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura XI</title>
@@ -333,6 +377,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9ScM1DvteceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9ScM1DvteceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura XI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura X</title>
@@ -340,6 +385,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=b95aQ3HIl2weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=b95aQ3HIl2weeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura IX</title>
@@ -347,6 +393,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ziY2R3vt9uceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ziY2R3vt9uceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura VIII</title>
@@ -354,6 +401,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kir3cN9SHUceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=kir3cN9SHUceeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura VII</title>
@@ -361,6 +409,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rNJpPpPlussSNaojO4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rNJpPpPlussSNaojO4eeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura VI</title>
@@ -368,6 +417,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ckACiNpPpPlussfBFAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ckACiNpPpPlussfBFAeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura V</title>
@@ -375,6 +425,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4BmIUmk2n3YeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4BmIUmk2n3YeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura IV</title>
@@ -382,6 +433,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7LpN73GG47YeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7LpN73GG47YeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura III</title>
@@ -389,6 +441,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hujMiiQ0MjAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hujMiiQ0MjAeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura II</title>
@@ -396,6 +449,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=as5UwlpPpPluss7d3weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=as5UwlpPpPluss7d3weeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
             <item>
                 <title>I tre moschettieri - Lettura I</title>
@@ -403,6 +457,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jmC2BrdAhSIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=jmC2BrdAhSIeeqqEEqual</guid>
                 <description>I tre moschettieri - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:35 -0000</pubDate>
             </item>
     </channel>
 </rss>

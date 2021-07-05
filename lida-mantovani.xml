@@ -9,7 +9,7 @@
         </image>
         <description>di Giorgio Bassani letto da Valentina Carnelutti</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:02 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:33 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Giorgio Bassani letto da Valentina Carnelutti</itunes:summary>
         <itunes:subtitle>di Giorgio Bassani letto da Valentina Carnelutti</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541613466878_Lida-Mantovani.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:02 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:33 -0000</pubDate>
             <item>
                 <title>Lida Mantovani - Ad Alta voce del 18/03/2016</title>
                 <link>https://www.raiplayradio.it/audio/2016/02/Lida-Mantovani---Ad-Alta-voce-del-18032016-5c9d8cf6-47b2-41c9-ba81-2c1b909a4385.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oipFWhYFnt4eeqqEEqual</guid>
                 <description>Lida Mantovani - Ad Alta voce del 18/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:33 -0000</pubDate>
             </item>
             <item>
                 <title>Lida Mantovani - Ad Alta voce del 17/03/2016</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G05Hmb2Z1SEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G05Hmb2Z1SEeeqqEEqual</guid>
                 <description>Lida Mantovani - Ad Alta voce del 17/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:33 -0000</pubDate>
             </item>
             <item>
                 <title>Lida Mantovani - Ad Alta voce del 16/03/2016</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=lkjUXfZ0itMeeqqEEqual</guid>
                 <description>Lida Mantovani - Ad Alta voce del 16/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:33 -0000</pubDate>
             </item>
             <item>
                 <title>Lida Mantovani - Ad Alta voce del 15/03/2016</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZAvWIbnO4L4eeqqEEqual</guid>
                 <description>Lida Mantovani - Ad Alta voce del 15/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:33 -0000</pubDate>
             </item>
             <item>
                 <title>Lida Mantovani - Ad Alta voce del 14/03/2016</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=f9gQVmLnkJQeeqqEEqual</guid>
                 <description>Lida Mantovani - Ad Alta voce del 14/03/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:33 -0000</pubDate>
             </item>
     </channel>
 </rss>

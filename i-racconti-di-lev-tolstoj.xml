@@ -9,7 +9,7 @@
         </image>
         <description>di Lev Tolstoj letto da Arturo Cirillo</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:11 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:32 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Lev Tolstoj letto da Arturo Cirillo</itunes:summary>
         <itunes:subtitle>di Lev Tolstoj letto da Arturo Cirillo</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612623506_I-racconti-di-Lev-Tolstoj.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:11 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:32 -0000</pubDate>
             <item>
                 <title>Canti al villaggio</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/I-racconti-di-Lev-Tolstoj---Lettura-V-9fc8bec2-84bc-439e-bfda-8aa710f50d97.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AhUuK8NtqBoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=AhUuK8NtqBoeeqqEEqual</guid>
                 <description>Canti al villaggio</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:32 -0000</pubDate>
             </item>
             <item>
                 <title>La buona terra</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SssSlash3mRcTpPpPlussFhIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SssSlash3mRcTpPpPlussFhIeeqqEEqual</guid>
                 <description>La buona terra</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:32 -0000</pubDate>
             </item>
             <item>
                 <title>Françoise</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fcrjRsaUAsYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fcrjRsaUAsYeeqqEEqual</guid>
                 <description>Françoise</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:32 -0000</pubDate>
             </item>
             <item>
                 <title>Il lavorante Emeljan e il tamburo vuoto</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sb4z4u0xyfIeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Sb4z4u0xyfIeeqqEEqual</guid>
                 <description>Il lavorante Emeljan e il tamburo vuoto</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:32 -0000</pubDate>
             </item>
             <item>
                 <title>Alëša Bricco</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Nonc9ssSlashCpr4geeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Nonc9ssSlashCpr4geeqqEEqual</guid>
                 <description>Alëša Bricco</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:32 -0000</pubDate>
             </item>
     </channel>
 </rss>

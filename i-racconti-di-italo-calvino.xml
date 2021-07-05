@@ -9,7 +9,7 @@
         </image>
         <description>di Italo Calvino letto da Manuela Mandracchia</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:47:10 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:30 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Italo Calvino letto da Manuela Mandracchia</itunes:summary>
         <itunes:subtitle>di Italo Calvino letto da Manuela Mandracchia</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2018/11/07/1541612573042_I-racconti-di-Italo-Calvino.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:47:10 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             <item>
                 <title>L'avventura di un poeta</title>
                 <link>https://www.raiplayradio.it/audio/2014/11/Italo-Calvino---Lettura-V-60953926-46a7-43d0-976e-9bcdbc65060a.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9CwdQZpUUfkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=9CwdQZpUUfkeeqqEEqual</guid>
                 <description>L'avventura di un poeta</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
             <item>
                 <title>L'avventura di uno sciatore</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KwS7H81QV9UeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KwS7H81QV9UeeqqEEqual</guid>
                 <description>L'avventura di uno sciatore</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
             <item>
                 <title>L'avventura di un soldato</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CcF3RtSrdr4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CcF3RtSrdr4eeqqEEqual</guid>
                 <description>L'avventura di un soldato</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
             <item>
                 <title>L'avventura di due sposi</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SZ9wAlT5CyweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SZ9wAlT5CyweeqqEEqual</guid>
                 <description>L'avventura di due sposi</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
             <item>
                 <title>L'avventura di una bagnante</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fweEsZCpPpPlussvpPpPlussEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fweEsZCpPpPlussvpPpPlussEeeqqEEqual</guid>
                 <description>L'avventura di una bagnante</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:30 -0000</pubDate>
             </item>
     </channel>
 </rss>

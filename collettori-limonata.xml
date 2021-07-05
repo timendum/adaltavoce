@@ -9,7 +9,7 @@
         </image>
         <description>Raymond Carver letto da Fausto Paravidino</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:44 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:01 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Raymond Carver letto da Fausto Paravidino</itunes:summary>
         <itunes:subtitle>Raymond Carver letto da Fausto Paravidino</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/03/25/1585141423178_Collettori-Limonata.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:44 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:01 -0000</pubDate>
             <item>
                 <title>Collettori - Limonata | Ad Alta Voce del 07/09/2016</title>
                 <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-750d5a50-ce81-4642-8d72-9f75bf7e80b4.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G94Ex0pPpPlussj2gYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=G94Ex0pPpPlussj2gYeeqqEEqual</guid>
                 <description>Collettori - Limonata | Ad Alta Voce del 07/09/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:01 -0000</pubDate>
             </item>
     </channel>
 </rss>

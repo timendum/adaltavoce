@@ -9,7 +9,7 @@
         </image>
         <description>Raymond Carver letto da Fabrizio Falco</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:48 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:43:05 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Raymond Carver letto da Fabrizio Falco</itunes:summary>
         <itunes:subtitle>Raymond Carver letto da Fabrizio Falco</itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/04/06/1586161192135_Di-alle-donne-che-usciamo.png"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:48 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:43:05 -0000</pubDate>
             <item>
                 <title>Di alle donne che usciamo - Mio | Ad Alta Voce del 14/09/2016</title>
                 <link>https://www.raiplayradio.it/audio/2016/08/Cattedrale--Ad-Alta-Voce-del-05092016-0fe89946-a004-421e-a876-cf16774ee526.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=i2U3HEaJl1EeeqqEEqual</guid>
                 <description>Di alle donne che usciamo - Mio | Ad Alta Voce del 14/09/2016</description>
+                <pubDate>Mon, 05 Jul 2021 13:43:05 -0000</pubDate>
             </item>
     </channel>
 </rss>

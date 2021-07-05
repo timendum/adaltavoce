@@ -10,7 +10,7 @@
         <description>Elsa Agalbato legge il romanzo di Guy de Maupassant
 </description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:38 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:42:55 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>Elsa Agalbato legge il romanzo di Guy de Maupassant
 </itunes:summary>
@@ -21,13 +21,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2020/02/11/1581433123562_BelAmi.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:38 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             <item>
                 <title>Bel Ami - Lettura XXI</title>
                 <link>https://www.raiplayradio.it/audio/2015/06/Bel-Ami---Lettura-XXI-da23a1ab-df1e-47f7-b250-c8c3732b8495.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZssSlash1qwlKRl0weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ZssSlash1qwlKRl0weeqqEEqual</guid>
                 <description>Bel Ami - Lettura XXI</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XX</title>
@@ -35,6 +36,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oWStJvkWjogeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=oWStJvkWjogeeqqEEqual</guid>
                 <description>Bel Ami - Lettura XX</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XIX</title>
@@ -42,6 +44,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WlvfaBf1pPpPlusswEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=WlvfaBf1pPpPlusswEeeqqEEqual</guid>
                 <description>Bel Ami - Lettura XIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XVIII</title>
@@ -49,6 +52,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ej3q84gBfBseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ej3q84gBfBseeqqEEqual</guid>
                 <description>Bel Ami - Lettura XVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XVII</title>
@@ -56,6 +60,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cUTtpKi7FGEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cUTtpKi7FGEeeqqEEqual</guid>
                 <description>Bel Ami - Lettura XVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XVI</title>
@@ -63,6 +68,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7fe7eSSV4pPpPlussceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7fe7eSSV4pPpPlussceeqqEEqual</guid>
                 <description>Bel Ami - Lettura XVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XV</title>
@@ -70,6 +76,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BMPNXnkb35MeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BMPNXnkb35MeeqqEEqual</guid>
                 <description>Bel Ami - Lettura XV</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XIV</title>
@@ -77,6 +84,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LvssSlashsmpCPOfEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LvssSlashsmpCPOfEeeqqEEqual</guid>
                 <description>Bel Ami - Lettura XIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XIII</title>
@@ -84,6 +92,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=c9lpEBuJCFweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=c9lpEBuJCFweeqqEEqual</guid>
                 <description>Bel Ami - Lettura XIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XII</title>
@@ -91,6 +100,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ytZuWaDvcD4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ytZuWaDvcD4eeqqEEqual</guid>
                 <description>Bel Ami - Lettura XII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura XI</title>
@@ -98,6 +108,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nEGKC3zpNEMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=nEGKC3zpNEMeeqqEEqual</guid>
                 <description>Bel Ami - Lettura XI</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura X</title>
@@ -105,6 +116,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uldriRdEA5keeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=uldriRdEA5keeqqEEqual</guid>
                 <description>Bel Ami - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura IX</title>
@@ -112,6 +124,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YdD7r7WeChUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YdD7r7WeChUeeqqEEqual</guid>
                 <description>Bel Ami - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura VIII</title>
@@ -119,6 +132,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dPVDJw49zK0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dPVDJw49zK0eeqqEEqual</guid>
                 <description>Bel Ami - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura VII</title>
@@ -126,6 +140,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SNFojo9UCMoeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SNFojo9UCMoeeqqEEqual</guid>
                 <description>Bel Ami - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura VI</title>
@@ -133,6 +148,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LbaZiuX1OG4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LbaZiuX1OG4eeqqEEqual</guid>
                 <description>Bel Ami - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura V</title>
@@ -140,6 +156,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iCup9i0fG5ceeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=iCup9i0fG5ceeqqEEqual</guid>
                 <description>Bel Ami - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura IV</title>
@@ -147,6 +164,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5SBwMrBgcpPpPluss0eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5SBwMrBgcpPpPluss0eeqqEEqual</guid>
                 <description>Bel Ami - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura III</title>
@@ -154,6 +172,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mkren2tMctMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mkren2tMctMeeqqEEqual</guid>
                 <description>Bel Ami - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura II</title>
@@ -161,6 +180,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JssSlashZ2bcbWHdUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=JssSlashZ2bcbWHdUeeqqEEqual</guid>
                 <description>Bel Ami - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
             <item>
                 <title>Bel Ami - Lettura I</title>
@@ -168,6 +188,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cZh2ao2W33oeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cZh2ao2W33oeeqqEEqual</guid>
                 <description>Bel Ami - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:42:55 -0000</pubDate>
             </item>
     </channel>
 </rss>

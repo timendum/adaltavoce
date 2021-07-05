@@ -9,7 +9,7 @@
         </image>
         <description>di Italo Svevo letto da Omero Antonutti </description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:48:23 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:44:52 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>di Italo Svevo letto da Omero Antonutti </itunes:summary>
         <itunes:subtitle>di Italo Svevo letto da Omero Antonutti </itunes:subtitle>
@@ -18,13 +18,14 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/11/05/1572956592709_senilita.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:48:23 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             <item>
                 <title>Senilità - Lettura XXII</title>
                 <link>https://www.raiplayradio.it/audio/2015/06/Senilita---Lettura-XXII-cc9b38c2-260c-46ee-b864-f257308f8251.html</link>
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VCrsssSlashnJavLMeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VCrsssSlashnJavLMeeqqEEqual</guid>
                 <description>Senilità - Lettura XXII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XXI</title>
@@ -32,6 +33,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=vQIZMhIQkAseeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=vQIZMhIQkAseeqqEEqual</guid>
                 <description>Senilità - Lettura XXI</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XX</title>
@@ -39,6 +41,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EAvZDGk2MyAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EAvZDGk2MyAeeqqEEqual</guid>
                 <description>Senilità - Lettura XX</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XIX</title>
@@ -46,6 +49,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MU1yr9m2vWgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=MU1yr9m2vWgeeqqEEqual</guid>
                 <description>Senilità - Lettura XIX</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XVIII</title>
@@ -53,6 +57,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8qL7jrK8sEQeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=8qL7jrK8sEQeeqqEEqual</guid>
                 <description>Senilità - Lettura XVIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XVII</title>
@@ -60,6 +65,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RvF4Q0EXZdYeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RvF4Q0EXZdYeeqqEEqual</guid>
                 <description>Senilità - Lettura XVII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XVI</title>
@@ -67,6 +73,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlusspbubXiQPjgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlusspbubXiQPjgeeqqEEqual</guid>
                 <description>Senilità - Lettura XVI</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XV</title>
@@ -74,6 +81,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cKT9cQIfgPAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cKT9cQIfgPAeeqqEEqual</guid>
                 <description>Senilità - Lettura XV</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XIV</title>
@@ -81,6 +89,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tmsDhap1BC8eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tmsDhap1BC8eeqqEEqual</guid>
                 <description>Senilità - Lettura XIV</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XIII</title>
@@ -88,6 +97,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HPIfxjm5vjweeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HPIfxjm5vjweeqqEEqual</guid>
                 <description>Senilità - Lettura XIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XII</title>
@@ -95,6 +105,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sBpWGOhmKEUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sBpWGOhmKEUeeqqEEqual</guid>
                 <description>Senilità - Lettura XII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura XI</title>
@@ -102,6 +113,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QRrgO02TVjkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=QRrgO02TVjkeeqqEEqual</guid>
                 <description>Senilità - Lettura XI</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura X</title>
@@ -109,6 +121,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4UnZrssSlashGVhPkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=4UnZrssSlashGVhPkeeqqEEqual</guid>
                 <description>Senilità - Lettura X</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura IX</title>
@@ -116,6 +129,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5tq1EeBYMCAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=5tq1EeBYMCAeeqqEEqual</guid>
                 <description>Senilità - Lettura IX</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura VIII</title>
@@ -123,6 +137,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ne7finyonfkeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ne7finyonfkeeqqEEqual</guid>
                 <description>Senilità - Lettura VIII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura VII</title>
@@ -130,6 +145,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlasht4OjiWXHzAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=ssSlasht4OjiWXHzAeeqqEEqual</guid>
                 <description>Senilità - Lettura VII</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura VI</title>
@@ -137,6 +153,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fCB8iugicm4eeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fCB8iugicm4eeqqEEqual</guid>
                 <description>Senilità - Lettura VI</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura V</title>
@@ -144,6 +161,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=71hOLpPpPlusszFTzUeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=71hOLpPpPlusszFTzUeeqqEEqual</guid>
                 <description>Senilità - Lettura V</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura IV</title>
@@ -151,6 +169,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KU63A9zlOMEeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=KU63A9zlOMEeeqqEEqual</guid>
                 <description>Senilità - Lettura IV</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura III</title>
@@ -158,6 +177,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LEDssSlash6SaNnuAeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=LEDssSlash6SaNnuAeeqqEEqual</guid>
                 <description>Senilità - Lettura III</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura II</title>
@@ -165,6 +185,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=srqZcq7EjHgeeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=srqZcq7EjHgeeqqEEqual</guid>
                 <description>Senilità - Lettura II</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
             <item>
                 <title>Senilità - Lettura I</title>
@@ -172,6 +193,7 @@
                 <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NmeTpPpPlussBJGz5weeqqEEqual" type="audio/mpeg"/>
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NmeTpPpPlussBJGz5weeqqEEqual</guid>
                 <description>Senilità - Lettura I</description>
+                <pubDate>Mon, 05 Jul 2021 13:44:52 -0000</pubDate>
             </item>
     </channel>
 </rss>

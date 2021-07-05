@@ -9,7 +9,7 @@
         </image>
         <description>&quot;Amici&quot; di Romano Bilenchi letto da Sandro Lombardi. Ascolta i podcast. | La lettura di Sandro Lombardi sceglie di rendere omaggio a uno scrittore appartato ma centrale nei percorsi letterari e civili del nostro Novecento. La sua proverbiale asciuttezza narrativa, che ha fatto scuola ad una generazione di autori italiani, è testimoniata dal breve romanzo che chiude la trilogia de Gli anni impossibili, dove il paesaggio naturale diventa il personaggio principale al pari di quello sociale. E la lettura di alcuni dei racconti di Amici ci porta nella Firenze occupata dai nazisti e la lotta clandestina a cui Bilenchi partecipa attivamente, dopo una gioventù socialista e da fascista di sinistra, e prima della sua avventura di giornalista e straordinario cronista.</description>
         <language>it-it</language>
-        <lastBuildDate>Mon, 05 Jul 2021 09:46:34 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:42:52 -0000</lastBuildDate>
         <itunes:author>Ad Alta Voce - Rai Radio 3</itunes:author>
         <itunes:summary>&quot;Amici&quot; di Romano Bilenchi letto da Sandro Lombardi. Ascolta i podcast. | La lettura di Sandro Lombardi sceglie di rendere omaggio a uno scrittore appartato ma centrale nei percorsi letterari e civili del nostro Novecento. La sua proverbiale asciuttezza narrativa, che ha fatto scuola ad una generazione di autori italiani, è testimoniata dal breve romanzo che chiude la trilogia de Gli anni impossibili, dove il paesaggio naturale diventa il personaggio principale al pari di quello sociale. E la lettura di alcuni dei racconti di Amici ci porta nella Firenze occupata dai nazisti e la lotta clandestina a cui Bilenchi partecipa attivamente, dopo una gioventù socialista e da fascista di sinistra, e prima della sua avventura di giornalista e straordinario cronista.</itunes:summary>
         <itunes:subtitle>&quot;Amici&quot; di Romano Bilenchi letto da Sandro Lombardi. Ascolta i podcast. | La lettura di Sandro Lombardi sceglie di rendere omaggio a uno scrittore appartato ma centrale nei percorsi letterari e civili del nostro Novecento. La sua proverbiale asciuttezza narrativa, che ha fatto scuola ad una generazione di autori italiani, è testimoniata dal breve romanzo che chiude la trilogia de Gli anni impossibili, dove il paesaggio naturale diventa il personaggio principale al pari di quello sociale. E la lettura di alcuni dei racconti di Amici ci porta nella Firenze occupata dai nazisti e la lotta clandestina a cui Bilenchi partecipa attivamente, dopo una gioventù socialista e da fascista di sinistra, e prima della sua avventura di giornalista e straordinario cronista.</itunes:subtitle>
@@ -18,7 +18,7 @@
             <itunes:category text="Books" />
         </itunes:category>
         <itunes:image href="https://www.raiplayradio.it/cropgd/400x400/dl/img/2019/12/24/1577198000597_Amici_Homepage_02.jpg"/>
-        <pubDate>Mon, 05 Jul 2021 09:46:34 -0000</pubDate>
+        <pubDate>Mon, 05 Jul 2021 13:42:52 -0000</pubDate>
             <item>
                 <title>#05 La pistola di Salò</title>
                 <link>https://www.raiplayradio.it/audio/2019/11/AD-ALTA-VOCE---La-pistola-di-Sal195178-c9b33394-f02a-46e8-ae66-3531c18bf23c.html</link>
@@ -26,6 +26,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=dUhpPpPlussVBpPpPluss9ZkDiSFpPpPlussNlYssSlashCaQeeqqEEqualeeqqEEqual</guid>
                 <description>#05 La pistola di Salò</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:42:52 -0000</pubDate>
             </item>
             <item>
                 <title>#04 Il giovane Linder</title>
@@ -34,6 +35,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=I78GSFAuTDPKmyg4ssSlashWVBBgeeqqEEqualeeqqEEqual</guid>
                 <description>#04 Il giovane Linder</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:42:52 -0000</pubDate>
             </item>
             <item>
                 <title>#03 Un comunista - seconda parte</title>
@@ -42,6 +44,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=RMlDRVCStSBHOp2MkFdLmgeeqqEEqualeeqqEEqual</guid>
                 <description>#03 Un comunista - seconda parte</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:42:52 -0000</pubDate>
             </item>
             <item>
                 <title>#02 Un comunista - prima parte</title>
@@ -50,6 +53,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gaoovmpAgyJUr0z9BwrF4geeqqEEqualeeqqEEqual</guid>
                 <description>#02 Un comunista - prima parte</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:42:52 -0000</pubDate>
             </item>
             <item>
                 <title>#01 L'attentato</title>
@@ -58,6 +62,7 @@
                 <guid>http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=INd4QhM9dY7bekxaQqy8HAeeqqEEqualeeqqEEqual</guid>
                 <description>#01 L'attentato</description>
                 <itunes:duration>00:30:00</itunes:duration>
+                <pubDate>Mon, 05 Jul 2021 13:42:52 -0000</pubDate>
             </item>
     </channel>
 </rss>
