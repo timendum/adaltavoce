@@ -79,15 +79,13 @@
 										<h2 id="list"> Lista dei feed</h2>
 									</header>
 									<div class="posts">
-										<article>
-										{{#index}}
+										<article>{{#index}}
 											<h3 id="list-{{letter}}">{{upper}}</h3>
-											{{#entries}}
-											<p>
+											{{#entries}}<p>
 												<a href="{{file}}">{{title}}</a> - {{text}}
 											</p>
 											{{/entries}}
-										{{/index}}
+											{{/index}}
 										</article>
 									</div>
 								</section>
@@ -107,10 +105,8 @@
 										<li><a href="#list">Lista dei podcast</a></li>
 										<li>
 											<span class="opener">Titolo</span>
-											<ul>
-											{{#index}}
-												<li><a href="#list-{{letter}}">{{upper}}</a></li>
-											{{/index}}
+											<ul>{{#index}}
+												<li><a href="#list-{{letter}}">{{upper}}</a></li>{{/index}}
 											</ul>
 										</li>
 									</ul>

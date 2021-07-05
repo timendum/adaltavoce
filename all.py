@@ -61,7 +61,7 @@ class AdAltaVoce:
         for entry in self.entries:
             letter = entry.title[0].lower()
             if letter not in index:
-                index[letter] = {"letter": letter, "upper": letter.upper, "entries": []}
+                index[letter] = {"letter": letter, "upper": letter.upper(), "entries": []}
             index[letter]["entries"].append(entry)
         # Sort entries
         for letter in index:
