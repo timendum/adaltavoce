@@ -14,6 +14,9 @@
         <itunes:summary>{{description}}</itunes:summary>
         <itunes:subtitle>{{description}}</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Art">
+            <itunes:category text="Books" />
+        </itunes:category>
         <itunes:image href="{{image}}"/>
         <pubDate>{{rss2update}}</pubDate>
         {{#entries}}
@@ -23,6 +26,7 @@
                 <enclosure url="{{mp3}}" type="audio/mpeg"/>
                 <guid>{{mp3}}</guid>
                 {{#duration}}<itunes:duration>{{.}}</itunes:duration>{{/duration}}
+                <description>{{title}}</description>
             </item>
         {{/entries}}
     </channel>
